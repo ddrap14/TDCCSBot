@@ -1,0 +1,12 @@
+{
+    "rq": 78,
+    "make": ["BMW"],
+    "model": "M4 Competition",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870102036014858250/m4_competition.png"
+}

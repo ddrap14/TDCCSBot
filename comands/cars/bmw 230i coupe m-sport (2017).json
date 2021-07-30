@@ -1,0 +1,12 @@
+{
+    "rq": 62,
+    "make": ["BMW"],
+    "model": "230i Coupe M-Sport",
+    "modelYear": 2017,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Sleeper" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101351542181898/230i_coupe.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 52,
+    "make": ["BMW"],
+    "model": "120d Urban Line 3-Door",
+    "modelYear": 2015,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Olimato"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101192334778388/120d_urban_line.png"
+}

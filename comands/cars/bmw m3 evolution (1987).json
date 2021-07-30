@@ -1,0 +1,12 @@
+{
+    "rq": 43,
+    "make": ["BMW"],
+    "model": "M3 Evolution",
+    "modelYear": 1987,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Legends" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101822629621820/m3_evo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 42,
+    "make": ["Vauxhall"],
+    "model": "Cavalier GSi 4x4",
+    "modelYear": 1993,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/868212752848683080/image0.png"
+}

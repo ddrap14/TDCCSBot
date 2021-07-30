@@ -1,0 +1,12 @@
+{
+    "rq": 54,
+    "make": ["Nissan"],
+    "model": "Maxima S",
+    "modelYear": 2009,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870065748347854928/maxs.png"
+}

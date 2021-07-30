@@ -1,0 +1,12 @@
+{
+    "rq": 41,
+    "make": ["Toyota"],
+    "model": "Camry XLE V6 Supercharged",
+    "modelYear": 2000,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870064795062247444/camryxle.png"
+}

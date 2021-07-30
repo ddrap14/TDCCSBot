@@ -1,0 +1,12 @@
+{
+    "rq": 18,
+    "make": ["BMW"],
+    "model": "3.0 CSi",
+    "modelYear": 1968,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870102810132377660/3.0_csi.png"
+}

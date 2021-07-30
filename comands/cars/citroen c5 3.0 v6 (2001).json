@@ -1,0 +1,12 @@
+{
+    "rq": 37,
+    "make": ["Citroen"],
+    "model": "C5 3.0 V6",
+    "modelYear": 2001,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870064561288527902/c5.png"
+}

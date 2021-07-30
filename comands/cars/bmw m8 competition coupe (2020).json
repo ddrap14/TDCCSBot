@@ -1,0 +1,12 @@
+{
+    "rq": 89,
+    "make": ["BMW"],
+    "model": "M8 Competition Coupe",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Luxury" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870102283038371860/m8_comp_coupe.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 70,
+    "make": ["Infiniti"],
+    "model": "G37S",
+    "modelYear": 2011,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870065283983896626/g37s_non_ani.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 27,
+    "make": ["Toyota"],
+    "model": "Avalon XLS",
+    "modelYear": 2004,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870064426634588220/avalon.png"
+}

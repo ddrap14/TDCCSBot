@@ -1,0 +1,12 @@
+{
+    "rq": 48,
+    "make": ["Alpina" , "BMW"],
+    "model": "B12 5.7 E-kat",
+    "modelYear": 1995,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Sleeper" , "ImSoupra"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/869802406966329364/Alpina_B12_5.7_E-kat.png"
+}

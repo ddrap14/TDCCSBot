@@ -1,0 +1,12 @@
+{
+    "rq": 10,
+    "make": ["Caterpillar"],
+    "model": "797B",
+    "modelYear": 2002,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Oddball" , "GAAN919"],
+    "bodyStyle": "Truck",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870173743434072094/Caterpillar_797B.png"
+}

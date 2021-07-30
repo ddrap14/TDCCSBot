@@ -1,0 +1,12 @@
+{
+    "rq": 108,
+    "make": ["McLaren"],
+    "model": "MCL32",
+    "modelYear": 2017,
+    "country": "UK",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "GAAN919"],
+    "bodyStyle": "Open Wheel",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870170350569259059/McLaren_MCL32.png"
+}

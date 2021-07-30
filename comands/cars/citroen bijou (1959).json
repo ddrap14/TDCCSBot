@@ -1,0 +1,12 @@
+{
+    "rq": 12,
+    "make": ["Citroen"],
+    "model": "Bijou",
+    "modelYear": 1959,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Childish"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/869885237109329960/image0.jpg"
+}

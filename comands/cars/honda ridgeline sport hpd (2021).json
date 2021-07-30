@@ -1,0 +1,12 @@
+{
+    "rq": 64,
+    "make": ["Honda"],
+    "model": "Ridgeline Sport HPD",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Tuner" , "ChickenMcNuggets"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870066448440107039/rideline.png"
+}

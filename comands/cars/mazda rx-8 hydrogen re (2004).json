@@ -1,0 +1,12 @@
+{
+    "rq": 23,
+    "make": ["Mazda"],
+    "model": "RX-8 Hydrogen RE",
+    "modelYear": 2004,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hydrogen",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/868225459039637504/Mazda_RX-8_Hydrogen_RE_04.png"
+}

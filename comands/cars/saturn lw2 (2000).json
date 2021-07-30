@@ -1,0 +1,12 @@
+{
+    "rq": 29,
+    "make": ["Saturn"],
+    "model": "LW2",
+    "modelYear": 2000,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "GAAN919"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870174737370869770/Saturn_LW2.png"
+}

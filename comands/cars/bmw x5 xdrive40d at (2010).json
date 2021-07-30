@@ -1,0 +1,12 @@
+{
+    "rq": 63,
+    "make": ["BMW"],
+    "model": "X5 xDrive40d AT",
+    "modelYear": 2010,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Olimato"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870102928982151168/x5_xdrive40d_at.png"
+}

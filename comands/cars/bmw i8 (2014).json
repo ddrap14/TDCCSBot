@@ -1,0 +1,12 @@
+{
+    "rq": 78,
+    "make": ["BMW"],
+    "model": "i8",
+    "modelYear": 2014,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101885489664040/i8.png"
+}

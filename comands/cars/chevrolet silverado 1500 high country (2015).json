@@ -1,0 +1,12 @@
+{
+    "rq": 60,
+    "make": ["Chevrolet"],
+    "model": "Silverado 1500 High Country",
+    "modelYear": 2015,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Crayola"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870162534781550652/Chevrolet_Silverado_High_Country_15.png"
+}

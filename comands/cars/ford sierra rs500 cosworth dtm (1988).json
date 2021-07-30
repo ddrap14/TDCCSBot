@@ -1,0 +1,12 @@
+{
+    "rq": 63,
+    "make": ["Ford"],
+    "model": "Sierra RS500 Cosworth DTM",
+    "modelYear": 1989,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Childish"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870030025309716531/image0.jpg"
+}

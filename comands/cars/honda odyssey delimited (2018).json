@@ -1,0 +1,12 @@
+{
+    "rq": 40,
+    "make": ["Honda"],
+    "model": "Odyssey Delimited",
+    "modelYear": 2018,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870066017152409661/ody_delim.png"
+}

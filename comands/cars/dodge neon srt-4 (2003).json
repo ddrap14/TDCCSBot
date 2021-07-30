@@ -1,0 +1,12 @@
+{
+    "rq": 55,
+    "make": ["Dodge"],
+    "model": "Neon SRT-4",
+    "modelYear": 2003,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Tuner" , "Olimato"],
+    "bodyStyle": "Sedam",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870147763340464169/neon_srt4.png"
+}

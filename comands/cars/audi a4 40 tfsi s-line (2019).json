@@ -1,0 +1,12 @@
+{
+    "rq": 46,
+    "make": ["Audi"],
+    "model": "A4 40 TFSI S-Line",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/869598530132664391/AudiA440TFSISline.png"
+}

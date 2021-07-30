@@ -1,0 +1,12 @@
+{
+    "rq": 57,
+    "make": ["Ferrari"],
+    "model": "512 TR",
+    "modelYear": 1991,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Retro" , "Star Cars" , "Supercar" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/393487977906438154/870039751464464504/Ferrari_512_TR_91.png"
+}

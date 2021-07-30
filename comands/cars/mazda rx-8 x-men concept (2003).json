@@ -1,0 +1,12 @@
+{
+    "rq": 42,
+    "make": ["Mazda"],
+    "model": "RX-8 X-Men Concept",
+    "modelYear": 2003,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/868220625418874900/Mazda_RX-8_X-Men_Concept_03.png"
+}

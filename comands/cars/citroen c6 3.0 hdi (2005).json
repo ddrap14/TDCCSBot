@@ -1,0 +1,12 @@
+{
+    "rq": 33,
+    "make": ["Citroen"],
+    "model": "C6 3.0 HDi",
+    "modelYear": 2005,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Luxury" , "Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870064649851248640/c6.png"
+}

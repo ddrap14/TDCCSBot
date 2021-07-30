@@ -1,0 +1,12 @@
+{
+    "rq": 41,
+    "make": ["Mazda"],
+    "model": "CX-3 Grand Touring AWD",
+    "modelYear": 2016,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Olimato"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870103286831796236/cx-3_gt.png"
+}

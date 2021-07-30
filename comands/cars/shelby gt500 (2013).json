@@ -1,0 +1,12 @@
+{
+    "rq": 32,
+    "make": ["Shelby" , "Ford"],
+    "model": "GT500",
+    "modelYear": 2013,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870192999668264990/Shelby_GT500_SVT_13.png"
+}

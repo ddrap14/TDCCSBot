@@ -1,0 +1,12 @@
+{
+    "rq": 58,
+    "make": ["BMW"],
+    "model": "Z8",
+    "modelYear": 2000,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Supercar" , "Star Cars" , "Olimato"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870102726359543859/z8.png"
+}

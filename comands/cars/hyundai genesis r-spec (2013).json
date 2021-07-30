@@ -1,0 +1,12 @@
+{
+    "rq": 68,
+    "make": ["Hyundai" , "Genesis"],
+    "model": "Genesis R-Spec",
+    "modelYear": 2013,
+    "country": "KR",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870066088828883044/r_spec.png"
+}

@@ -1,0 +1,68 @@
+{
+	"packName": "Ceramic",
+	"description": "Guaranteed to have one Super Rare!",
+	"pack": "https://cdn.discordapp.com/attachments/431224196157145100/869843766633177208/CERAMIC.png",
+	"repetition": 1,
+
+	"filter": {
+		"make": "None",
+		"modelYear": {
+			"start": 1000,
+			"end": 3000
+		},
+		"country": "None",
+		"tags": "None",
+        "driveType": "None",
+        "tyreType": "None",
+        "fuelType": "None",
+        "bodyStyle": "None"
+	},
+
+	"packSequence": [
+		{
+			"common": 0,
+			"uncommon": 95,
+			"rare": 5,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 95,
+			"rare": 5,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 79,
+			"rare": 18,
+			"superRare": 3,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 64,
+			"superRare": 33,
+			"ultraRare": 1,
+			"epic": 1,
+			"legendary": 1
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 83,
+			"ultraRare": 14,
+			"epic": 2,
+			"legendary": 1
+		}
+	]
+}

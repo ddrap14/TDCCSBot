@@ -1,0 +1,12 @@
+{
+    "rq": 105,
+    "make": ["McLaren"],
+    "model": "MP4/30",
+    "modelYear": 2015,
+    "country": "UK",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "GAAN919"],
+    "bodyStyle": "Open Wheel",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870170180939046932/McLaren_MP4-30_2.png"
+}

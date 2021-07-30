@@ -1,0 +1,12 @@
+{
+    "rq": 66,
+    "make": ["Acura" , "Honda"],
+    "model": "RDX Tech",
+    "modelYear": 2013,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870066319523991572/rdx.png"
+}

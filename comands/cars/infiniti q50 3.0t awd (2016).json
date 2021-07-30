@@ -1,0 +1,12 @@
+{
+    "rq": 72,
+    "make": ["Infiniti"],
+    "model": "Q50 3.0t AWD",
+    "modelYear": 2016,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870063904116588594/3.0tawd.png"
+}

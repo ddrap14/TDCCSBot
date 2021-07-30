@@ -1,0 +1,12 @@
+{
+    "rq": 15,
+    "make": ["BMW"],
+    "model": "1502",
+    "modelYear": 1975,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101565669802024/1502.png"
+}

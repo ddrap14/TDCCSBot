@@ -1,0 +1,12 @@
+{
+    "rq": 66,
+    "make": ["Infiniti"],
+    "model": "G35 Sport",
+    "modelYear": 2008,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870065191084240926/g35.png"
+}

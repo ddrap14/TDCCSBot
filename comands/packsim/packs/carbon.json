@@ -1,0 +1,67 @@
+{
+	"packName": "Carbon Fiber",
+	"description": "Guaranteed to have one Super Rare and one Ultra Rare!",
+	"pack": "https://cdn.discordapp.com/attachments/431224196157145100/869843766633177208/CERAMIC.png",
+	"repetition": 1,
+
+	"filter": {
+		"make": "None",
+		"modelYear": {
+			"start": 1000,
+			"end": 3000
+		},
+		"country": "None",
+		"tags": "None",
+        "driveType": "None",
+        "fuelType": "None",
+        "bodyStyle": "None"
+	},
+
+	"packSequence": [
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 98,
+			"superRare": 2,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 95,
+			"superRare": 5,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 90,
+			"superRare": 10,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 89,
+			"ultraRare": 7,
+			"epic": 3,
+			"legendary": 1
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 80,
+			"epic": 18,
+			"legendary": 2
+		}
+	]
+}

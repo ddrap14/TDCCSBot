@@ -1,0 +1,12 @@
+{
+    "rq": 38,
+    "make": ["BMW"],
+    "model": "M635 CSi",
+    "modelYear": 1984,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870102363623538728/M635_CSi.png"
+}

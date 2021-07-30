@@ -1,0 +1,12 @@
+{
+    "rq": 73,
+    "make": ["BMW"],
+    "model": "Z4 M40i First Edition",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Olimato"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870103047169269840/z4_m40i.png"
+}

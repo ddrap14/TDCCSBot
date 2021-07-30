@@ -1,0 +1,12 @@
+{
+    "rq": 74,
+    "make": ["BMW"],
+    "model": "M2 Competition",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Olimato"],
+    "bodyStyle": "RWD",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101750110105640/m2_comp.png"
+}

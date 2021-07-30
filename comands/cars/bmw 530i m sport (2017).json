@@ -1,0 +1,12 @@
+{
+    "rq": 57,
+    "make": ["BMW"],
+    "model": "530i M Sport",
+    "modelYear": 2017,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Awaffle"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/869387912217788416/bmw530imsport17.png"
+}

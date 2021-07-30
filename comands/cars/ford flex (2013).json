@@ -1,0 +1,12 @@
+{
+    "rq": 43,
+    "make": ["Ford"],
+    "model": "Flex",
+    "modelYear": 2013,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Oddball" , "ChickenMcNuggets"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870064941208596500/fles_se.png"
+}

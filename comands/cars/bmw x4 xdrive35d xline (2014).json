@@ -1,0 +1,12 @@
+{
+    "rq": 64,
+    "make": ["BMW"],
+    "model": "X4 xDrive35d xLine",
+    "modelYear": 2014,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Luxury" , "Olimato"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870102187387281458/X4_xDrive35d_xLine.png"
+}

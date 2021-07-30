@@ -1,0 +1,12 @@
+{
+    "rq": 29,
+    "make": ["Mitsubishi"],
+    "model": "Galant GTZ",
+    "modelYear": 1999,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870066781685968896/mtiuse.png"
+}

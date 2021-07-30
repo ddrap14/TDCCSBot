@@ -1,0 +1,12 @@
+{
+    "rq": 48,
+    "make": ["Dodge"],
+    "model": "Journey R/T",
+    "modelYear": 2011,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870065611735187496/journey.png"
+}
