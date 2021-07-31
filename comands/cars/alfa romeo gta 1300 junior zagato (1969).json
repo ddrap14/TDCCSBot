@@ -1,0 +1,12 @@
+{
+    "rq": 12,
+    "make": ["Alfa Romeo" , "Zagato"],
+    "model": "GTA 1300 Junior Zagato",
+    "modelYear": 1969,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871001450015232030/AlfaRomeoGT1300JuniorZagato1969_12.png"
+}

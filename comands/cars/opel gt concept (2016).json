@@ -1,0 +1,12 @@
+{
+    "rq": 34,
+    "make": ["Opel"],
+    "model": "GT Concept",
+    "modelYear": 2016,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/867368743062470676/Opel_GT_Concept_16.png"
+}

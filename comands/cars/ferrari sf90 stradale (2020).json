@@ -1,0 +1,12 @@
+{
+    "rq": 100,
+    "make": ["Ferrari"],
+    "model": "SF90 Stradale",
+    "modelYear": 2020,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866860048705650698/Ferrari_SF90_Stradale.png"
+}

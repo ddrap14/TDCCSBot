@@ -1,0 +1,12 @@
+{
+    "rq": 97,
+    "make": ["Lamborghini"],
+    "model": "Aventador SVJ LP770-4",
+    "modelYear": 2018,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870749917872799744/aventadorSVJ.png"
+}

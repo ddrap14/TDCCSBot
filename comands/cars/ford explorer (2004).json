@@ -1,0 +1,12 @@
+{
+    "rq": 39,
+    "make": ["Ford"],
+    "model": "Explorer",
+    "modelYear": 2004,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Crayola"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/867653324152766515/Ford_Explorer_3rd_gen_U152_04_2.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 77,
+    "make": ["Aston Martin"],
+    "model": "V12 Vantage S Roadster",
+    "modelYear": 2014,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Luxury" , "Corentin"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866774454888300594/V12_Vantage_S_Roadster_2014.png"
+}

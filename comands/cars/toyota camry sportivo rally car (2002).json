@@ -1,0 +1,12 @@
+{
+    "rq": 49,
+    "make": ["Toyota"],
+    "model": "Camry Sportivo Rally Car",
+    "modelYear": 2002,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Motorsport" , "Offroad" , "Crayola"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866920684235128862/Toyota_Camry_Sportivo_Rally_Car_02.png"
+}

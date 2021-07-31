@@ -1,0 +1,12 @@
+{
+    "rq": 70,
+    "make": ["Peugeot"],
+    "model": "508 PSE",
+    "modelYear": 2020,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Corentin"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866775099964784660/508_PSE_Sedan.png"
+}

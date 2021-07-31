@@ -1,0 +1,12 @@
+{
+    "rq": 57,
+    "make": ["RAM"],
+    "model": "1500 Rebel 5.7L Crew Cab",
+    "modelYear": 2019,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Awaffle"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870910476651995176/ram1500rebel5.png"
+}

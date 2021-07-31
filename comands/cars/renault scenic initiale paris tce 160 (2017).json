@@ -1,0 +1,12 @@
+{
+    "rq": 32,
+    "make": ["Renault"],
+    "model": "Scenic Initiale Paris TCE 160",
+    "modelYear": 2017,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Corentin"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866781967718678538/Renault_Scenic_INintianlae_pariss_TCE_160_very_fast_nyom_yes.png"
+}

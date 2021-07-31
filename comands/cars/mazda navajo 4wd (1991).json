@@ -1,0 +1,12 @@
+{
+    "rq": 42,
+    "make": ["Mazda"],
+    "model": "Navajo 4WD",
+    "modelYear": 1991,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/867098382061142036/image0.png"
+}

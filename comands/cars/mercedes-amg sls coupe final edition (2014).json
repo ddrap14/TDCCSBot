@@ -1,0 +1,12 @@
+{
+    "rq": 79,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "SLS Coupe Final Edition",
+    "modelYear": 2014,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Limited Edition" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870963812231184384/MercedesAMGSLSCoupeFinalEdition.png"
+}

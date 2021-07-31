@@ -1,0 +1,12 @@
+{
+    "rq": 96,
+    "make": ["McLaren"],
+    "model": "Sabre Prototype",
+    "modelYear": 2021,
+    "country": "UK",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Limited Edition" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/867336964953079818/McLaren_Sabre_Prototype_21.png"
+}

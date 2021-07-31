@@ -1,0 +1,12 @@
+{
+    "rq": 91,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "GT Black Series",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870963948722212894/MercedesAMGGTRF1SafetyCar.png"
+}

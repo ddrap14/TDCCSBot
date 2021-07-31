@@ -1,0 +1,12 @@
+{
+    "rq": 95,
+    "make": ["Lamborghini"],
+    "model": "Aventador SV LP750-4",
+    "modelYear": 2015,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870749857902641162/aventadorSV.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 50,
+    "make": ["Nissan"],
+    "model": "Navara PRO-4X Warrior",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Limited Edition" , "No_One"],
+    "bodyStyle": "Utility",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871001804425560155/NissanNavaraPRO-4XWarrior2021_50.png"
+}

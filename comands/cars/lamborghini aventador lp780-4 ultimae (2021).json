@@ -1,0 +1,12 @@
+{
+    "rq": 97,
+    "make": ["Lamborghini"],
+    "model": "Aventador LP780-4 Ultimae",
+    "modelYear": 2021,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Supercars" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870750379850223716/ultimae.png"
+}

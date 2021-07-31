@@ -1,0 +1,12 @@
+{
+    "rq": 42,
+    "make": ["Mazda"],
+    "model": "RX-8 Type S",
+    "modelYear": 2008,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/868019601085194290/Mazda_RX-8_Type_S_08.png"
+}

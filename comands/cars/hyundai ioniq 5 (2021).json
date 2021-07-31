@@ -1,0 +1,12 @@
+{
+    "rq": 70,
+    "make": ["Hyundai"],
+    "model": "Ioniq 5",
+    "modelYear": 2021,
+    "country": "KR",
+    "driveType": "4WD",
+    "tags": ["Corentin"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866773848087199784/Hyundai_electric_thing_yes.png"
+}

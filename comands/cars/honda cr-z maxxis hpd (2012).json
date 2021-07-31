@@ -1,0 +1,12 @@
+{
+    "rq": 53,
+    "make": ["Honda"],
+    "model": "CR-Z Maxxis/HPD",
+    "modelYear": 2013,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Offroad" , "Motorsport" , "Tuner" , "Crayola"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870908903595081738/Honda_CR-Z_Maxxis_HPD_12.png"
+}

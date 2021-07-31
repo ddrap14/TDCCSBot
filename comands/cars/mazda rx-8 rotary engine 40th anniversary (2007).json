@@ -1,0 +1,12 @@
+{
+    "rq": 41,
+    "make": ["Mazda"],
+    "model": "RX-8 Rotary Engine 40th Anniversary",
+    "modelYear": 2007,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/868034872894185492/Mazda_RX-8_Rotary_Engine_40th_Anniversary_07.png"
+}

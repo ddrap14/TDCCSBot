@@ -1,0 +1,68 @@
+{
+	"packName": "Plastic",
+	"description": "Enjoy the inevitable 5x Peel!",
+	"pack": "https://cdn.discordapp.com/attachments/431224196157145100/869843766633177208/CERAMIC.png",
+	"repetition": 1,
+
+	"filter": {
+		"make": "None",
+		"modelYear": {
+			"start": 1000,
+			"end": 3000
+		},
+		"country": "None",
+		"tags": "None",
+        "driveType": "None",
+        "tyreType": "None",
+        "fuelType": "None",
+        "bodyStyle": "None"
+	},
+
+	"packSequence": [
+		{
+			"common": 95,
+			"uncommon": 5,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 95,
+			"uncommon": 5,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 95,
+			"uncommon": 5,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 90,
+			"uncommon": 10,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 50,
+			"uncommon": 40,
+			"rare": 10,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		}
+	]
+}

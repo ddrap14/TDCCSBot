@@ -1,0 +1,12 @@
+{
+    "rq": 76,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "GT 53 4-Door",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Luxury" , "Awaffle"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866897902915551262/amgmercedesgt534-door19.png"
+}
