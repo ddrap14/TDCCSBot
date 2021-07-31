@@ -1,0 +1,12 @@
+{
+    "rq": 91,
+    "make": ["Porsche"],
+    "model": "911 Turbo Cabriolet",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Bnuuy"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870748612781568020/911Turbocabrio.png"
+}

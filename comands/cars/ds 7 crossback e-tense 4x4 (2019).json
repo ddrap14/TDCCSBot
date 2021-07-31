@@ -1,0 +1,12 @@
+{
+    "rq": 65,
+    "make": ["DS" , "Citroen"],
+    "model": "7 Crossback e-Tense 4x4",
+    "modelYear": 2019,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870747821970694224/DS7CrossbackETense4x4.png"
+}

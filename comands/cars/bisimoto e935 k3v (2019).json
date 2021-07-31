@@ -1,0 +1,12 @@
+{
+    "rq": 96,
+    "make": ["Bisimoto" , "Porsche"],
+    "model": "E935 K3V",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Oddball" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870720419412455444/BisimotoE935K3V.png"
+}

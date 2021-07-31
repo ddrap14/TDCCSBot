@@ -1,0 +1,12 @@
+{
+    "rq": 31,
+    "make": ["Peugeot"],
+    "model": "Landtrek Multipurpose Double Cab 2.4i",
+    "modelYear": 2021,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Crossfire"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870746719346884669/PeugeotLandtrekMultipurposeDoubleCab24i.png"
+}

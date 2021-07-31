@@ -1,0 +1,12 @@
+{
+    "rq": 99,
+    "make": ["Lamborghini"],
+    "model": "Sian FKP 37",
+    "modelYear": 2020,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Limited Edition" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870749534622474391/sian.png"
+}

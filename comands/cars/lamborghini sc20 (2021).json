@@ -1,0 +1,12 @@
+{
+    "rq": 97,
+    "make": ["Lamborghini"],
+    "model": "SC20",
+    "modelYear": 2021,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Limited Edition" , "Bnuuy"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870749353898278912/SC20.png"
+}

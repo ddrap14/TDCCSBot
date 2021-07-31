@@ -1,0 +1,12 @@
+{
+    "rq": 89,
+    "make": ["Porsche"],
+    "model": "911 GT3",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870748289077739620/911GT3.png"
+}

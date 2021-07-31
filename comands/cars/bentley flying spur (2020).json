@@ -1,0 +1,12 @@
+{
+    "rq": 86,
+    "make": ["Bentley"],
+    "model": "Flying Spur",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Itadari"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870684159776030800/Bentley_Flying_Spur_20.png"
+}

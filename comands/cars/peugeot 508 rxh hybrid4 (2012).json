@@ -1,0 +1,12 @@
+{
+    "rq": 44,
+    "make": ["Peugeot"],
+    "model": "508 RXH Hybrid4",
+    "modelYear": 2012,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870747049782546442/Peugeot508RXHHybrid4.png"
+}

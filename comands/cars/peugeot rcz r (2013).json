@@ -1,0 +1,12 @@
+{
+    "rq": 56,
+    "make": ["Peugeot"],
+    "model": "RCZ R",
+    "modelYear": 2013,
+    "country": "FR",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870746926612615218/PeugeotRCZR.png"
+}

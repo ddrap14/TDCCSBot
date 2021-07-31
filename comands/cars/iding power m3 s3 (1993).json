@@ -1,0 +1,12 @@
+{
+    "rq": 60,
+    "make": ["Iding Power" , "BMW"],
+    "model": "M3 S3",
+    "modelYear": 1993,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870748829690003496/idingM3S3.png"
+}

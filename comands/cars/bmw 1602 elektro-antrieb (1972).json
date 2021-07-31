@@ -1,0 +1,12 @@
+{
+    "rq": 1,
+    "make": ["BMW"],
+    "model": "1602 Elektro-Antrieb",
+    "modelYear": 1972,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870748204478631988/1602butright.png"
+}

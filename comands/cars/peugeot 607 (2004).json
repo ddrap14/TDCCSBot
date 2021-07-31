@@ -1,0 +1,12 @@
+{
+    "rq": 25,
+    "make": ["Peugeot"],
+    "model": "607",
+    "modelYear": 2004,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870740961360244846/Peugeot607.png"
+}

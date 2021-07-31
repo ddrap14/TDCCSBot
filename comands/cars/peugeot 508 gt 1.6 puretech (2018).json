@@ -1,0 +1,12 @@
+{
+    "rq": 44,
+    "make": ["Peugeot"],
+    "model": "508 GT 1.6 PureTech",
+    "modelYear": 2018,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870745207505838090/Peugeot508GT16Puretech.png"
+}

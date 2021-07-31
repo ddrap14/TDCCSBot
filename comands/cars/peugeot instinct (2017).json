@@ -1,0 +1,12 @@
+{
+    "rq": 58,
+    "make": ["Peugeot"],
+    "model": "Instinct",
+    "modelYear": 2017,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870746616657756180/PeugeotInstinctConcept.png"
+}

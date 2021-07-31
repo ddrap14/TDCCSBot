@@ -1,0 +1,12 @@
+{
+    "rq": 66,
+    "make": ["Peugeot"],
+    "model": "508 SW PSE Hybrid4",
+    "modelYear": 2021,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870353602655445012/Peugeot508SWPSEHYBRID4.png"
+}

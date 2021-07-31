@@ -1,0 +1,12 @@
+{
+    "rq": 31,
+    "make": ["Peugeot"],
+    "model": "e-208",
+    "modelYear": 2019,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870353895891800075/Peugeote208.png"
+}
