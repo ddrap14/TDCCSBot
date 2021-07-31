@@ -2,11 +2,11 @@
     "rq": 94,
     "make": ["Lamborghini"],
     "model": "Aventador S LP740-4",
-    "modelYear": 0000,
-    "country": "",
-    "driveType": "",
-    "tags": [""],
-    "bodyStyle": "",
+    "modelYear": 2016,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Bnuuy"],
+    "bodyStyle": "Coupe",
     "fuelType": "Petrol",
-    "card": ""
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870749810045632532/aventadorS.png"
 }

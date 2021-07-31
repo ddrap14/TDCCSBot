@@ -67,9 +67,10 @@ module.exports = {
 				}
 				let carFile = carFiles[Math.floor(Math.random() * carFiles.length)];
 				currentCard = require(`../cars/${carFile}`);
-				while (currentCard["rq"] < rqStart || currentCard["rq"] > rqEnd || filterCard(currentCard, cardFilter) === false) {
+				while (currentCard["rq"] < rqStart || currentCard["rq"] > rqEnd) {
 					carFile = carFiles[Math.floor(Math.random() * carFiles.length)];
 					currentCard = require(`../cars/${carFile}`);
+									console.log(carFile);
 				}
 				addedCars.push(carFile);
 				}
@@ -79,6 +80,7 @@ module.exports = {
 					const carB = require(`../cars/${b}`);
 
 					if (carA["rq"] === carB["rq"]) {
+						console.log(";");
 						let nameA = `${carA["make"]} ${carA["model"]}`.toLowerCase();
 						let nameB = `${carA["make"]} ${carA["model"]}`.toLowerCase();
 						if (typeof carA["make"] === "object") {
@@ -124,7 +126,7 @@ module.exports = {
 				}
 
 				for (let i = 0; i < 5; i++) {
-					let d = require(`../cars/${addedCars[i * 5 + 4]}`);
+					let d = require(`../cars/${addedCars[i]}`);
 
 					const packScreen = new Discord.MessageEmbed()
 						.setColor("#18d17b")
@@ -192,7 +194,7 @@ module.exports = {
 					} else { //common
 						return message.client.emojis.cache.get("726020544264273928");
 					}
-				}
+			}
 		} else if (searchResults.length > 1) {
 			const errorMessage = new Discord.MessageEmbed()
 				.setColor("#d21404")
