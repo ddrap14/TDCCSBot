@@ -11,26 +11,24 @@ module.exports = {
 	cooldown: 4.388,
 	description: "Open a pack!",
 	execute(message, args) {
-		console.log("james you pillock")
 		let packName = args.map(i => i.toLowerCase());
 		const searchResults = packFiles.filter(function (pack) {
 			return packName.every(part => pack.includes(part));
 		});
 
 		if (searchResults.length === 1) {
-			let currentPack = searchResults;
+			let currentPack = require(`./packs/${searchResults[0]}`);
 			const cardFilter = currentPack["filter"];
 			let rand, check;
 			let rqStart, rqEnd;
 			let currentCard = require(`../cars/${carFiles[Math.floor(Math.random() * carFiles.length)]}`);
 			const pulledCards = [];
 			const addedCars = [];
-			for (let i = 0; i < currentPack["repetition"] * 5; i++) {
-				console.log(Math.floor(i / currentPack["repetition"]));
+			for (let i = 0; i < 5; i++) {
 				rand = Math.floor(Math.random() * 100);
 				check = 0;
-				for (let rarity of Object.keys(currentPack["packSequence"][Math.floor(i / currentPack["repetition"])])) {
-					check += currentPack["packSequence"][Math.floor(i / currentPack["repetition"])][rarity];
+				for (let rarity of Object.keys(currentPack["packSequence"][i])) {
+					check += currentPack["packSequence"][i][rarity];
 					if (check > rand) {
 						switch (rarity) {
 							case "common":
@@ -67,14 +65,15 @@ module.exports = {
 						break;
 					}
 				}
-
 				let carFile = carFiles[Math.floor(Math.random() * carFiles.length)];
 				currentCard = require(`../cars/${carFile}`);
 				while (currentCard["rq"] < rqStart || currentCard["rq"] > rqEnd || filterCard(currentCard, cardFilter) === false) {
 					carFile = carFiles[Math.floor(Math.random() * carFiles.length)];
 					currentCard = require(`../cars/${carFile}`);
 				}
-
+				addedCars.push(carFile);
+				}
+				console.log(addedCars);
 				addedCars.sort(function (a, b) {
 					const carA = require(`../cars/${a}`);
 					const carB = require(`../cars/${b}`);
@@ -116,15 +115,15 @@ module.exports = {
 					}
 
 					if (i % 5 === 0) {
-						pulledCards[Math.floor(i / 5)] = "";
+						pulledCards[i] = "";
 					}
-					pulledCards[Math.floor(i / 5)] += `(${rarity} ${currentCard["rq"]}) ${make} ${currentCard["model"]} (${currentCard["modelYear"]})`;
+					pulledCards[i] += `(${rarity} ${currentCard["rq"]}) ${make} ${currentCard["model"]} (${currentCard["modelYear"]})`;
 					if ((i + 1) % 5 !== 0) {
-						pulledCards[Math.floor(i / 5)] += ` **[[Card]](${currentCard["card"]})**\n`;
+						pulledCards[i] += ` **[[Card]](${currentCard["card"]})**\n`;
 					}
 				}
 
-				for (let i = 0; i < currentPack["repetition"]; i++) {
+				for (let i = 0; i < 5; i++) {
 					let d = require(`../cars/${addedCars[i * 5 + 4]}`);
 
 					const packScreen = new Discord.MessageEmbed()
@@ -194,7 +193,6 @@ module.exports = {
 						return message.client.emojis.cache.get("726020544264273928");
 					}
 				}
-			}
 		} else if (searchResults.length > 1) {
 			const errorMessage = new Discord.MessageEmbed()
 				.setColor("#d21404")

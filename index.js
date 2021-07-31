@@ -9,10 +9,12 @@ client.commands = new Discord.Collection();
 const commandFolders = fs.readdirSync('./comands');
 
 for (const folder of commandFolders) {
-	const commandFiles = fs.readdirSync(`./comands/${folder}`).filter(file => file.endsWith('.js'));
-	for (const file of commandFiles) {
-		const command = require(`./comands/${folder}/${file}`);
-		client.commands.set(command.name, command);
+	if (folder !== "cars") {
+		const commandFiles = fs.readdirSync(`./comands/${folder}`).filter(file => file.endsWith('.js'));
+		for (const file of commandFiles) {
+			const command = require(`./comands/${folder}/${file}`);
+			client.commands.set(command.name, command);
+		}
 	}
 }
 
