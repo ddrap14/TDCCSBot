@@ -1,0 +1,12 @@
+{
+    "rq": 47,
+    "make": ["Lincoln"],
+    "model": "Mark LT",
+    "modelYear": 2007,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Luxury" , "Nevaeh"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871253073396400218/Lincoln_Mark_LT_.png"
+}

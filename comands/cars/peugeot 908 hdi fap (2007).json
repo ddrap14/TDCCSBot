@@ -1,0 +1,12 @@
+{
+    "rq": 96,
+    "make": ["Peugeot"],
+    "model": "908 HDi FAP",
+    "modelYear": 2007,
+    "country": "FR",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Oddball" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871240185025822730/fap.png"
+}

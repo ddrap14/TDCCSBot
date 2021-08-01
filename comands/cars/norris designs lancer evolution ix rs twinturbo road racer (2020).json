@@ -1,0 +1,12 @@
+{
+    "rq": 95,
+    "make": ["Norris Designs" , "Mitsubishi"],
+    "model": "Lancer Evolution IX RS TwinTurbo Road Racer",
+    "modelYear": 2020,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Tuner" , "Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865306542911913984/Evo9RSTwinTurboRoadRacer.png"
+}

@@ -1,7 +1,7 @@
 {
-	"packName": "Sedan Pack",
-	"description": "Guaranteed to have one Super Rare! All cards are Sedans.",
-	"pack": "https://cdn.discordapp.com/attachments/711405387995414648/871309982283493386/sedan.png",
+	"packName": "Petrol Car Pack",
+	"description": "Guaranteed to have one Super Rare! All cards are powered by petrol",
+	"pack": "https://cdn.discordapp.com/attachments/711405387995414648/871317932897087578/petrol.png",
 	"repetition": 1,
 
 	"filter": {
@@ -14,8 +14,8 @@
 		"tags": "None",
         "driveType": "None",
         "tyreType": "None",
-        "fuelType": "None",
-        "bodyStyle": "Sedan"
+        "fuelType": "Petrol",
+        "bodyStyle": "None"
 	},
 
 	"packSequence": [

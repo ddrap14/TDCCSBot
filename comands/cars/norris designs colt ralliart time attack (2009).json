@@ -1,0 +1,12 @@
+{
+    "rq": 74,
+    "make": ["Norris Designs"],
+    "model": "Colt Ralliart Time Attack",
+    "modelYear": 2009,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Motorsport" , "Tuner" , "Bnuuy"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865306023455227934/NorrisColtTimeAttacc.png"
+}

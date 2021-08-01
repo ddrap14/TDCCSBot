@@ -1,0 +1,12 @@
+{
+    "rq": 39,
+    "make": ["Nissan"],
+    "model": "Murano Winter Warrior Concept",
+    "modelYear": 2016,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Oddball" , "Concept" , "Olimato"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871240341049737316/Murano_Winter_Warrior.png"
+}

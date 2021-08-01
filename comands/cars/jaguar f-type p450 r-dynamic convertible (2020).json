@@ -1,0 +1,12 @@
+{
+    "rq": 74,
+    "make": ["Jaguar"],
+    "model": "F-Type P450 R-Dynamic Convertible",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "La Peyo"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871258685454831616/Jaguar_F-Type_P450_R-Dynamic_Convertible_20.png"
+}

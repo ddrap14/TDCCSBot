@@ -1,0 +1,12 @@
+{
+    "rq": 25,
+    "make": ["Hyundai"],
+    "model": "Accent 5-Door",
+    "modelYear": 2011,
+    "country": "KR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Olimato"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871240509929185280/accent.png"
+}

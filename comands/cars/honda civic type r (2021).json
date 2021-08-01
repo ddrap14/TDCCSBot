@@ -1,0 +1,12 @@
+{
+    "rq": 63,
+    "make": ["Honda"],
+    "model": "Civic Type R",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Itadari"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871268179370991676/Honda_Civic_Type_R_21_UK_spec.png"
+}

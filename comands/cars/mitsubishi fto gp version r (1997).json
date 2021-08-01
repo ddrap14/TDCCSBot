@@ -1,0 +1,12 @@
+{
+    "rq": 50,
+    "make": ["Mitsubishi"],
+    "model": "FTO GP Version R",
+    "modelYear": 1997,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865306215596163072/FTOGPVersionR.png"
+}

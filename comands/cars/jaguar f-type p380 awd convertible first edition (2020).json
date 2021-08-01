@@ -1,0 +1,12 @@
+{
+    "rq": 68,
+    "make": ["Jaguar"],
+    "model": "F-Type P380 AWD Convertible First Edition",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "First Edition" , "La Peyo"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871258800903036938/Jaguar_F-Type_P380_AWD_Convertible_First_Edition_20.png"
+}

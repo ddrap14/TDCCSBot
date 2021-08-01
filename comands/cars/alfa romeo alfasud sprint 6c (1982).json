@@ -1,0 +1,12 @@
+{
+    "rq": 20,
+    "make": ["Alfa Romeo"],
+    "model": "Alfasud Sprint 6C",
+    "modelYear": 1982,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871241132900749342/alfasud.png"
+}

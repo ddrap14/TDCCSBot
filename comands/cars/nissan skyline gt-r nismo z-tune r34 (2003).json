@@ -1,0 +1,12 @@
+{
+    "rq": 92,
+    "make": ["Nissan"],
+    "model": "Skyline GT-R Nismo Z-Tune R34",
+    "modelYear": 2003,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Supercar" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865307467331797012/NissanR34NismoZtune.png"
+}

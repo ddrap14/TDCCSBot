@@ -1,0 +1,12 @@
+{
+    "rq": 47,
+    "make": ["Mitsubishi"],
+    "model": "Lancer Evolution MiEV",
+    "modelYear": 2005,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865304134525255730/evomiev.png"
+}

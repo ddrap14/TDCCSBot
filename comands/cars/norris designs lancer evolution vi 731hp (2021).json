@@ -1,0 +1,12 @@
+{
+    "rq": 99,
+    "make": ["Norris Designs" , "Mitsubishi"],
+    "model": "Lancer Evolution VI 731HP",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Oddball" , "Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865306728743567381/Evo6731HP.png"
+}

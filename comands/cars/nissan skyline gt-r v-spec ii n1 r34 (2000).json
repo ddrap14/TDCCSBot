@@ -1,0 +1,12 @@
+{
+    "rq": 81,
+    "make": ["Nissan"],
+    "model": "Skyline GT-R V-Spec II N1 (R34)",
+    "modelYear": 2000,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Supercar" , "Limited Edition" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865307558955712512/NismoR34N1VspecII.png"
+}

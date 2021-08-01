@@ -1,0 +1,12 @@
+{
+    "rq": 98,
+    "make": ["Garage G Force" , "Mitsubishi"],
+    "model": "Lancer Evolution Yamazaki IX",
+    "modelYear": 2015,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Tuner" , "Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865306631318274048/evo9YakazakiIX2015.png"
+}
