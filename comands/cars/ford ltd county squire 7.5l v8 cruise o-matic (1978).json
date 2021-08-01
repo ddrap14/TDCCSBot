@@ -1,0 +1,12 @@
+{
+    "rq": 16,
+    "make": ["Ford"],
+    "model": "LTD County Squire 7.5L V8 Cruise O-Matic",
+    "modelYear": 1978,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Nevaeh"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865401605524684820/1626397485827.png"
+}

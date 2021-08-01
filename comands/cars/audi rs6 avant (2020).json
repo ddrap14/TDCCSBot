@@ -1,0 +1,12 @@
+{
+    "rq": 83,
+    "make": ["Audi"],
+    "model": "RS6 Avant",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Itadari"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865689232982147083/Audi_RS6_Avant_20_fixed.png"
+}

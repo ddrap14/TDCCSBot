@@ -209,9 +209,7 @@ module.exports = {
 				.setColor("#d21404")
 				.setAuthor(message.author.tag, message.author.displayAvatarURL({ format: "png", dynamic: true }))
 				.setTitle("Error, you didn't input a valid pack. Maybe it was a typo?")
-				.setDescription("List of values can be found below.")
-				.addField("To open a carbon fiber pack, please input 'carbon'")
-				.addField("To open a ceramic pack, please input 'ceramic'")
+				.setDescription("Keywords to open packs are pinned.")
 				.setTimestamp();
 			return message.channel.send(errorMessage);
 		}

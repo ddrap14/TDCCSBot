@@ -1,0 +1,12 @@
+{
+    "rq": 96,
+    "make": ["Koenigsegg"],
+    "model": "Agera S",
+    "modelYear": 2013,
+    "country": "SE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Manperson"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865667383631544340/2013_Koenigsegg_Agera_S.png"
+}

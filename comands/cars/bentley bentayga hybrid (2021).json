@@ -1,0 +1,12 @@
+{
+    "rq": 70,
+    "make": ["Bentley"],
+    "model": "Bentayga Hybrid",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Luxury" , "Crayola"],
+    "bodyStyle": "SUV",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865430965861875762/Bentley_Bentayga_Hybrid_21.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 72,
+    "make": ["Maybach"],
+    "model": "Exelero Concept",
+    "modelYear": 2005,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Crossfire" , "Concept"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/869544798724456468/MaybachExeleroConcept.png?width=1127&height=701"
+}

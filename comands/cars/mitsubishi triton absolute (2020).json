@@ -1,0 +1,12 @@
+{
+    "rq": 51,
+    "make": ["Mitsubishi"],
+    "model": "Triton Absolute",
+    "modelYear": 2020,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Crayola"],
+    "bodyStyle": "Utility",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865454307804577802/Mitsubishi_Triton_Absolute_20.png"
+}

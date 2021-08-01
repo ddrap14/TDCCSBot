@@ -1,0 +1,12 @@
+{
+    "rq": 56,
+    "make": ["Subaru"],
+    "model": "Outback 3.6R",
+    "modelYear": 2011,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Nevaeh"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865349760708771870/1626381028161.png"
+}

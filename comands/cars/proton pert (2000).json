@@ -1,0 +1,12 @@
+{
+    "rq": 108,
+    "make": ["Proton"],
+    "model": "PERT",
+    "modelYear": 2000,
+    "country": "MY",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Bnuuy"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865316368119365662/protonPERT.png"
+}

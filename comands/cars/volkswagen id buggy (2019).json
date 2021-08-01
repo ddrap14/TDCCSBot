@@ -1,0 +1,12 @@
+{
+    "rq": 48,
+    "make": ["Volkswagen"],
+    "model": "I.D Buggy",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Concept" , "Nevaeh"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865495200721141760/1626418591679.png"
+}

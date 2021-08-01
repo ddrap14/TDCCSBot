@@ -1,0 +1,12 @@
+{
+    "rq": 57,
+    "make": ["Chevrolet"],
+    "model": "Colorado ZR2 Bison",
+    "modelYear": 2019,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Limited Edition" , "Awaffle"],
+    "bodyStyle": "Utility",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865349760708771870/1626381028161.png"
+}

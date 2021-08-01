@@ -1,0 +1,12 @@
+{
+    "rq": 83,
+    "make": ["SRT" , "Dodge"],
+    "model": "Viper GTS",
+    "modelYear": 2013,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Muscle Car" , "Crayola"],
+    "bodyStyle": "",
+    "fuelType": "Petrol",
+    "card": ""
+}

@@ -1,0 +1,13 @@
+
+{
+    "rq": 35,
+    "make": ["BMW"],
+    "model": "318is Coupe",
+    "modelYear": 1989,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/731698267573977099/870902129546645544/318is_coupe.png?width=1125&height=701"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 13,
+    "make": ["Porsche"],
+    "model": "356A 1600 Speedster",
+    "modelYear": 1957,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Johnny4388"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865666330329874462/Porsche-356A-1600-Speedster-Normal.png"
+}

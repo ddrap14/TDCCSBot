@@ -1,0 +1,12 @@
+{
+    "rq": 58,
+    "make": ["Audi"],
+    "model": "RS2 Avant",
+    "modelYear": 1994,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Crayola"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865434982162759730/Audi_RS2_94.png"
+}
