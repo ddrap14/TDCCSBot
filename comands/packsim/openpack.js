@@ -65,9 +65,46 @@ module.exports = {
 						break;
 					}
 				}
+
+				function filterCard(currentCard, filter) {
+					let passed = true;
+						for (let criteria in filter) {
+							if (filter[criteria] !== "None") {
+								switch (criteria) {
+									case "make":
+									case "tags":
+									case "bodyStyle":
+										if (Array.isArray(currentCard[criteria])) {
+											if (currentCard[criteria].some(m => m === filter[criteria]) === false) {
+												passed = false;
+											}
+										} else {
+											if (currentCard[criteria] !== filter[criteria]) {
+												passed = false;
+											}
+										}
+										break;
+									case "modelYear":
+									case "seatCount":
+										if (currentCard[criteria] < filter[criteria]["start"] || currentCard[criteria] > filter[criteria]["end"]) {
+											passed = false;
+										}
+										break;
+									default:
+										if (currentCard[criteria] !== filter[criteria]) {
+											passed = false;
+										}
+										break;
+								}
+							}
+						}
+					return passed;
+				}
+
+
 				let carFile = carFiles[Math.floor(Math.random() * carFiles.length)];
 				currentCard = require(`../cars/${carFile}`);
-				while (currentCard["rq"] < rqStart || currentCard["rq"] > rqEnd) {
+				while (currentCard["rq"] < rqStart || currentCard["rq"] > rqEnd || filterCard(currentCard, cardFilter) === false) {
 					carFile = carFiles[Math.floor(Math.random() * carFiles.length)];
 					currentCard = require(`../cars/${carFile}`);
 									console.log(carFile);
@@ -158,52 +195,13 @@ module.exports = {
 					message.channel.send(packScreen);
 				}
 
-				function filterCard(currentCard, filter) {
-					let passed = true;
-					if (currentCard["isPrize"] === false) {
-						for (let criteria in filter) {
-							if (filter[criteria] !== "None") {
-								switch (criteria) {
-									case "make":
-									case "tags":
-										if (Array.isArray(currentCard[criteria])) {
-											if (currentCard[criteria].some(m => m === filter[criteria]) === false) {
-												passed = false;
-											}
-										} else {
-											if (currentCard[criteria] !== filter[criteria]) {
-												passed = false;
-											}
-										}
-										break;
-									case "modelYear":
-									case "seatCount":
-										if (currentCard[criteria] < filter[criteria]["start"] || currentCard[criteria] > filter[criteria]["end"]) {
-											passed = false;
-										}
-										break;
-									default:
-										if (currentCard[criteria] !== filter[criteria]) {
-											passed = false;
-										}
-										break;
-								}
-							}
-						}
-					} else {
-						passed = false;
-					}
-					return passed;
-				}
 
 		} else if (searchResults.length > 1) {
 			const errorMessage = new Discord.MessageEmbed()
 				.setColor("#d21404")
 				.setAuthor(message.author.tag, message.author.displayAvatarURL({ format: "png", dynamic: true }))
 				.setTitle("Error, please input a more precise value.")
-				.setDescription("List of values can be found below.")
-				.addField("To open a carbon fiber pack, please input 'carbon'")
-				.addField("To open a ceramic pack, please input 'ceramic'")
+				.setDescription("Keywords to open packs are pinned.")
 				.setTimestamp();
 			return message.channel.send(errorMessage);
 		} else {

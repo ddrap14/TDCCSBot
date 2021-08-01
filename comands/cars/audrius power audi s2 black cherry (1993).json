@@ -1,0 +1,12 @@
+{
+    "rq": 64,
+    "make": ["Audrius Power" , "Audi"],
+    "model": "Audi S2 'Black Cherry'",
+    "modelYear": 1993,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866410258519425064/Audrius_Power_S2_Black_Cherry_93.png"
+}

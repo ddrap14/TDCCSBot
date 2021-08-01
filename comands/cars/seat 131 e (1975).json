@@ -1,0 +1,12 @@
+{
+    "rq": 14,
+    "make": ["Seat"],
+    "model": "131 E",
+    "modelYear": 1975,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871094158771781693/SEAT131E1975_16.png"
+}

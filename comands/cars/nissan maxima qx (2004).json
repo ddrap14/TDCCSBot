@@ -1,0 +1,12 @@
+{
+    "rq": 27,
+    "make": ["Nissan"],
+    "model": "Maxima QX",
+    "modelYear": 2004,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crayola"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866421810391285770/Nissan_Maxima_QX_04.png"
+}

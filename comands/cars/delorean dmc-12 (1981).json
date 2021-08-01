@@ -1,0 +1,12 @@
+{
+    "rq": 17,
+    "make": ["DeLorean"],
+    "model": "DMC-12",
+    "modelYear": 1981,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Oddball" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866557565558980618/DMC_DeLorean_82.png"
+}

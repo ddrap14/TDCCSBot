@@ -1,0 +1,12 @@
+{
+    "rq": 15,
+    "make": ["Seat"],
+    "model": "124 Sport 1600",
+    "modelYear": 1970,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871005267855278090/SEAT124Sport16001970_15.png"
+}

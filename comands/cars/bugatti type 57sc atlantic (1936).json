@@ -1,0 +1,12 @@
+{
+    "rq": 12,
+    "make": ["Bugatti"],
+    "model": "Type 57SC Atlantic",
+    "modelYear": 1936,
+    "country": "FR",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Luxury" , "Limited Edition" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871079289704026162/BugattiType57SCAtlantic.png"
+}

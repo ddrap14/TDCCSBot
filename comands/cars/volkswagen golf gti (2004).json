@@ -1,0 +1,12 @@
+{
+    "rq": 42,
+    "make": ["Volkswagen"],
+    "model": "Golf GTi",
+    "modelYear": 2004,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Crayola"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866404356164026378/Volkswagen_Golf_GTI_04.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 20,
+    "make": ["Lancia" , "Zagato"],
+    "model": "Zagato",
+    "modelYear": 1979,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["SidewaysReaction"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866540812408848444/zagatogrossversion.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 29,
+    "make": ["Toyota"],
+    "model": "Camry LE",
+    "modelYear": 1999,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Crayola"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866533710249459722/Toyota_Camry_LE_99.png"
+}

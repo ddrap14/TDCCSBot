@@ -1,0 +1,12 @@
+{
+    "rq": 74,
+    "make": ["BMW"],
+    "model": "iX xDrive50",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871015522760785980/BMWiXxDrive50.png"
+}

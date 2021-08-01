@@ -1,0 +1,12 @@
+{
+    "rq": 26,
+    "make": ["Audi"],
+    "model": "A3 30 TFSI",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871127567019687936/AudiA330TFSI2020.png"
+}

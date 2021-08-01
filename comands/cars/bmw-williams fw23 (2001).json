@@ -1,0 +1,12 @@
+{
+    "rq": 100,
+    "make": ["BMW-Williams" , "BMW" , "Williams"],
+    "model": "FW23",
+    "modelYear": 2001,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Open Wheel",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866276232937078784/FW23BMWWilliams.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 74,
+    "make": ["Volkswagen"],
+    "model": "Golf R",
+    "modelYear": 2022,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Itadari"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866733554594218024/Volkswagen_Golf_R_22.png"
+}

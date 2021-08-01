@@ -1,0 +1,12 @@
+{
+    "rq": 90,
+    "make": ["Maserati"],
+    "model": "Levante Trofeo",
+    "modelYear": 2020,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Offroad" , "Itadari"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866306677866496030/Maserati_Levante_Trofeo_20.png"
+}

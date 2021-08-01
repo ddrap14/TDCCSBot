@@ -1,0 +1,12 @@
+{
+    "rq": 37,
+    "make": ["BMW"],
+    "model": "220i Coupe",
+    "modelYear": 2022,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871066043177648210/BMW220iCoupe2.png"
+}

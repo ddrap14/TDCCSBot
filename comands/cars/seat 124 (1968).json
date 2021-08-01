@@ -1,0 +1,12 @@
+{
+    "rq": 15,
+    "make": ["Seat"],
+    "model": "124",
+    "modelYear": 1968,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871005086573281306/SEAT1241968_15.png"
+}

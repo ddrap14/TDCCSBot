@@ -1,7 +1,7 @@
 {
-	"packName": "Plastic",
-	"description": "Enjoy the inevitable 5x Peel!",
-	"pack": "https://topdrives.club/sites/default/files/packs/PLASTIC.png",
+	"packName": "Steel",
+	"description": "A plastic with double the odds! but seriously if anyone has drop rates for this pls give",
+	"pack": "https://topdrives.club/sites/default/files/packs/STEEL.png",
 	"repetition": 1,
 
 	"filter": {
@@ -20,46 +20,46 @@
 
 	"packSequence": [
 		{
-			"common": 85,
-			"uncommon": 15,
-			"rare": 0,
+			"common": 67,
+			"uncommon": 32,
+			"rare": 1,
 			"superRare": 0,
 			"ultraRare": 0,
 			"epic": 0,
 			"legendary": 0
 		},
 		{
-			"common": 85,
-			"uncommon": 15,
-			"rare": 0,
+			"common": 67,
+			"uncommon": 32,
+			"rare": 1,
 			"superRare": 0,
 			"ultraRare": 0,
 			"epic": 0,
 			"legendary": 0
 		},
 		{
-			"common": 85,
-			"uncommon": 15,
-			"rare": 0,
+			"common": 67,
+			"uncommon": 32,
+			"rare": 1,
 			"superRare": 0,
 			"ultraRare": 0,
 			"epic": 0,
 			"legendary": 0
 		},
 		{
-			"common": 85,
-			"uncommon": 15,
-			"rare": 0,
+			"common": 67,
+			"uncommon": 32,
+			"rare": 1,
 			"superRare": 0,
 			"ultraRare": 0,
 			"epic": 0,
 			"legendary": 0
 		},
 		{
-			"common": 30,
-			"uncommon": 68,
-			"rare": 2,
-			"superRare": 0,
+			"common": 0,
+			"uncommon": 62,
+			"rare": 37,
+			"superRare": 1,
 			"ultraRare": 0,
 			"epic": 0,
 			"legendary": 0

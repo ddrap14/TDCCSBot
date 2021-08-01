@@ -1,0 +1,12 @@
+{
+    "rq": 43,
+    "make": ["Chevrolet"],
+    "model": "Trailblazer RS AWD",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Awaffle"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866535095946575912/chevrolettrailblazerrsawd21.png"
+}

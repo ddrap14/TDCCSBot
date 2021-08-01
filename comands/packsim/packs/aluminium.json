@@ -1,7 +1,7 @@
 {
-	"packName": "Plastic",
-	"description": "Enjoy the inevitable 5x Peel!",
-	"pack": "https://topdrives.club/sites/default/files/packs/PLASTIC.png",
+	"packName": "Aluminium",
+	"description": "A rare is guaranteed!",
+	"pack": "https://topdrives.club/sites/default/files/packs/ALUMINIUM.png",
 	"repetition": 1,
 
 	"filter": {
@@ -20,47 +20,47 @@
 
 	"packSequence": [
 		{
-			"common": 85,
-			"uncommon": 15,
-			"rare": 0,
-			"superRare": 0,
-			"ultraRare": 0,
-			"epic": 0,
-			"legendary": 0
-		},
-		{
-			"common": 85,
-			"uncommon": 15,
-			"rare": 0,
-			"superRare": 0,
-			"ultraRare": 0,
-			"epic": 0,
-			"legendary": 0
-		},
-		{
-			"common": 85,
-			"uncommon": 15,
-			"rare": 0,
-			"superRare": 0,
-			"ultraRare": 0,
-			"epic": 0,
-			"legendary": 0
-		},
-		{
-			"common": 85,
-			"uncommon": 15,
-			"rare": 0,
-			"superRare": 0,
-			"ultraRare": 0,
-			"epic": 0,
-			"legendary": 0
-		},
-		{
-			"common": 30,
-			"uncommon": 68,
+			"common": 0,
+			"uncommon": 98,
 			"rare": 2,
 			"superRare": 0,
 			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 98,
+			"rare": 2,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 98,
+			"rare": 2,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 77,
+			"rare": 20,
+			"superRare": 3,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 80,
+			"superRare": 18,
+			"ultraRare": 2,
 			"epic": 0,
 			"legendary": 0
 		}
