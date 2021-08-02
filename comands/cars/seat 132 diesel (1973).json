@@ -1,0 +1,12 @@
+{
+    "rq": 17,
+    "make": ["Seat"],
+    "model": "132 Diesel",
+    "modelYear": 1973,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871397723998420992/SEAT132Diesel1973_17.png"
+}

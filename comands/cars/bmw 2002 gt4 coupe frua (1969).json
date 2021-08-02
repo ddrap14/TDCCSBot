@@ -1,0 +1,12 @@
+{
+    "rq": 26,
+    "make": ["BMW"],
+    "model": "2002 GT4 Coupe Frua",
+    "modelYear": 1969,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871603038371086376/bmw_2002_gt4_coupe_frua.png"
+}

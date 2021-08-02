@@ -1,0 +1,12 @@
+{
+    "rq": 73,
+    "make": ["Ford"],
+    "model": "Mustang Mach-E Premium",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Oddball" , "Manperson69"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/393487977906438154/871497883575267408/2021_Ford_Mustang_Mach-E_Premium.png"
+}

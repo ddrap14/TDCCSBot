@@ -1,0 +1,12 @@
+{
+    "rq": 59,
+    "make": ["Jaguar"],
+    "model": "X-type 3.0 V6 Executive Manual",
+    "modelYear": 2007,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871350373267410964/JaguarXType30V6Executivemanual.png"
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 40,
+    "make": ["Volvo"],
+    "model": "V40 D4 Inscription",
+    "modelYear": 2016,
+    "country": "SE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "La Peyo"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871609192912416838/Volvo_V40_D4_Inscription_16.png"
+}

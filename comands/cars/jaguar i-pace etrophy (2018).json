@@ -1,0 +1,12 @@
+{
+    "rq": 67,
+    "make": ["Jaguar"],
+    "model": "I-Pace eTrophy",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871392430522527784/JaguarIPaceeTrophy.png"
+}

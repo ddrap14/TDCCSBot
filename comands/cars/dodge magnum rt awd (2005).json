@@ -1,0 +1,12 @@
+{
+    "rq": 49,
+    "make": ["Dodge"],
+    "model": "Magnum R/T AWD",
+    "modelYear": 2005,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Muscle Car" , "Everyday Heroes" , "SidewaysReaction"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/393487977906438154/871499642259505152/magnumrtawd.png"
+}

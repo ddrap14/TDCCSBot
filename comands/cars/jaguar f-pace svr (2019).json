@@ -1,0 +1,12 @@
+{
+    "rq": 86,
+    "make": ["Jaguar"],
+    "model": "F-Pace SVR",
+    "modelYear": 2019,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871392365783433216/JaguarFPaceSVR.png"
+}

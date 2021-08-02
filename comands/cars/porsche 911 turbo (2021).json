@@ -1,0 +1,12 @@
+{
+    "rq": 95,
+    "make": ["Porsche"],
+    "model": "911 Turbo",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Awaffle"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871602948340334632/porsche911turbo21.png"
+}

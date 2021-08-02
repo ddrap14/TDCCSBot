@@ -1,0 +1,12 @@
+{
+    "rq": 79,
+    "make": ["Volvo"],
+    "model": "S60 T6 Inscription AWD",
+    "modelYear": 2019,
+    "country": "SE",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "La Peyo"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871592078969282680/Volvo_S60_T6_Inscription_AWD_19.png"
+}

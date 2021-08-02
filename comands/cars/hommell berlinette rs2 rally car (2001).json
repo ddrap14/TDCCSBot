@@ -1,0 +1,12 @@
+{
+    "rq": 65,
+    "make": ["Hommell"],
+    "model": "Berlinette RS2 Rally Car",
+    "modelYear": 2001,
+    "country": "FR",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "Valou"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871366354857525280/1607972441748.jpg"
+}

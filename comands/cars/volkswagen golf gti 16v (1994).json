@@ -1,0 +1,12 @@
+{
+    "rq": 29,
+    "make": ["Volkswagen"],
+    "model": "Golf GTi 16V",
+    "modelYear": 1994,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Saabsut"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865195761432395796/VW_Golf_GTI_16V_Card.png"
+}

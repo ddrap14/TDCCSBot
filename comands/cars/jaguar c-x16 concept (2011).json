@@ -1,0 +1,12 @@
+{
+    "rq": 74,
+    "make": ["Jaguar"],
+    "model": "C-X16 Concept",
+    "modelYear": 2011,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871319332561510440/JaguarCX16Concept.png"
+}

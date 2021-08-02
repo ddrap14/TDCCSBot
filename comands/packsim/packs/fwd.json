@@ -1,0 +1,68 @@
+{
+	"packName": "FWD Pack",
+	"description": "Guaranteed to have one Super Rare! All cards are FWD.",
+	"pack": "https://cdn.discordapp.com/attachments/711405387995414648/871322847623135262/fwd.png",
+	"repetition": 1,
+
+	"filter": {
+		"make": "None",
+		"modelYear": {
+			"start": 1000,
+			"end": 3000
+		},
+		"country": "None",
+		"tags": "None",
+        "driveType": "FWD",
+        "tyreType": "None",
+        "fuelType": "None",
+        "bodyStyle": "None"
+	},
+
+	"packSequence": [
+		{
+			"common": 50,
+			"uncommon": 50,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 50,
+			"rare": 50,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 50,
+			"superRare": 50,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 41,
+			"superRare": 41,
+			"ultraRare": 15,
+			"epic": 3,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 70,
+			"ultraRare": 20,
+			"epic": 8,
+			"legendary": 2
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+    "rq": 80,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "GT S",
+    "modelYear": 2016,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Valou"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871364902567174194/1624545610856.jpg"
+}

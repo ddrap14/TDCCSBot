@@ -1,0 +1,12 @@
+{
+    "rq": 64,
+    "make": ["Acura" , "Honda"],
+    "model": "MDX SH-AWD",
+    "modelYear": 2012,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Valou"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871365792413909042/1622894599016.jpg"
+}

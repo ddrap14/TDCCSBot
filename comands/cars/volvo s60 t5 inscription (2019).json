@@ -1,0 +1,12 @@
+{
+    "rq": 52,
+    "make": ["Volvo"],
+    "model": "S60 T5 Inscription",
+    "modelYear": 2019,
+    "country": "SE",
+    "driveType": "FWD",
+    "tags": ["Luxury" , "La Peyo"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871594916378214510/Volvo_S60_T5_Inscription_19.png"
+}
