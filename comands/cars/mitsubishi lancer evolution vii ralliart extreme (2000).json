@@ -1,0 +1,12 @@
+{
+    "rq": 81,
+    "make": ["Mitsubishi"],
+    "model": "Lancer Evolution VI Ralliart eXtreme",
+    "modelYear": 2000,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Limited Edition" , "Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865301694942674984/evo6ralliartextreme.png"
+}

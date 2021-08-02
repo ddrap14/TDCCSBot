@@ -1,0 +1,12 @@
+{
+    "rq": 49,
+    "make": ["Hyundai"],
+    "model": "i30 N",
+    "modelYear": 2021,
+    "country": "KR",
+    "driveType": "FWD",
+    "tags": ["La Peyo" , "Everyday Heroes"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/860230823754858548/Hyundai_i30_N_21.png?width=1021&height=701"
+}

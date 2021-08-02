@@ -1,0 +1,12 @@
+{
+    "rq": 76,
+    "make": ["BMW"],
+    "model": "M3 CS",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Saabsut"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/864113913204834304/BMW_M3_CS_Card.png?width=1016&height=701"
+}

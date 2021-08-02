@@ -1,0 +1,12 @@
+{
+    "rq": 67,
+    "make": ["Porsche"],
+    "model": "Macan",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["La Peyo" , "Offroad"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871615772194131978/Porsche_Macan_18.png?width=1021&height=701"
+}

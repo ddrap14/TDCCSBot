@@ -1,0 +1,12 @@
+{
+    "rq": 28,
+    "make": ["Volkswagen"],
+    "model": "up! GTI",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["GAAN919" , "Everyday Heroes"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/861059026271731732/Volkswagen_up_GTI.png?width=1124&height=701"
+}

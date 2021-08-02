@@ -1,0 +1,12 @@
+{
+    "rq": 30,
+    "make": ["Honda"],
+    "model": "Accord SiR Wagon (delimited)",
+    "modelYear": 1996,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["xxRaginNationxx"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/861452905101656084/Honda_Accord_SiR_Wagon.png?width=1008&height=701"
+}

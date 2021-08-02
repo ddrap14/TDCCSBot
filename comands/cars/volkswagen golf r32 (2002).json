@@ -1,0 +1,12 @@
+{
+    "rq": 46,
+    "make": ["Volkswagen"],
+    "model": "Golf R32",
+    "modelYear": 2002,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Crayola" , "Limited Edition"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/860388630706651176/Volkswagen_Golf_R32_Typ_1J_02_2.png?width=1021&height=701"
+}
