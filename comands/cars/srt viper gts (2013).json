@@ -8,5 +8,6 @@
     "tags": ["Supercar" , "Muscle Car" , "Crayola"],
     "bodyStyle": "",
     "fuelType": "Petrol",
-    "card": ""
+    "card": "",
+    "creator": "Crayola"
 }

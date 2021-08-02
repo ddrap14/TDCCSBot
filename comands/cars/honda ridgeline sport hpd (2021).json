@@ -8,5 +8,6 @@
     "tags": ["Offroad" , "Tuner" , "ChickenMcNuggets"],
     "bodyStyle": "Utility",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870066448440107039/rideline.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870066448440107039/rideline.png",
+    "creator": "ChickenMcNuggets" 
 }

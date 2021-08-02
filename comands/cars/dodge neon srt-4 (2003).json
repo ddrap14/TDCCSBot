@@ -6,7 +6,8 @@
     "country": "US",
     "driveType": "FWD",
     "tags": ["Tuner" , "Olimato"],
-    "bodyStyle": "Sedam",
+    "bodyStyle": "Sedan",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870147763340464169/neon_srt4.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870147763340464169/neon_srt4.png",
+    "creator": "Olimato" 
 }

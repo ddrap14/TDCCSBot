@@ -8,5 +8,6 @@
     "tags": ["Luxury" , "Crossfire"],
     "bodyStyle": "Sedan",
     "fuelType": "Diesel",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871350295735713862/JaguarXE20dRSport.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871350295735713862/JaguarXE20dRSport.png",
+    "creator": "Crossfire" 
 }

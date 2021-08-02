@@ -8,5 +8,6 @@
     "tags": ["Luxury" , "ChickenMcNuggets"],
     "bodyStyle": "Sedan",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870064112112128011/3.7.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870064112112128011/3.7.png",
+    "creator": "ChickenMcNuggets" 
 }

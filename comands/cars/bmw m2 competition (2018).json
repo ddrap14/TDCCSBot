@@ -8,5 +8,6 @@
     "tags": ["Tuner" , "Olimato"],
     "bodyStyle": "RWD",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101750110105640/m2_comp.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101750110105640/m2_comp.png",
+    "creator": "Olimato" 
 }

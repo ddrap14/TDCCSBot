@@ -8,5 +8,6 @@
     "tags": ["Supercar" , "Luxury" , "Limited Edition" , "Crossfire"],
     "bodyStyle": "Coupe",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871079289704026162/BugattiType57SCAtlantic.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871079289704026162/BugattiType57SCAtlantic.png",
+    "creator": "Crossfire" 
 }

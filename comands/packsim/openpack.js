@@ -174,7 +174,7 @@ module.exports = {
 					if (i % 5 === 0) {
 						pulledCards[i] = "";
 					}
-					pulledCards[i] += `(${rarity} ${currentCard["rq"]}) ${make} ${currentCard["model"]} (${currentCard["modelYear"]})`;
+					pulledCards[i] += `(${rarity} ${currentCard["rq"]}) ${make} ${currentCard["model"]} (${currentCard["modelYear"]}) ; made by ${currentCard["creator"]}`;
 					if ((i + 1) % 5 !== 0) {
 						pulledCards[i] += ` **[[Card]](${currentCard["card"]})**\n`;
 					}

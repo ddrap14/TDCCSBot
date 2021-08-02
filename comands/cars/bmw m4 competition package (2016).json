@@ -8,5 +8,6 @@
     "tags": ["Tuner" , "Limited Edition" , "Olimato"],
     "bodyStyle": "Sedan",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101966561378314/m4_comp_pack.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870101966561378314/m4_comp_pack.png",
+    "creator": "Olimato" 
 }

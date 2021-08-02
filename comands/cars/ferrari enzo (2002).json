@@ -8,5 +8,6 @@
     "tags": ["Supercar" , "Luxury" , "Crayola"],
     "bodyStyle": "Coupe",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871567281031876668/Enzo_Ferrari_02_2.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871567281031876668/Enzo_Ferrari_02_2.png",
+    "creator": "Crayola" 
 }

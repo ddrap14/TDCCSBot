@@ -8,5 +8,6 @@
     "tags": ["Everyday Heroes" , "Crayola"],
     "bodyStyle": "Sedan",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866769044271398922/Acura_TSX_06.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/866769044271398922/Acura_TSX_06.png",
+    "creator": "Crayola" 
 }

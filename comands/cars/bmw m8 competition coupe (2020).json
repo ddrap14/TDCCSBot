@@ -8,5 +8,6 @@
     "tags": ["Supercar" , "Luxury" , "Olimato"],
     "bodyStyle": "Coupe",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870102283038371860/m8_comp_coupe.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/870102283038371860/m8_comp_coupe.png",
+    "creator": "Olimato" 
 }

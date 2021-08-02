@@ -8,5 +8,6 @@
     "tags": ["Offroad" , "Luxury" , "Crayola"],
     "bodyStyle": "SUV",
     "fuelType": "Hybrid",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865430965861875762/Bentley_Bentayga_Hybrid_21.png"
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865430965861875762/Bentley_Bentayga_Hybrid_21.png",
+    "creator": "Crayola" 
 }
