@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Mercedes-Benz"],
+    "model": "CLS 63 AMG",
+    "modelYear": 2010,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871891690179420190/cls_63_amg.png?width=1125&height=701",
+    "creator": "Olimato"
+}

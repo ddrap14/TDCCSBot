@@ -1,0 +1,13 @@
+{
+    "rq": 93,
+    "make": ["McLaren"],
+    "model": "F1 GTR Longtail",
+    "modelYear": 1997,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Legends" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871933732527931442/F1_GTR_Longtail.png?width=1125&height=701",
+    "creator": "Olimato"
+}

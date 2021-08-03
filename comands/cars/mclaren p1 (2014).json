@@ -1,0 +1,13 @@
+{
+    "rq": 96,
+    "make": ["McLaren"],
+    "model": "P1",
+    "modelYear": 2014,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Legends" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871934236792340480/mclaren_p1TM.png?width=1125&height=701",
+    "creator": "Olimato"
+}

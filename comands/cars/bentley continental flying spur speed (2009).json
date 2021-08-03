@@ -1,0 +1,13 @@
+{
+    "rq": 66,
+    "make": ["Bentley"],
+    "model": "Continental Flying Spur Speed",
+    "modelYear": 2009,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Luxury", "Macan"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871931121879879690/Continental_Flying_Spur_Speed_09.png",
+    "creator": "Macan"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Jaguar"],
+    "model": "D-Type",
+    "modelYear": 1954,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Crossfire" . "Motorsport" , "Supercar"],
+    "bodyStyle": "Roadster",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871838807228555264/JaguarDType.png?width=1127&height=701",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 67,
+    "make": ["BMW"],
+    "model": "M5 CSL '25th Anniversary Edition'",
+    "modelYear": 2009,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871961967013818408/m5_csl_25_anniv_edit.png?width=1125&height=701",
+    "creator": "Olimato"
+}

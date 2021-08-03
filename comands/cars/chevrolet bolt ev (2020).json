@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["Chevrolet"],
+    "model": "Bolt EV",
+    "modelYear": 2020,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes", "Dizionario"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/707591600066265168/Chevrolet_Bolt_EV_20.png",
+    "creator": "Dizionario"
+}

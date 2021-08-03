@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Jaguar"],
+    "model": "XE SV Project 8",
+    "modelYear": 2017,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Limited Edition" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871838770750685234/JaguarXESVProject8.png?width=1127&height=701",
+    "creator": "Crossfire"
+}

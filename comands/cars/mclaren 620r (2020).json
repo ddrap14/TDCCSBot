@@ -1,0 +1,13 @@
+{
+    "rq": 93,
+    "make": ["McLaren"],
+    "model": "620R",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871933922576060416/mclaren_620r.png?width=1125&height=701",
+    "creator": "Olimato"
+}

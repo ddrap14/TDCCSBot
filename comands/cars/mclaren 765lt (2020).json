@@ -1,0 +1,13 @@
+{
+    "rq": 96,
+    "make": ["McLaren"],
+    "model": "765LT",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871933666064990298/765lt.png?width=1125&height=701",
+    "creator": "Olimato"
+}

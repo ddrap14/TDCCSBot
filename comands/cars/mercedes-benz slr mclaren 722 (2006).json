@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Mercedes-Benz"],
+    "model": "SLR McLaren 722",
+    "modelYear": 2006,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Olimato],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871934374852051004/slr_722.png?width=1125&height=701",
+    "creator": "Olimato"
+}

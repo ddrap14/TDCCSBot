@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["McLaren"],
+    "model": "F1",
+    "modelYear": 1994,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Legends" , "Supercar" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/871934029572759552/Mclaren_F1.png?width=1125&height=701",
+    "creator": "Olimato"
+}

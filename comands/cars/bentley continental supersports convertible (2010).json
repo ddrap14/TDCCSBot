@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Bentley"],
+    "model": "Continental Supersports Convertible",
+    "modelYear": 2010,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Luxury", "Macan"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871934815690170428/Continental_Supersports_Convertible_10.png",
+    "creator": "Macan"
+}
