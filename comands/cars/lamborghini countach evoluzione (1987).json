@@ -1,0 +1,13 @@
+{
+    "rq": 71,
+    "make": ["Lamborghini"],
+    "model": "Countach Evoluzione",
+    "modelYear": 1987,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Concept"  , "Supercar" , "Johnny4388"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871751607354798140/Lamborghini-Countach-Evoluzione.png",
+    "creator": "Johnny4388"
+}

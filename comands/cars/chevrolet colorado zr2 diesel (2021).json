@@ -1,0 +1,13 @@
+{
+    "rq": 58,
+    "make": ["Chevrolet"],
+    "model": "Colorado ZR2 Diesel",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "ThatOtherCarGuy"],
+    "bodyStyle": "Utility",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871793439807791124/Chevrolet_Colorado_ZR2_Diesel.png",
+    "creator": "ThatOtherCarGuy"
+}

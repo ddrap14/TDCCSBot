@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["BMW"],
+    "model": "X5 xDrive30d M Sport",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Itadari"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/871793670448361523/BMW_X5_xDrive_30d_M_Sport_20.png",
+    "creator": "Itadari"
+}
