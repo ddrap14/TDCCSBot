@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["Ram"],
+    "model": "Dodge Ramcharger",
+    "modelYear": 1978,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Crayola"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/852042899465568256/Dodge_Ramcharger_78.png?width=1128&height=702",
+    "creator": "Crayola"
+}

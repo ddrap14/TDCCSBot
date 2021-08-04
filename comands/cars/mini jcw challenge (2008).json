@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Mini"],
+    "model": "JCW Challenge",
+    "modelYear": 2008,
+    "country": "GB",
+    "driveType": "FWD",
+    "tags": ["Motorsport" , "Crayola"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/851824928054444042/Mini_John_Cooper_Works_Challenge_R56_08.png?width=1128&height=702",
+    "creator": "Crayola"
+}

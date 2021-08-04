@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Rimac" , "BMW"],
+    "model": "e-M3",
+    "modelYear": 2012,
+    "country": "HR",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Olimato" , "Tuner"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872308428683477112/rimac_e-m3.png?width=1128&height=702",
+    "creator": "Olimato"
+}
