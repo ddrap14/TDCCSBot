@@ -1,0 +1,13 @@
+{
+    "rq": 78,
+    "make": ["BMW"],
+    "model": "i8 Roadster Safety Car",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Oddball" , "Crayola"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/848097666801860608/BMW_i8_Roadster_Formula_E_Safety_Car_19_2.png?width=1125&height=701",
+    "creator": "Crayola"
+}

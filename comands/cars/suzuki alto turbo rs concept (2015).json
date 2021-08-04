@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["Suzuki"],
+    "model": "Alta Turbo RS Concept",
+    "modelYear": 2015,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Saabsut"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/848523392403636244/PicsArt_05-27-09.53.03.png?width=1125&height=701",
+    "creator": "Saabsut"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 36,
+    "make": ["GMC"],
+    "model": "Yukon Denali",
+    "modelYear": 2001,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Crayola"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/851667875541942322/GMC_Yukon_Denali_GMT820_01.png?width=1125&height=701",
+    "creator": "Crayola"
+}

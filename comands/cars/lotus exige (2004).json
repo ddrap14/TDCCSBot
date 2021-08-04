@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Lotus"],
+    "model": "Exige",
+    "modelYear": 2004,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872410270662799370/exige.png?width=1125&height=701",
+    "creator": "Olimato"
+}

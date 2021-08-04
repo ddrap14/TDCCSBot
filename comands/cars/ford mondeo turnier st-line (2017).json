@@ -1,0 +1,13 @@
+{
+    "rq": 39,
+    "make": ["Ford"],
+    "model": "Mondeo Turnier ST-Line",
+    "modelYear": 2017,
+    "country": "GB",
+    "driveType": "FWD",
+    "tags": ["GAAN919"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Diesel",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/847937021233594378/Ford_Mondeo_Turnier_ST-Line.png?width=1125&height=701",
+    "creator": "GAAN919"
+}

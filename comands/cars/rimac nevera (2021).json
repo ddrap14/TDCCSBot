@@ -1,0 +1,13 @@
+{
+    "rq": 100,
+    "make": ["Rimac"],
+    "model": "Nevera",
+    "modelYear": 2021,
+    "country": "HR",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Manperson69"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/849397942721052672/2021_Rimac_Nevera_3d.png?width=1027&height=701",
+    "creator": "Manperson69"
+}

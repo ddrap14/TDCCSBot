@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Toyota"],
+    "model": "GT86 CS-R3",
+    "modelYear": 2015,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Offroad" , "Crayola],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/848999782859931669/Toyota_GT86_CS-R3_15.png?width=1125&height=701",
+    "creator": "Crayola"
+}

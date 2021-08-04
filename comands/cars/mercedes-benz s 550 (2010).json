@@ -1,0 +1,13 @@
+{
+    "rq": 59,
+    "make": ["Mercedes-Benz"],
+    "model": "S 550",
+    "modelYear": 2010,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872386316745203762/s550.png?width=1125&height=701",
+    "creator": "Olimato"
+}

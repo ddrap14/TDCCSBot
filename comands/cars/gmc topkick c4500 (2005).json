@@ -1,0 +1,13 @@
+{
+    "rq": 34,
+    "make": ["GMC"],
+    "model": "Topkick C4500",
+    "modelYear": 2005,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Olimato"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872407667430277150/gmc_topkick.png",
+    "creator": "Olimato"
+}

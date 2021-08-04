@@ -1,0 +1,13 @@
+{
+    "rq": 31,
+    "make": ["Alfa Romeo"],
+    "model": "146 Ti",
+    "modelYear": 1996,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872414687457857556/146_ti.png?width=1125&height=701",
+    "creator": "Olimato"
+}

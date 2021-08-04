@@ -1,0 +1,13 @@
+{
+    "rq": 74,
+    "make": ["Chevrolet"],
+    "model": "Corvette Stingray Convertible",
+    "modelYear": 2013,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Saabsut"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/849370450005590046/Corvette_Stingray_Convertible.png?width=1127&height=701",
+    "creator": "Saabsut"
+}
