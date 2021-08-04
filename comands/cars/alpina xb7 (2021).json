@@ -1,0 +1,13 @@
+{
+    "rq": 77,
+    "make": ["Alpina"],
+    "model": "XB7",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Olimato"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872284334789386240/alpina_xb7.png?width=1128&height=702",
+    "creator": "Olimato"
+}
