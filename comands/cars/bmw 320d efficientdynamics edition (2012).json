@@ -1,0 +1,13 @@
+{
+    "rq": 44,
+    "make": ["BMW"],
+    "model": "320d EfficientDynamics Edition",
+    "modelYear": 2012,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Everyday Heroes" , "Macan"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872403352024145950/320d_EfficientDynamics_Edition_12.png",
+    "creator": "Macan"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Alpina" , "BMW"],
+    "model": "B7 Biturbo",
+    "modelYear": 2012,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Super Sedan" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872409103199244348/AlpinaB7Biturbo.png",
+    "creator": "Crossfire"
+}

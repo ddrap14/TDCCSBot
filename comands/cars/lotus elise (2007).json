@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Lotus"],
+    "model": "Elise",
+    "modelYear": 2007,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Awaffle"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872351432903364698/lotuselise07.png",
+    "creator": "Awaffle"
+}

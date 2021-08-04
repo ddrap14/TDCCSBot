@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Ford"],
+    "model": "Taurus SHO",
+    "modelYear": 2013,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Super Sedan" , "Everyday Heroes" , "Crayola"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872373656569933894/Ford_Taurus_SHO_13.png",
+    "creator": "Crayola"
+}

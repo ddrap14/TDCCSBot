@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Aston Martin"],
+    "model": "DBS Carbon Black Volante",
+    "modelYear": 2010,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Riced Drives"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872390424126439424/Aston_Martin_DBS_Carbon_Black_Volante.png",
+    "creator": "Riced Drives"
+}
