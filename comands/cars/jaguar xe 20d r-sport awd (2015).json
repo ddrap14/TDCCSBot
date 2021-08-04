@@ -1,0 +1,13 @@
+{
+    "rq": 36,
+    "make": ["Jaguar"],
+    "model": "XE 20d R-Sport AWD",
+    "modelYear": 2015,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Olimato"],
+    "bodyStyle": "Sedam",
+    "fuelType": "Diesel",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872253982700097586/xe_20d_r-sport_awd.png?width=1128&height=702",
+    "creator": "Olimato"
+}
