@@ -1,6 +1,6 @@
 {
     "rq": 77,
-    "make": ["Alpina"],
+    "make": ["Alpina" , "BMW"],
     "model": "XB7",
     "modelYear": 2021,
     "country": "DE",
