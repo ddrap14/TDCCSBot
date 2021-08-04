@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Subaru"],
+    "model": "Legacy",
+    "modelYear": 2015,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Itadari"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872421463758602240/Subaru_Legacy_15.png",
+    "creator": "Itadari"
+}
