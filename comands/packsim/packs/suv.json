@@ -1,0 +1,68 @@
+{
+	"packName": "SUV Pack",
+	"description": "Guaranteed to have one Super Rare! All cards are SUVs.",
+	"pack": "https://cdn.discordapp.com/attachments/711405387995414648/871615874434482186/suv.png",
+	"repetition": 1,
+
+	"filter": {
+		"make": "None",
+		"modelYear": {
+			"start": 1000,
+			"end": 3000
+		},
+		"country": "None",
+		"tags": "None",
+        "driveType": "None",
+        "tyreType": "None",
+        "fuelType": "None",
+        "bodyStyle": "SUV"
+	},
+
+	"packSequence": [
+		{
+			"common": 50,
+			"uncommon": 50,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 50,
+			"rare": 50,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 50,
+			"superRare": 50,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 80,
+			"ultraRare": 15,
+			"epic": 4,
+			"legendary": 1
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 80,
+			"epic": 18,
+			"legendary": 2
+		}
+	]
+}
