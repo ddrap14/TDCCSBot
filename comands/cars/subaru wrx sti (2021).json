@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Subaru"],
+    "model": "WRX STI",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Street Racer" , "Motorsport" , "Itadari"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://discord.com/channels/393487089909628930/421784438062579712/872174016532709377",
+    "creator": "Itadari"
+}
