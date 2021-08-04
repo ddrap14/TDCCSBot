@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Nissan"],
+    "model": "Leaf Nismo RC",
+    "modelYear": 2018,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Oddball" , "Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872219120828047390/image0.png",
+    "creator": "Northernhauler"
+}

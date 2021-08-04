@@ -1,0 +1,13 @@
+{
+    "rq": 19,
+    "make": ["Kia"],
+    "model": "Rio Cinco",
+    "modelYear": 2002,
+    "country": "KR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Nevaeh"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872325017176780860/1628048408121.jpg",
+    "creator": "Nevaeh"
+}

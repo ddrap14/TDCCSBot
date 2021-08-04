@@ -1,0 +1,13 @@
+{
+    "rq": 83,
+    "make": ["Alpina" , "BMW"],
+    "model": "B3 Limousine Allrad",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872177864026513418/AlpinaB3LimousineAllrad.png",
+    "creator": "Crossfire"
+}

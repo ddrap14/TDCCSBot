@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Renault"],
+    "model": "Zoe E-Sport",
+    "modelYear": 2017,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Nevaeh"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872324396537249822/1628043672233.jpg",
+    "creator": "Nevaeh"
+}

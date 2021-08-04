@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["E-Legend" , "Audi"],
+    "model": "EL1",
+    "modelYear": 2022,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872250647045607444/image0.png",
+    "creator": "Northernhauler"
+}

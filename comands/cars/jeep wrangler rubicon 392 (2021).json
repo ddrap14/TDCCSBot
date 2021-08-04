@@ -1,0 +1,13 @@
+{
+    "rq": 78,
+    "make": ["Jeep"],
+    "model": "Wrangler Rubicon 392",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872288654951866428/image0.png",
+    "creator": "Northernhauler"
+}

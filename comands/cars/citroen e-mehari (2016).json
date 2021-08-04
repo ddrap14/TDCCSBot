@@ -1,0 +1,13 @@
+{
+    "rq": 13,
+    "make": ["Citroen"],
+    "model": "e-Mehari",
+    "modelYear": 2016,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Concept" , "GAAN919"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/393487977906438154/872320954544558110/Citroen_E-Mehari_3.png",
+    "creator": "GAAN919"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 71,
+    "make": ["Ford"],
+    "model": "Focus RS",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Crayola"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872319104193798194/Ford_Focus_RS_16_2.png",
+    "creator": "Crayola"
+}
