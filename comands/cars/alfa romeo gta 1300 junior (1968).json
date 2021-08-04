@@ -1,0 +1,13 @@
+{
+    "rq": 13,
+    "make": ["Alfa Romeo"],
+    "model": "GTA 1300 Junior",
+    "modelYear": 1968,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872413342592040960/Alfa_Romeo_GTA_1300_Junior_68.png",
+    "creator": "Itadari"
+}
