@@ -1,0 +1,13 @@
+{
+    "rq": 51,
+    "make": ["Alpina" , "BMW"],
+    "model": "Roadster V8 Limited Edition",
+    "modelYear": 2002,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Tuner" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872442517667332116/AlpinaRoadsterV8LimitedEdition.png",
+    "creator": "Crossfire"
+}

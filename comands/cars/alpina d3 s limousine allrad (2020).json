@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Alpina" , "BMW"],
+    "model": "D3 S Limousine Allrad",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Super Sedan" , "Tuner" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872442584256110602/AlpinaD3SLimousineAllrad.png",
+    "creator": "Crossfire"
+}
