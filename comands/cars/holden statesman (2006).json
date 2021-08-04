@@ -1,0 +1,13 @@
+{
+    "rq": 72,
+    "make": ["Holden"],
+    "model": "Statesman",
+    "modelYear": 2006,
+    "country": "AU",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872020873727574047/holden_statesman.png?width=1125&height=701",
+    "creator": "Olimato"
+}

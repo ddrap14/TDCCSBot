@@ -1,0 +1,13 @@
+{
+    "rq": 14,
+    "make": ["Lancia"],
+    "model": "Flaminia 3C Sport 2.8",
+    "modelYear": 1963,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872021627305590874/flaminia_sport_2.8.png?width=1125&height=701",
+    "creator": "Olimato"
+}

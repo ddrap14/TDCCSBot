@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Citroen"],
+    "model": "C15 E Police",
+    "modelYear": 1984,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Oddballs" , "Olimato"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872020127367962624/citroen_c15_e_police.png?width=1125&height=701",
+    "creator": "Olimato"
+}

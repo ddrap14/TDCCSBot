@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Mitsubishi"],
+    "model": "Lancer Evolution II RS",
+    "modelYear": 1994,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865300803254484992/evo2rs.png",
+    "creator": "Bnuuy"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["Bufori"],
+    "model": "La Joya",
+    "modelYear": 2004,
+    "country": "MY",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872117111076585482/bufori_la_joya.png",
+    "creator": "Keanny"
+}

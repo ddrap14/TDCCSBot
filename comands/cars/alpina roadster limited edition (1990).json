@@ -1,0 +1,13 @@
+{
+    "rq": 42,
+    "make": ["Alpina" , "BMW"],
+    "model": "Roadster Limited Edition",
+    "modelYear": 1990,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Limited Edition" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872086014259253318/AlpinaRoadsterLimitedEdition.png",
+    "creator": "Crossfire"
+}

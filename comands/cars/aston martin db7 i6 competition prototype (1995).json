@@ -1,0 +1,13 @@
+{
+    "rq": 48,
+    "make": ["Aston Martin"],
+    "model": "DB7 i6 GT Competition Prototype",
+    "modelYear": 1995,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Babnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/855049941013495808/db7comp.png?width=1127&height=701",
+    "creator": "Babanuuy"
+}

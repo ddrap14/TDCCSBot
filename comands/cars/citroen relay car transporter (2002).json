@@ -1,0 +1,13 @@
+{
+    "rq": 14,
+    "make": ["Citroen"],
+    "model": "Relay Car Transporter",
+    "modelYear": 2002,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Olimato"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872020241666949130/citroen_relay_car.png?width=1125&height=701",
+    "creator": "Olimato"
+}

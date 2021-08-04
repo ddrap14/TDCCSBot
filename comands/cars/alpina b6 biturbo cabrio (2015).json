@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["Alpina" , "BMW"],
+    "model": "B6 Biturbo Cabrio",
+    "modelYear": 2015,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872085915659546634/AlpinaB6BiturboCabrio.png",
+    "creator": "Crossfire"
+}

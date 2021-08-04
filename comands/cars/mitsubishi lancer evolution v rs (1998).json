@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Mitsubishi"],
+    "model": "Lancer Evolution V RS",
+    "modelYear": 1998,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865301110922674186/evo5rs.png",
+    "creator": "Bnuuy"
+}

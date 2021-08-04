@@ -1,0 +1,13 @@
+{
+    "rq": 27,
+    "make": ["Bufori"],
+    "model": "Madison",
+    "modelYear": 1986,
+    "country": "AU",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872117125324623913/bufori_madison.png",
+    "creator": "Keanny"
+}

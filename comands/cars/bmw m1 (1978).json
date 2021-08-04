@@ -1,0 +1,13 @@
+{
+    "rq": 45,
+    "make": ["BMW"],
+    "model": "M1",
+    "modelYear": 1978,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/855097279119491092/BMWM1.png?width=1129&height=701",
+    "creator": "Crossfire"
+}

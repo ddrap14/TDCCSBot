@@ -1,0 +1,13 @@
+{
+    "rq": 42,
+    "make": ["Lotus"],
+    "model": "Esprit S1 'Wet Nellie'",
+    "modelYear": 1976,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Star Cars" , "Oddball" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/854569248726188042/Lotus_Esprit_S1_Wet_Nellie_76.png?width=1125&height=701",
+    "creator": "Crayola"
+}

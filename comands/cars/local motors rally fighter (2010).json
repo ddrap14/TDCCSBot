@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Local Motors"],
+    "model": "Rally Fighter",
+    "modelYear": 2010,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/855159686474760242/LocalMotorsRallyFighter.png?width=1127&height=701",
+    "creator": "Crossfire"
+}

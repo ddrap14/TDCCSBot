@@ -1,0 +1,13 @@
+{
+    "rq": 47,
+    "make": ["Holden"],
+    "model": "Commodore Director",
+    "modelYear": 2017,
+    "country": "AU",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872020815087030312/holden_commodore_director.png?width=1125&height=701",
+    "creator": "Olimato"
+}

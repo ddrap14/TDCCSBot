@@ -1,0 +1,13 @@
+{
+    "rq": 94,
+    "make": ["Mitsubishi"],
+    "model": "Lancer Evolution V Ralliart RS450",
+    "modelYear": 1998,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Super Sedan" , "Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865301265944805446/ev5rs450.png",
+    "creator": "Bnuuy"
+}

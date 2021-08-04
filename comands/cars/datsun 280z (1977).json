@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Datsun"],
+    "model": "280Z",
+    "modelYear": 1977,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872020433443106846/Datsun_280Z.png?width=1125&height=701",
+    "creator": "Olimato"
+}

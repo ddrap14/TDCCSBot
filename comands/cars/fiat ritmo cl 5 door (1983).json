@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Fiat"],
+    "model": "Ritmo Cl 5 Door",
+    "modelYear": 1983,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872020592931504138/fiat_ritmo.png?width=1125&height=701",
+    "creator": "Olimato"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Mitsubishi"],
+    "model": "Lancer Evolution III GSR",
+    "modelYear": 1996,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Bnuuy"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/865300858660192296/evo3gsr.png",
+    "creator": "Bnuuy"
+}
