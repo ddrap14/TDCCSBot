@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Geely"],
+    "model": "Emgrand GSE",
+    "modelYear": 2018,
+    "country": "CN",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Keanny"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/871903014305292298/872349770100912198/geely_emgrand_gse.png",
+    "creator": "Keanny"
+}
