@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["Hybrid Kinetic"],
+    "model": "H500",
+    "modelYear": 2018,
+    "country": "HK",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Keanny"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872117169104748575/hybrid_kinetic_h500.png",
+    "creator": "Keanny"
+}

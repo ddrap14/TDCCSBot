@@ -1,0 +1,13 @@
+{
+    "rq": 18,
+    "make": ["Studio X-Gene"],
+    "model": "Avant GT",
+    "modelYear": 2011,
+    "country": "TW",
+    "driveType": "FWD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872117278060199956/studio_x-gene_avant_gt.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["Hybrid Kinetic"],
+    "model": "H600",
+    "modelYear": 2017,
+    "country": "HK",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Super Sedan" , "Keanny"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872117188797009970/hybrid_kinetic_h600.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 51,
+    "make": ["Luxgen"],
+    "model": "Neora",
+    "modelYear": 2011,
+    "country": "TW",
+    "driveType": "FWD",
+    "tags": ["Luxury" , "Everyday Heroes" , "Keanny"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872117220430471208/luxgen_neora.png",
+    "creator": "Keanny"
+}

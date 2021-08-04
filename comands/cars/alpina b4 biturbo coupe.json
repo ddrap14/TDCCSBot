@@ -1,0 +1,13 @@
+{
+    "rq": 74,
+    "make": ["Alpina" , "BMW"],
+    "model": "Biturbo Coupe",
+    "modelYear": 2014,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Super Sedan" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872145881347031080/AlpinaB4BiturboCoupereal.png",
+    "creator": "Crossfire"
+}
