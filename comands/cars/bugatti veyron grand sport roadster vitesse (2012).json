@@ -1,0 +1,13 @@
+{
+    "rq": 97,
+    "make": ["Bugatti"],
+    "model": "Veyron Grand Sport Roadster Vitesse",
+    "modelYear": 2012,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864737091572989982/Bugatti_Veyron_Grand_Sport_Roadster_Vitesse.png",
+    "creator": "GAAN919"
+}

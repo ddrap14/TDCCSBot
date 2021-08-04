@@ -1,0 +1,13 @@
+{
+    "rq": 88,
+    "make": ["Peugeot"],
+    "model": "205 T16 Evo 2 Group B",
+    "modelYear": 1985,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Legends" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864208559272099871/Peugeot205T16Evo2GroupB.png",
+    "creator": "Crossfire"
+}

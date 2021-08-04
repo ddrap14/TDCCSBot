@@ -1,0 +1,13 @@
+{
+    "rq": 95,
+    "make": ["Lamborghini"],
+    "model": "Huracan Performante Spider",
+    "modelYear": 2018,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Limited Edition" , "ThatOtherCarGuy"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864407440816472084/Lamborghini_Huracan_Performante_Spyder.png",
+    "creator": "ThatOtherCarGuy"
+}

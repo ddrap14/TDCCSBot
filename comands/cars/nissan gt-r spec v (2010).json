@@ -1,0 +1,13 @@
+{
+    "rq": 83,
+    "make": ["Nissan"],
+    "model": "GT-R Spec V",
+    "modelYear": 2010,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864385939107217448/Nissan_GT-R_Spec_V_10.png",
+    "creator": "Crayola"
+}

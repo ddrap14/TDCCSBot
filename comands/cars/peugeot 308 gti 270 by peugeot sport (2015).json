@@ -1,0 +1,13 @@
+{
+    "rq": 54,
+    "make": ["Peugeot"],
+    "model": "308 GTi 270 by Peugeot Sport",
+    "modelYear": 2015,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864146953692905482/Peugeot308GTi270byPeugeotSport.png",
+    "creator": "Crossfire"
+}

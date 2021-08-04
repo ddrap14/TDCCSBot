@@ -1,0 +1,13 @@
+{
+    "rq": 90,
+    "make": ["Ford"],
+    "model": "GT",
+    "modelYear": 2016,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Saabsut"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864213931450564608/Ford_GT_Card.png",
+    "creator": "Saabsut"
+}

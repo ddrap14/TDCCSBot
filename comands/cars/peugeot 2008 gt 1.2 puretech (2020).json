@@ -1,0 +1,13 @@
+{
+    "rq": 36,
+    "make": ["Peugeot"],
+    "model": "2008 1.2 GT PureTech",
+    "modelYear": 2020,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864104316008661042/Peugeot2008GT12PureTech.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["Porsche"],
+    "model": "911 GT3 MT Touring Paket",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864215766760161331/Porsche911GT3MTTouringPaket.png",
+    "creator": "Crossfire"
+}

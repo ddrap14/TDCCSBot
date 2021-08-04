@@ -1,0 +1,13 @@
+{
+    "rq": 44,
+    "make": ["Ford"],
+    "model": "Bronco XLT",
+    "modelYear": 1986,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Manperson69"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864604237957562438/1986_Ford_Bronco_XLT.png",
+    "creator": "Manperson69"
+}

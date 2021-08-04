@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Lotus"],
+    "model": "Esprit V8",
+    "modelYear": 1996,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Saabsut"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/864218091550801930/Lotus_Espirit_V8_Card.png",
+    "creator": "Saabsut"
+}
