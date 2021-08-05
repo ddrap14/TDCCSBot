@@ -1,0 +1,13 @@
+{
+    "rq": 22,
+    "make": ["Mercedes-Benz"],
+    "model": "A190 Avantgarde",
+    "modelYear": 1999,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872756222363844668/a190_avantgarde.png?width=1128&height=702",
+    "creator": "Olimato"
+}

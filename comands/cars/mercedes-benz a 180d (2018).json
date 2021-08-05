@@ -1,0 +1,13 @@
+{
+    "rq": 26,
+    "make": ["Mercedes-Benz"],
+    "model": " A 180d",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Diesel",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872757854048768030/MercedesBenzA180d.png?width=1128&height=702",
+    "creator": "Crossfire"
+}

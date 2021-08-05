@@ -1,0 +1,13 @@
+{
+    "rq": 14,
+    "make": ["Mercedes-Benz"],
+    "model": "V 220 CDI",
+    "modelYear": 1999,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872765084764606474/v220_cdi.png?width=1128&height=702",
+    "creator": "Olimato"
+}
