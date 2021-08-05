@@ -1,0 +1,13 @@
+{
+    "rq": 13,
+    "make": ["Mercedes-Benz"],
+    "model": "Citan 108 CDi",
+    "modelYear": 2012,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872786878854725652/MercedesBenzCitan108CDIpng.png",
+    "creator": "Crossfire"
+}

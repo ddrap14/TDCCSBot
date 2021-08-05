@@ -1,0 +1,13 @@
+{
+    "rq": 35,
+    "make": ["Ford"],
+    "model": "Excursion 4WD",
+    "modelYear": 2001,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Oddball" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872806906635382824/image0.png",
+    "creator": "Northernhauler"
+}
