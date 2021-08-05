@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Mercedes-Benz"],
+    "model": "190 E",
+    "modelYear": 1982,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872768619459788860/mercedes-benz_190_e.png?width=1128&height=702",
+    "creator": "Olimato"
+}
