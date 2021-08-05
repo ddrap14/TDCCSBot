@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Rinspeed"],
+    "model": "Budii",
+    "modelYear": 2011,
+    "country": "CH",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/871903014305292298/872361096323923998/rinspeed_budii.png",
+    "creator": "Keanny"
+}

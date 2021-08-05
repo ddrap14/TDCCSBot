@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "CLK GTR Coupe Strassenversion",
+    "modelYear": 1998,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "Limited Edition" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872469400438079498/MercedesAMGCLKGTRCoupeStraenversion.png",
+    "creator": "Crossfire"
+}

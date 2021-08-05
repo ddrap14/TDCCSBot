@@ -1,0 +1,13 @@
+{
+    "rq": 95,
+    "make": ["Schaeffler" , "Audi"],
+    "model": "4ePerformance Concept",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Concept" , "Keanny"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/393487977906438154/872657185694437426/schaeffler_4eperformance_concept.png",
+    "creator": "Keanny"
+}

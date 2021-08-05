@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Chevrolet"],
+    "model": "Corvette C5R",
+    "modelYear": 2001,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/393487977906438154/872658227723108402/Chevrolet_Corvette_C5R.png",
+    "creator": "GAAN919"
+}

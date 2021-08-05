@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "SLC 43",
+    "modelYear": 2016,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872550669205270548/MercedesAMGSLC43.png",
+    "creator": "Crossfire"
+}

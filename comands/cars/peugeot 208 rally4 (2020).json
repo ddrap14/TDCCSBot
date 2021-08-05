@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Peugeot"],
+    "model": "208 Rally4",
+    "modelYear": 2020,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Motorsport" , "La Peyo"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/863534376340291584/Peugeot_208_Rally4_Stock_20.png",
+    "creator": "La Peyo"
+}

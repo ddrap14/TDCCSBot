@@ -1,0 +1,13 @@
+{
+    "rq": 90,
+    "make": ["BMW"],
+    "model": "Vision M Next Concept",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872449677851783178/BMWVisionMNextConcept.png",
+    "creator": "Crossfire"
+}

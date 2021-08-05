@@ -1,0 +1,13 @@
+{
+    "rq": 30,
+    "make": ["Denza"],
+    "model": "X EV",
+    "modelYear": 2020,
+    "country": "CN",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Keanny"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/871903014305292298/872352573397532723/ay_yes_commiting_war_crimes.png",
+    "creator": "Keanny"
+}

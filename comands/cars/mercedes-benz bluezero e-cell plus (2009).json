@@ -1,0 +1,13 @@
+{
+    "rq": 22,
+    "make": ["Mercedes-Benz"],
+    "model": "BlueZERO E-CELL Plus",
+    "modelYear": 2009,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/871903014305292298/872361046894071868/mercedes-benz_bluezero_e-cell_plus.png",
+    "creator": "Keanny"
+}

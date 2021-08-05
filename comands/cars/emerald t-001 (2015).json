@@ -1,0 +1,13 @@
+{
+    "rq": 26,
+    "make": ["Emerald"],
+    "model": "T-001",
+    "modelYear": 2015,
+    "country": "GB",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Keanny"],
+    "bodyStyle": "Utility",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/871903014305292298/872357010753077248/emerald_t-001.png",
+    "creator": "Keanny"
+}
