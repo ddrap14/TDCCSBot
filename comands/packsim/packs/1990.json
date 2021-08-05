@@ -1,0 +1,67 @@
+{
+	"packName": "1990s Pack",
+	"description": "Guaranteed to have one Super Rare and one Ultra Rare!",
+	"pack": "https://cdn.discordapp.com/attachments/711405387995414648/872352319369519164/1990s.png",
+	"repetition": 1,
+
+	"filter": {
+		"make": "None",
+		"modelYear": {
+			"start": 1990,
+			"end": 1999
+		},
+		"country": "None",
+		"tags": "None",
+        "driveType": "None",
+        "fuelType": "None",
+        "bodyStyle": "None"
+	},
+
+	"packSequence": [
+		{
+			"common": 50,
+			"uncommon": 50,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 50,
+			"rare": 50,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 50,
+			"superRare": 50,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 80,
+			"ultraRare": 15,
+			"epic": 4,
+			"legendary": 1
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 80,
+			"epic": 18,
+			"legendary": 2
+		}
+	]
+}

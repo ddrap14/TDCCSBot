@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Porsche"],
+    "model": "924 Carrera GTS Rallye",
+    "modelYear": 1981,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Offroad" , "La Peyo"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/863290020306354176/Porsche_924_Carrera_GTS_Rallye_Off-Road_81.png",
+    "creator": "La Peyo"
+}

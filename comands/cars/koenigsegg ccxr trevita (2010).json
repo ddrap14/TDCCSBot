@@ -1,0 +1,13 @@
+{
+    "rq": 92,
+    "make": ["Koenigsegg"],
+    "model": "CCXR Trevita",
+    "modelYear": 2010,
+    "country": "SE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/863234939583594496/Koenigsegg_CCXR_Trevita_Mayweather_10.png",
+    "creator": "Crayola"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 48,
+    "make": ["Dodge" , "RAM"],
+    "model": "Ram 1500 Rumble Bee",
+    "modelYear": 2005,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Muscle Car" , "SidewaysReaction"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872702346768056320/rumblebee.png",
+    "creator": "SidewaysReaction"
+}
