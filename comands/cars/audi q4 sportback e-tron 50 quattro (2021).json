@@ -1,0 +1,13 @@
+{
+    "rq": 59,
+    "make": ["Audi"],
+    "model": "Q4 Sportback e-tron 50 Quattro",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/861160009126379561/AudiQ4Sportbacketron50Quattro.png?width=1017&height=633",
+    "creator": "Crossfire"
+}
