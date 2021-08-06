@@ -1,0 +1,13 @@
+{
+    "rq": 58,
+    "make": ["Mercedes-Benz"],
+    "model": "CLK 63 AMG",
+    "modelYear": 2006,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873073306960531466/clk_63_amg.png?width=1128&height=702",
+    "creator": "Olimato"
+}
