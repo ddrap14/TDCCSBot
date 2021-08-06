@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Mercedes-Benz"],
+    "model": "C 55 AMG",
+    "modelYear": 2004,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Luxury" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873152733358723102/c_55_amg.png?width=1128&height=702",
+    "creator": "Olimato"
+}
