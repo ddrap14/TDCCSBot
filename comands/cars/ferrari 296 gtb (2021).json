@@ -1,0 +1,13 @@
+{
+    "rq": 91,
+    "make": ["Ferrari"],
+    "model": "296 GTB",
+    "modelYear": 2021,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/857605634646999060/rari296.png?width=1017&height=633",
+    "creator": "Bnuuy"
+}
