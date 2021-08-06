@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Toyota"],
+    "model": "Supra Turbo",
+    "modelYear": 1993,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Legends" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/859793529101746206/ToyotaSupraTurbo.png?width=1017&height=633",
+    "creator": "Crossfire"
+}
