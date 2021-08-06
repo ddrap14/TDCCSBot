@@ -1,0 +1,13 @@
+{
+    "rq": 40,
+    "make": ["Dodge"],
+    "model": "Avenger Concept",
+    "modelYear": 2006,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Concept" , "ImSoupra"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872933919635435540/Dodge_Avenger_Concept_2006.png",
+    "creator": "ImSoupra"
+}
