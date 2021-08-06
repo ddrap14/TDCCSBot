@@ -1,0 +1,13 @@
+{
+    "rq": 74,
+    "make": ["EL Motors"],
+    "model": "Sport Coupe AWD",
+    "modelYear": 1999,
+    "country": "RU",
+    "driveType": "4WD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873057094398533632/el_motors_sport_coupe_avd.png",
+    "creator": "Keanny"
+}

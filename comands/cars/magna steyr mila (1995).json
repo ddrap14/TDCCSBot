@@ -1,0 +1,13 @@
+{
+    "rq": 46,
+    "make": ["Magna Steyr"],
+    "model": "MILA",
+    "modelYear": 1995,
+    "country": "AT",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873016466570641419/magna_steyr_mila.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Current Racing" , "Volkswagen"],
+    "model": "Beetle Black Current III",
+    "modelYear": 2010,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Oddball" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873056926336970772/beetle_supremacy.png",
+    "creator": "Keanny"
+}

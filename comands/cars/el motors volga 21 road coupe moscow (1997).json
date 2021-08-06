@@ -1,0 +1,13 @@
+{
+    "rq": 39,
+    "make": ["EL Motors"],
+    "model": "Volga 21 Road Coupe Moscow",
+    "modelYear": 1997,
+    "country": "RU",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873057192742355015/russian_dragster.png",
+    "creator": "Keanny"
+}

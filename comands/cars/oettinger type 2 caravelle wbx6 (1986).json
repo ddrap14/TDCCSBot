@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Oettinger" , "Volkswagen"],
+    "model": "Type 2 Caravelle WBX6",
+    "modelYear": 1986,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Keanny"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873057612256645150/oettinger_type_2_caravelle_wbx6.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Cardi"],
+    "model": "Body",
+    "modelYear": 1995,
+    "country": "RU",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873056958922493982/cardi_body.png",
+    "creator": "Keanny"
+}

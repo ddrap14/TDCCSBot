@@ -1,0 +1,13 @@
+{
+    "rq": 95,
+    "make": ["Porsche"],
+    "model": "962C",
+    "modelYear": 1984,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Legends" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873035383603089458/Porsche_962C_84.png",
+    "creator": "Crayola"
+}

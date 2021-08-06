@@ -1,0 +1,13 @@
+{
+    "rq": 69,
+    "make": ["Magna Steyr"],
+    "model": "MILA Plus",
+    "modelYear": 2015,
+    "country": "AT",
+    "driveType": "4WD",
+    "tags": ["Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873016451324325969/magna_steyr_mila_plus.png",
+    "creator": "Keanny"
+}

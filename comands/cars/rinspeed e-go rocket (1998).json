@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Rinspeed"],
+    "model": "E-Go Rocket",
+    "modelYear": 1998,
+    "country": "CH",
+    "driveType": "RWD",
+    "tags": ["Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873016661807104060/rinspeed_e-go_rocket.png",
+    "creator": "Keanny"
+}

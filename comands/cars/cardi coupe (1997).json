@@ -1,0 +1,13 @@
+{
+    "rq": 47,
+    "make": ["Cardi"],
+    "model": "Coupe",
+    "modelYear": 1997,
+    "country": "RU",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873057008989904927/cardi_coupe.png",
+    "creator": "Keanny"
+}

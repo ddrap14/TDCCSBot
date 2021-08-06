@@ -1,0 +1,13 @@
+{
+    "rq": 57,
+    "make": ["Skoda"],
+    "model": "Yeti Xtreme",
+    "modelYear": 2014,
+    "country": "CZ",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Concept" , "Keanny"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873057249793282068/skoda_yeti_xtreme.png",
+    "creator": "Keanny"
+}

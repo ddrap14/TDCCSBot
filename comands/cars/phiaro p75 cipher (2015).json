@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Phiaro"],
+    "model": "P75 CIPHER",
+    "modelYear": 2015,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Oddball" , "Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873016572392902716/phiaro_p75_cipher.png",
+    "creator": "Keanny"
+}

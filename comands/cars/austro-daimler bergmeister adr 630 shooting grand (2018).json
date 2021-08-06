@@ -1,0 +1,13 @@
+{
+    "rq": 93,
+    "make": ["Austro-Daimler"],
+    "model": "Bergmeister ARD 630 Shooting Grand",
+    "modelYear": 2018,
+    "country": "AT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873016382642610246/austro-daimler_bergmeister_adr_630.png",
+    "creator": "Keanny"
+}

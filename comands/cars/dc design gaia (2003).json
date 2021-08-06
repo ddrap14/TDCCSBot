@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["DC Design"],
+    "model": "Gaia",
+    "modelYear": 2003,
+    "country": "IN",
+    "driveType": "4WD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873051428992720986/dc_design_gaia.png",
+    "creator": "Keanny"
+}
