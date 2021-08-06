@@ -1,0 +1,13 @@
+{
+    "rq": 44,
+    "make": ["Mini"],
+    "model": "Electric Pacesetter",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Motorsport" , "GAAN919"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/844480709107384340/MINI_Electric_Pacesetter.png?width=1024&height=702",
+    "creator": "GAAN919"
+}

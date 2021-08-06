@@ -1,0 +1,13 @@
+{
+    "rq": 43,
+    "make": ["Ferrari"],
+    "model": "250 GTO",
+    "modelYear": 1963,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Legends" , "Motorsport" , "Olimato" , "Supercar"],
+    "bodyStyle": "Coupr",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873008727425437716/250_gto.png?width=1128&height=702",
+    "creator": "Olimato"
+}

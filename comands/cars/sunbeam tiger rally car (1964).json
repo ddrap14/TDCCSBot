@@ -1,0 +1,13 @@
+{
+    "rq": 54,
+    "make": ["Sunbeam"],
+    "model": "Tiger Rally Car",
+    "modelYear": 1964,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Motorsport" , "PrestonLK"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/844470995116490762/Tiger_Rally_Car.png",
+    "creator": "PrestonLK"
+}

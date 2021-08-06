@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Dodge"],
+    "model": "Super Stratus Tourer NATCC",
+    "modelYear": 1996,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Motorsport" , "SidewaysReaction"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/841110258444926976/stratussuper.png?width=1128&height=702",
+    "creator": "SidewaysReaction"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Toyota"],
+    "model": "Chaser Tourer V",
+    "modelYear": 1992,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872998217053261915/chaser.png?width=1022&height=702",
+    "creator": "ChickenMcNuggets"
+}

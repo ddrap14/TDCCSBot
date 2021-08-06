@@ -1,0 +1,13 @@
+{
+    "rq": 22,
+    "make": ["Lotus"],
+    "model": "Cortina Mk.1",
+    "modelYear": 1964,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "GAAN919"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/839723863964516372/Lotus_Cortina_MK1.png?width=1025&height=702",
+    "creator": "GAAN919"
+}

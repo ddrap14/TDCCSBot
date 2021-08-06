@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Acura"],
+    "model": "RLX SH-AWD",
+    "modelYear": 2014,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/872997944415117352/rlx_shawd.png?width=1026&height=702",
+    "creator": "ChickenMcNuggets"
+}

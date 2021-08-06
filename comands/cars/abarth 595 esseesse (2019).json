@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Abarth"],
+    "model": "595 esseesse",
+    "modelYear": 2019,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "LemonDragon"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/844143071347474432/abarth_595_esseesse_3.png?width=1128&height=702",
+    "creator": "LemonDragon"
+}

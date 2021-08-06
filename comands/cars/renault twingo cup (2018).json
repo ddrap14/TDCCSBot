@@ -1,0 +1,13 @@
+{
+    "rq": 17,
+    "make": ["Renault"],
+    "model": "Twingo Cup",
+    "modelYear": 2018,
+    "country": "FR",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Fried Earth"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/844608614098141184/Renault_Twingo_Cup.png?width=1127&height=702",
+    "creator": "Fried Earth"
+}

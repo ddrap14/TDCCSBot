@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["Plymouth"],
+    "model": "Prowler",
+    "modelYear": 1999,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "SidewaysReaction"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/844407236012146698/plymouthprowlerfaster.png?width=1128&height=702",
+    "creator": "SidewaysReaction"
+}

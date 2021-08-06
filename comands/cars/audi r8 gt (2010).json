@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Audi"],
+    "model": "R8 GT",
+    "modelYear": 2010,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873008266182000750/Audi_R8_GT.png?width=1126&height=702",
+    "creator": "GAAN919"
+}
