@@ -1,0 +1,13 @@
+{
+    "rq": 47,
+    "make": ["Toyota"],
+    "model": "RAV4",
+    "modelYear": 2000,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Offroad" , "manperson69"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/859149560801525840/2000_Toyota_RAV4.png?width=1076&height=669",
+    "creator": "manperson69"
+}
