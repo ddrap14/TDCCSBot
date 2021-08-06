@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "C 43 Coupe 4MATIC",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Super Sedan" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872832641844510780/MercedesAMGC43Coupe4MATIC.png",
+    "creator": "Crossfire"
+}

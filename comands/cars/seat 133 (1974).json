@@ -1,0 +1,13 @@
+{
+    "rq": 15,
+    "make": ["Seat"],
+    "model": "133",
+    "modelYear": 1974,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872983288166375515/SEAT1331974_15.png",
+    "creator": "No_One"
+}

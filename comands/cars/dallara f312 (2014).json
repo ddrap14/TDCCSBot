@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Dallara"],
+    "model": "F312",
+    "modelYear": 2014,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Open Wheel",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872847649961828434/F312.png",
+    "creator": "Shinji"
+}

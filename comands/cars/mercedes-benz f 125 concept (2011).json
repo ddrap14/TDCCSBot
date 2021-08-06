@@ -1,0 +1,13 @@
+{
+    "rq": 73,
+    "make": ["Mercedes-Benz"],
+    "model": "F 125 Concept",
+    "modelYear": 2011,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872926480936615936/MercedesBenzF125Concept.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Toyota"],
+    "model": "Land Cruiser ZX 3.5 V6 (300 Series)",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "xxRaginNationxx"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872995610075217930/Toyota_Land_Cruiser_ZX_3.5_V6_300_Series_alt.png",
+    "creator": "xxRaginNationxx"
+}

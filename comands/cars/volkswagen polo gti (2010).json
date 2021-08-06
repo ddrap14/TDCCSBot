@@ -1,0 +1,13 @@
+{
+    "rq": 39,
+    "make": ["Volkswagen"],
+    "model": "Polo GTi",
+    "modelYear": 2010,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["GAAN919"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872925357328707584/Volkswagen_Polo_GTI.png",
+    "creator": "GAAN919"
+}

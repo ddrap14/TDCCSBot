@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Lamborghini"],
+    "model": "Diablo GT1",
+    "modelYear": 1997,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872829303245656095/image0.png",
+    "creator": "Northernhauler"
+}

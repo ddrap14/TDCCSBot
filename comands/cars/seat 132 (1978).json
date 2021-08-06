@@ -1,0 +1,13 @@
+{
+    "rq": 17,
+    "make": ["Seat"],
+    "model": "132",
+    "modelYear": 1978,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872966540486660096/Seat1321978_17.png",
+    "creator": "No_One"
+}

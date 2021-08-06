@@ -1,0 +1,13 @@
+{
+    "rq": 13,
+    "make": ["Seat"],
+    "model": "600",
+    "modelYear": 1957,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872987463424032850/SEAT6001957_13.png",
+    "creator": "No_One"
+}

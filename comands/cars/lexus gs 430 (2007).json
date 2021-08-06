@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Lexus"],
+    "model": "GS 430",
+    "modelYear": 2007,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872997293358452807/lexis.png",
+    "creator": "ChickenMcNuggets"
+}

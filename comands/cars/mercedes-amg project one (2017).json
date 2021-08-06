@@ -1,11 +1,11 @@
 {
     "rq": 100,
-    "make": ["Mercedes-AMG" "Mercedes-Benz"],
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
     "model": "Project ONE",
     "modelYear": 2017,
     "country": "DE",
     "driveType": "4WD",
-    "tags": ["Supercar" "Concept" "Crossfire"],
+    "tags": ["Supercar" , "Concept" , "Crossfire"],
     "bodyStyle": "Coupe",
     "fuelType": "Hybrid",
     "card": "https://media.discordapp.net/attachments/421784438062579712/872532081819943023/MercedesAMGProjectONE.png?width=1017&height=633",

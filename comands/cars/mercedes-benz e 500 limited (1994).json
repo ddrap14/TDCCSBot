@@ -1,0 +1,13 @@
+{
+    "rq": 51,
+    "make": ["Mercedes-Benz"],
+    "model": "E 500 Limited",
+    "modelYear": 1994,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Super Sedan" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872876404583329873/MercedesBenzE500Limited.png",
+    "creator": "Crossfire"
+}

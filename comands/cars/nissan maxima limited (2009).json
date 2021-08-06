@@ -1,0 +1,13 @@
+{
+    "rq": 54,
+    "make": ["Nissan"],
+    "model": "Maxima Limited",
+    "modelYear": 2009,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872997553543725056/maximae.png",
+    "creator": "ChickenMcNuggets"
+}

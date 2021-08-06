@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Acura"],
+    "model": "RLX SH-AWD (Delimited)",
+    "modelYear": 2018,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872997729226346536/rlx_shasd_delimited.png",
+    "creator": "ChickenMcNuggets"
+}

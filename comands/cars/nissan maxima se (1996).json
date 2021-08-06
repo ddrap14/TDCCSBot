@@ -1,0 +1,13 @@
+{
+    "rq": 42,
+    "make": ["Nissan"],
+    "model": "Maxima SE",
+    "modelYear": 1996,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872997155038720040/maximae_se.png",
+    "creator": "ChickenMcNuggets"
+}

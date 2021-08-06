@@ -1,0 +1,13 @@
+{
+    "rq": 62,
+    "make": ["Toyota"],
+    "model": "Mark II Tourer V",
+    "modelYear": 1992,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/872997400715853824/mark_2.png",
+    "creator": "ChickenMcNuggets"
+}
