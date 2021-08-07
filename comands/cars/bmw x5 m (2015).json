@@ -1,0 +1,13 @@
+{
+    "rq": 82,
+    "make": ["BMW"],
+    "model": "X5 M",
+    "modelYear": 2015,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Olimato"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873461135549030450/x5m.png?width=1020&height=702",
+    "creator": "Olimato"
+}

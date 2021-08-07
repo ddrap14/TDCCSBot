@@ -1,0 +1,13 @@
+{
+    "rq": 39,
+    "make": ["BMW"],
+    "model": "325i",
+    "modelYear": 1985,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873471973940953108/325I.png?width=1128&height=702",
+    "creator": "Olimato"
+}
