@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["General Motors"],
+    "model": "EV1",
+    "modelYear": 1996,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Oddball" , "Manperson69"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873348726666715176/1996_General_Motors_EV1.png?width=975&height=671",
+    "creator": "Manperson69"
+}
