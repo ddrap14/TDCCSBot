@@ -1,0 +1,68 @@
+{
+	"packName": "Crossfire's Pack",
+	"description": "Guaranteed to have one Super Rare! All cards are made by Crossfire.",
+	"pack": "https://cdn.discordapp.com/attachments/711405387995414648/872993862250037278/crossfire.png",
+	"repetition": 1,
+
+	"filter": {
+		"make": "None",
+		"modelYear": {
+			"start": 1000,
+			"end": 3000
+		},
+		"country": "None",
+		"tags": "Crossfire",
+        "driveType": "None",
+        "tyreType": "None",
+        "fuelType": "None",
+        "bodyStyle": "None"
+	},
+
+	"packSequence": [
+		{
+			"common": 50,
+			"uncommon": 50,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 50,
+			"rare": 50,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 50,
+			"superRare": 50,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 80,
+			"ultraRare": 15,
+			"epic": 4,
+			"legendary": 1
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 80,
+			"epic": 18,
+			"legendary": 2
+		}
+	]
+}
