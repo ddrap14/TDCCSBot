@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Fiat"],
+    "model": "500",
+    "modelYear": 2021,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873263705721290772/Fiat5002021_25.png",
+    "creator": "Crossfire"
+}

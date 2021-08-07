@@ -1,0 +1,13 @@
+{
+    "rq": 15,
+    "make": ["Seat"],
+    "model": "850 Coupe",
+    "modelYear": 1967,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873270251041718322/SEAT850Coupe1967_15.png",
+    "creator": "No_One"
+}

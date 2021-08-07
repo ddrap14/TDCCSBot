@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["B-Engineering"],
+    "model": "Edonis",
+    "modelYear": 2001,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Tuner" , "SidewaysReaction"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873112540727611412/edonis2.png",
+    "creator": "SidewaysReaction"
+}

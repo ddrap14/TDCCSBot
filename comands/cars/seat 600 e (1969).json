@@ -1,0 +1,13 @@
+{
+    "rq": 14,
+    "make": ["Seat"],
+    "model": "600 E",
+    "modelYear": 1969,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873179769569706014/SEAT600E1969_14.png",
+    "creator": "No_One"
+}

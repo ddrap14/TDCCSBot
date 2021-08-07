@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Fiat" , "Abarth"],
+    "model": "124 Rally Abarth",
+    "modelYear": 1974,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Motorsport" , "Northernhauler"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873180951377772574/image0.png",
+    "creator": "Northernhauler"
+}

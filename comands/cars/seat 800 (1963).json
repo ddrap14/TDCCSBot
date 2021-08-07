@@ -1,0 +1,13 @@
+{
+    "rq": 13,
+    "make": ["Seat"],
+    "model": "800",
+    "modelYear": 1963,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873186037487247420/SEAT8001963_13.png",
+    "creator": "No_One"
+}

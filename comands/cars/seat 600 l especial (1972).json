@@ -1,0 +1,13 @@
+{
+    "rq": 15,
+    "make": ["Seat"],
+    "model": "600 L Especial",
+    "modelYear": 1972,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873179921562882079/SEAT600LEspecial1972_15.png",
+    "creator": "No_One"
+}

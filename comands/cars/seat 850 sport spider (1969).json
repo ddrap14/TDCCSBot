@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Seat"],
+    "model": "850 Sport Spider",
+    "modelYear": 1969,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873319150750138418/SEAT850SportSpider1969_10.png",
+    "creator": "No_One"
+}

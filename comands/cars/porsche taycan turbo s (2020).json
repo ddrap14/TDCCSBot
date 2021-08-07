@@ -1,0 +1,13 @@
+{
+    "rq": 92,
+    "make": ["Porsche"],
+    "model": "Taycan Turbo S",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Crayola"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873312916726771772/Porsche_Taycan_Turbo_S_20_2.png",
+    "creator": "Crayola"
+}

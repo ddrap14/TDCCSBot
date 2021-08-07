@@ -1,0 +1,13 @@
+{
+    "rq": 28,
+    "make": ["Fiat"],
+    "model": "500 Cabrio",
+    "modelYear": 2020,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873262620340277298/Fiat500Cabrio.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 14,
+    "make": ["Seat"],
+    "model": "600 D",
+    "modelYear": 1963,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873157732776165406/SEAT600D1963_14.png",
+    "creator": "No_One"
+}

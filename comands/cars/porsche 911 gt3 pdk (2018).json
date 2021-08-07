@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Porsche"],
+    "model": "911 GT3 PDK",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "ImSoupra"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873266619902750720/Porsche_911_GT3_PDK_2018.png",
+    "creator": "ImSoupra"
+}
