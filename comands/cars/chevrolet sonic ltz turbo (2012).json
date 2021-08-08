@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Chevrolet"],
+    "model": "Sonic LTZ Turbo",
+    "modelYear": 2012,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "awaffle"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/828784416598786099/chevroletsonicltzturbo12.png",
+    "creator": "awaffle"
+}
