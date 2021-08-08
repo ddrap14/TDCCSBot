@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Toyota"],
+    "model": "Celica GT-Four WRC",
+    "modelYear": 1994,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Legends" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873493560954064906/Toyota_Celica_GT-Four_WRC_94.png",
+    "creator": "Crayola"
+}

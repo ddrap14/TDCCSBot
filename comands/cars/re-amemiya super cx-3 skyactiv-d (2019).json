@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["RE-Amemiya" , "Mazda"],
+    "model": "Super CX-3 SkyActiv-D",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Tuner" , "Keanny"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873544708067057725/re-amemiya_cx3.png",
+    "creator": "Keanny"
+}

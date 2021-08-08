@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Teihol"],
+    "model": "Citadine",
+    "modelYear": 1974,
+    "country": "FR",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873556038224322560/teihol_citadine.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["AC Schnitzer" , "BMW"],
+    "model": "M6 Tension",
+    "modelYear": 2005,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Supercar" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873545162339536906/ac_schnitzer_m6_tension.png",
+    "creator": "Keanny"
+}

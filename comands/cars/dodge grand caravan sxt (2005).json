@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Dodge"],
+    "model": "Grand Caravan SXT",
+    "modelYear": 2005,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "SidewaysReaction"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873457635851108432/grandcaravansxt.png",
+    "creator": "SidewaysReaction"
+}

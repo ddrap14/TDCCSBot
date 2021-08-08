@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Jaguar"],
+    "model": "R-D6 Concept",
+    "modelYear": 2003,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873545287220727808/jaguar_r-d6_concept.png",
+    "creator": "Keanny"
+}

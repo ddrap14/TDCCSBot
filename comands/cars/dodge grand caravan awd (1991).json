@@ -1,0 +1,13 @@
+{
+    "rq": 23,
+    "make": ["Dodge"],
+    "model": "Grand Caravan AWD",
+    "modelYear": 1991,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["SidewaysReaction"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873451676558823484/grandcaravanawd.png",
+    "creator": "SidewaysReaction"
+}

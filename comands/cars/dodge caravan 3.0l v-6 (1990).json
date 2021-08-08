@@ -1,0 +1,13 @@
+{
+    "rq": 15,
+    "make": ["Dodge"],
+    "model": "Caravan 3.0L V-6",
+    "modelYear": 1990,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["SidewaysReaction"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873451524100091934/caravanv62.png",
+    "creator": "SidewaysReaction"
+}

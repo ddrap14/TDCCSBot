@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Seat"],
+    "model": "1400 B Furgoneta",
+    "modelYear": 1959,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873570387731046460/SEAT1400BFurgoneta1959_10.png",
+    "creator": "No_One"
+}

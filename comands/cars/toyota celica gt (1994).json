@@ -1,0 +1,13 @@
+{
+    "rq": 28,
+    "make": ["Toyota"],
+    "model": "Celica GT",
+    "modelYear": 1994,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873423051184807936/Toyota_Celica_GT_94_2.png",
+    "creator": "Crayola"
+}

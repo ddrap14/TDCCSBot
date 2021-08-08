@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["TMG Sports" , "Toyota"],
+    "model": "MR2 TTR Street Affair",
+    "modelYear": 2001,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Oddball" , "Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873545048573214720/tmg_sports_mr2_ttr_street_affair.png",
+    "creator": "Keanny"
+}

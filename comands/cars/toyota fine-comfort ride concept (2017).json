@@ -1,0 +1,13 @@
+{
+    "rq": 67,
+    "make": ["Toyota"],
+    "model": "Fine Comfort Ride Concept",
+    "modelYear": 2017,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Oddball" , "Keanny"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873545373887643668/the_quickster.png",
+    "creator": "Keanny"
+}

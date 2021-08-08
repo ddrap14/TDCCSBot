@@ -1,0 +1,13 @@
+{
+    "rq": 21,
+    "make": ["Dodge"],
+    "model": "Caravan Turbo",
+    "modelYear": 1989,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["SidewaysReaction"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873451391476179014/caravanturbo.png",
+    "creator": "SidewaysReaction"
+}

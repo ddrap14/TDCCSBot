@@ -1,0 +1,13 @@
+{
+    "rq": 12,
+    "make": ["Seat"],
+    "model": "1400 C",
+    "modelYear": 1960,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873682479326838894/SEAT1400C1960_12.png",
+    "creator": "No_One"
+}

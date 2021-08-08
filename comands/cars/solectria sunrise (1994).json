@@ -1,0 +1,13 @@
+{
+    "rq": 11,
+    "make": ["Solectria"],
+    "model": "Sunrise",
+    "modelYear": 1994,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873555995039789166/solectria_sunrise.png",
+    "creator": "Keanny"
+}

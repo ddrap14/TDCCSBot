@@ -1,0 +1,13 @@
+{
+    "rq": 48,
+    "make": ["Mazda"],
+    "model": "CX-7 AWD",
+    "modelYear": 2009,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873535642766831616/image0.png",
+    "creator": "Northernhauler"
+}
