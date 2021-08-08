@@ -1,13 +1,13 @@
 {
-    "rq": 93,
+    "rq": 94,
     "make": ["Aston Martin"],
     "model": "Vulcan",
     "modelYear": 2015,
     "country": "GB",
     "driveType": "RWD",
-    "tags": ["Supercar" , "Limited Edition" , "Itadari"],
+    "tags": ["Limited Edition" , "Supercar" , "Itadari"],
     "bodyStyle": "Coupe",
     "fuelType": "Petrol",
-    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873814544034709554/Aston_Martin_Vulcan_15_no_prize_tag.png",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873820431151431700/Aston_Martin_Vulcan_15_doors_closed.png",
     "creator": "Itadari"
 }
