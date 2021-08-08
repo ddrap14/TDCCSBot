@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Subaru"],
+    "model": "Levorg GT BTCC",
+    "modelYear": 2016,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Olimato"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873814823295664168/levorg_btcc.png?width=1021&height=701",
+    "creator": "Olimato"
+}
