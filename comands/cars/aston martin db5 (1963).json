@@ -1,0 +1,13 @@
+{
+    "rq": 26,
+    "make": ["Aston Martin"],
+    "model": "DB5",
+    "modelYear": 1963,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Legends" , "Star Car" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873809916836597800/db5.png?width=1021&height=701",
+    "creator": "Olimato"
+}
