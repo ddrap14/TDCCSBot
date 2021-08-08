@@ -1,0 +1,13 @@
+{
+    "rq": 17,
+    "make": ["BMW"],
+    "model": "507",
+    "modelYear": 1958,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Itadari"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873842822229393468/BMW_507_58.png",
+    "creator": "Itadari"
+}
