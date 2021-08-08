@@ -1,0 +1,13 @@
+{
+    "rq": 39,
+    "make": ["Lamborghini"],
+    "model": "Islero 400 GT",
+    "modelYear": 1968,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/393487977906438154/873870537112305704/islero_400_gt.png?width=1022&height=702",
+    "creator": "Olimato"
+}
