@@ -1,0 +1,13 @@
+{
+    "rq": 30,
+    "make": ["Chevrolet"],
+    "model": "Corvette",
+    "modelYear": 1961,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/873778195202207754/61_corvette.png?width=1019&height=701",
+    "creator": "Olimato"
+}
