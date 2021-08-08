@@ -1,0 +1,13 @@
+{
+    "rq": 55,
+    "make": ["Renault Sport" , "Renault"],
+    "model": "Megane R.S.",
+    "modelYear": 2020,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "saabsut"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/827923413678293022/rect7774-2.png?width=1017&height=633",
+    "creator": "saabsut"
+}
