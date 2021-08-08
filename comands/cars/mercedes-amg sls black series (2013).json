@@ -1,0 +1,13 @@
+{
+    "rq": 83,
+    "make": ["Mercedes-AMG"],
+    "model": "SLS Black Series",
+    "modelYear": 2013,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873977814079127632/Mercedes-AMG_SLS_Black_Series_13.png",
+    "creator": "Itadari"
+}
