@@ -1,0 +1,13 @@
+{
+    "rq": 73,
+    "make": ["Ford"],
+    "model": "Explorer ST",
+    "modelYear": 2020,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Offroad" , "Itadari"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873948516525944862/Ford_Explorer_ST_20_grey.png",
+    "creator": "Itadari"
+}
