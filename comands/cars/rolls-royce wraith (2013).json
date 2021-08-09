@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Rolls-Royce"],
+    "model": "Wraith",
+    "modelYear": 2013,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874293539608100874/RollsRoyceWraith.png",
+    "creator": "Crossfire"
+}

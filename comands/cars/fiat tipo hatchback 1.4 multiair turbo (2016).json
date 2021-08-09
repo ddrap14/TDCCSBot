@@ -1,0 +1,13 @@
+{
+    "rq": 26,
+    "make": ["Fiat"],
+    "model": "Tipo Hatchback 1.4 MultiAir Turbo",
+    "modelYear": 2016,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874301743943520266/FiatTipoHatchback14MultiAirTurbo.png",
+    "creator": "Crossfire"
+}
