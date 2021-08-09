@@ -1,0 +1,13 @@
+{
+    "rq": 28,
+    "make": ["Land Rover"],
+    "model": "Defender 90 Pickup",
+    "modelYear": 1984,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Olimato"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/874225958926823484/defender_90_pickup.png?width=1021&height=701",
+    "creator": "Olimato"
+}
