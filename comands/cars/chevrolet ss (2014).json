@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Chevrolet"],
+    "model": "SS",
+    "modelYear": 2014,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Manperson69"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874416865907200042/2014_Chevrolet_SS.png",
+    "creator": "Manperson69"
+}

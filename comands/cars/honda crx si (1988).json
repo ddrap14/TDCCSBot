@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Honda"],
+    "model": "CRX Si",
+    "modelYear": 1988,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Bart"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874409427539730472/Honda_CRX.png",
+    "creator": "Bart"
+}

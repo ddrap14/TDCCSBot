@@ -1,0 +1,13 @@
+{
+    "rq": 46,
+    "make": ["Subaru"],
+    "model": "Outback 2.5i",
+    "modelYear": 2000,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crayola"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874426254244331610/Subaru_Outback_2.5i_00.png",
+    "creator": "Crayola"
+}

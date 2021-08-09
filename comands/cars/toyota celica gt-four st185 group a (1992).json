@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Toyota"],
+    "model": "Celica GT-Four ST185 Group A",
+    "modelYear": 1992,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Legends" , "La Peyo"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874364452097646603/Toyota_Celica_GT-Four_ST185_Group_A_92.png",
+    "creator": "La Peyo"
+}

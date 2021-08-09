@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Fiat" , "Zagato"],
+    "model": "500 Coupe Zagato",
+    "modelYear": 2011,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Tuner" , "Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874344045789450290/Fiat_500_COupe_Zagato_Card_3.png",
+    "creator": "Northernhauler"
+}

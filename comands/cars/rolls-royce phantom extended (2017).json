@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Rolls-Roye"],
+    "model": "Phantom Extended",
+    "modelYear": 2017,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874293498008977468/RollsRoycePhantomExtended.png",
+    "creator": "Crossfire"
+}

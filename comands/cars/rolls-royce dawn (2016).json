@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Rolls-Royce"],
+    "model": "Dawn",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874293304425082972/RollsRoyceDawn.png",
+    "creator": "Crossfire"
+}

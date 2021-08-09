@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Rolls-Royce"],
+    "model": "Ghost",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874293416006144011/RollsRoyceGhost2020.png",
+    "creator": "Crossfire"
+}

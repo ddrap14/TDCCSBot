@@ -1,0 +1,13 @@
+{
+    "rq": 58,
+    "make": ["Rolls-Royce"],
+    "model": "Sweptail",
+    "modelYear": 2017,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Limited Edition" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874293502396235796/RollsRoyceSweptail.png",
+    "creator": "Crossfire"
+}

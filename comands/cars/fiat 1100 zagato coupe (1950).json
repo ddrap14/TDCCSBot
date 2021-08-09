@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Fiat" , "Zagato"],
+    "model": "1100 Zagato Coupe",
+    "modelYear": 1950,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874303010224865360/image0.png",
+    "creator": "Northernhauler"
+}

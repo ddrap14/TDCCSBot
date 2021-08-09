@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Fiat"],
+    "model": "126 Cavaletta",
+    "modelYear": 1976,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Northernhauler"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874316060042596412/image0.png",
+    "creator": "Northernhauler"
+}

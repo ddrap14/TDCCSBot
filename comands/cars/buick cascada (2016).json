@@ -1,0 +1,13 @@
+{
+    "rq": 37,
+    "make": ["Buick"],
+    "model": "Cascada",
+    "modelYear": 2016,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Manperson69"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874383887885828167/2016_Buick_Cascada.png",
+    "creator": "Manperson69"
+}
