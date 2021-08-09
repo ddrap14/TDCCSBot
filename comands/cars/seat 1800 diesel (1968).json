@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Seat"],
+    "model": "1800 Diesel",
+    "modelYear": 1968,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873891767194353664/SEAT1800Diesel1968_10.png",
+    "creator": "No_One"
+}

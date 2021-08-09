@@ -1,0 +1,13 @@
+{
+    "rq": 14,
+    "make": ["Seat"],
+    "model": "1430 Sport",
+    "modelYear": 1977,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874030864445624360/SEAT1430Sport1977_14.png",
+    "creator": "No_One"
+}

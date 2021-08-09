@@ -1,0 +1,13 @@
+{
+    "rq": 15,
+    "make": ["Seat"],
+    "model": "1430",
+    "modelYear": 1971,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874010785972617296/SEAT14301971_15.png",
+    "creator": "No_One"
+}

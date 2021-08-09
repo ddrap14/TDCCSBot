@@ -1,0 +1,13 @@
+{
+    "rq": 47,
+    "make": ["Subaru"],
+    "model": "Outback H6-3.0",
+    "modelYear": 2001,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crayola"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874096625998512128/Subaru_Outback_H6-3.0_01.png",
+    "creator": "Crayola"
+}

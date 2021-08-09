@@ -1,0 +1,13 @@
+{
+    "rq": 90,
+    "make": ["Nissan"],
+    "model": "GT-R Nismo GT3",
+    "modelYear": 2012,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Corentin"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874081045329379378/GTR_Nismo_GT3_2012.png",
+    "creator": "Corentin"
+}

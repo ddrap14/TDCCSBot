@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["MAN"],
+    "model": "TGX 18.560 4x2 BLS XLX",
+    "modelYear": 2014,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Macan"],
+    "bodyStyle": "Truck",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873871559369031770/TGX_18.560_42_BLS_XLX_14.png",
+    "creator": "Macan"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 45,
+    "make": ["Mercedes-Benz"],
+    "model": "C 200 AMG Line",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873955311944364082/MercedesBenzC200AMGLine2018.png",
+    "creator": "Crossfire"
+}

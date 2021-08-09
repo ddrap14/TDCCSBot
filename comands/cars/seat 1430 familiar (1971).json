@@ -1,0 +1,13 @@
+{
+    "rq": 15,
+    "make": ["Seat"],
+    "model": "1430 Familiar",
+    "modelYear": 1971,
+    "country": "ES",
+    "driveType": "RWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874019867387371580/SEAT1430Familiar1971_15.png",
+    "creator": "No_One"
+}

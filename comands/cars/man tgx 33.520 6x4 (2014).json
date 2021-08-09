@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["MAN"],
+    "model": "TGX 33.520 6x4",
+    "modelYear": 2014,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Macan"],
+    "bodyStyle": "Truck",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/873871875300802570/TGX_33.520_64_14.png",
+    "creator": "Macan"
+}

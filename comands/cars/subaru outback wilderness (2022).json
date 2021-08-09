@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Subaru"],
+    "model": "Outback Wilderness",
+    "modelYear": 2022,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Limited Edition" , "La Peyo"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874121432311939134/Subaru_Outback_Wilderness_22.png",
+    "creator": "La Peyo"
+}

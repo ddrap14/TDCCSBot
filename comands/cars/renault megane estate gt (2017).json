@@ -1,0 +1,13 @@
+{
+    "rq": 46,
+    "make": ["Renault"],
+    "model": "Megane Estate GT",
+    "modelYear": 2017,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Corentin"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874080839997210724/Megane_Estate_GT_2017.png",
+    "creator": "Corentin"
+}

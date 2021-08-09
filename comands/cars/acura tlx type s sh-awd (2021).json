@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Acura" , "Honda"],
+    "model": "TLX Type S SH-AWD",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "La Peyo"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874109567972307044/Acura_TLX_Type_S_SH-AWD_21.png",
+    "creator": "La Peyo"
+}

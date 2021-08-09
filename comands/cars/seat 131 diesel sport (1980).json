@@ -1,10 +1,10 @@
 {
     "rq": 15,
     "make": ["Seat"],
-    "model": "131 Diesel Sport",
+    "model": "131 Diesel Super",
     "modelYear": 1980,
     "country": "ES",
-    "driveType": "FWD",
+    "driveType": "RWD",
     "tags": ["No_One"],
     "bodyStyle": "Sedan",
     "fuelType": "Diesel",

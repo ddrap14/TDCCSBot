@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Ford"],
+    "model": "Mustang Mach-E 4X",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Awaffle"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874165268597854258/fordmustangmach-e4x21.png",
+    "creator": "Awaffle"
+}
