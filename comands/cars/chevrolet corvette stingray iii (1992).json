@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Chevrolet"],
+    "model": "Corvette Stingray III",
+    "modelYear": 1992,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Crayola"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/855701959327481876/Chevrolet_Corvette_Stingray_III_Concept_92.png",
+    "creator": "Crayola"
+}

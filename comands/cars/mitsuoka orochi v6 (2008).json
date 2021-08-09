@@ -1,0 +1,13 @@
+{
+    "rq": 30,
+    "make": ["Mitsuoka"],
+    "model": "Orochi V6",
+    "modelYear": 2008,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/855892946343034990/MitsuokaOrochiV6.png",
+    "creator": "Crossfire"
+}
