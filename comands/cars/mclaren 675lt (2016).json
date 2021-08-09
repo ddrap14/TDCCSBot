@@ -1,0 +1,13 @@
+{
+    "rq": 93,
+    "make": ["McLaren"],
+    "model": "675LT",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/393487977906438154/874141307432480768/675lt.png?width=1021&height=701",
+    "creator": "Olimato"
+}
