@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Alfa Romeo"],
+    "model": "Giulia Veloce Q4",
+    "modelYear": 2017,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874575943891558450/AlfaRomeoGiuliaVeloceQ4.png",
+    "creator": "Crossfire"
+}

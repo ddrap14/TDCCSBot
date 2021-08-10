@@ -1,0 +1,13 @@
+{
+    "rq": 98,
+    "make": ["Audi"],
+    "model": "e-tron Vision Gran Turismo",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Motorsport" , "Supercar" , "mracerp"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/822089573307383818/Audi_e-tron_Vision_Gran_Turismo_1_Final.png",
+    "creator": "mracerp"
+}

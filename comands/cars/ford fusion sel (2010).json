@@ -1,0 +1,13 @@
+{
+    "rq": 35,
+    "make": ["Ford"],
+    "model": "Fusion SEL",
+    "modelYear": 2010,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Manperson69"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/819292360319041547/fusion.png",
+    "creator": "Manperson69"
+}

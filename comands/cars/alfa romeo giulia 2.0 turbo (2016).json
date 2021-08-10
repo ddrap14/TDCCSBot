@@ -1,0 +1,13 @@
+{
+    "rq": 51,
+    "make": ["Alfa Romeo"],
+    "model": "Giulia 2.0 Turbo",
+    "modelYear": 2016,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874576145461444618/AlfaRomeoGiulia20Turbo.png",
+    "creator": "Crossfire"
+}

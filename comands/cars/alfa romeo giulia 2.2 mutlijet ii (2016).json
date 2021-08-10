@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Alfa Romeo"],
+    "model": "Giulia 2.2 Multijet II",
+    "modelYear": 2016,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874673574324088943/AlfaRomeGiulia22MultijetII.png",
+    "creator": "Crossfire"
+}

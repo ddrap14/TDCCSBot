@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["Porsche"],
+    "model": "959 Paris-Dakar",
+    "modelYear": 1985,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Legends" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/817077874456133702/959Dakar.png",
+    "creator": "Bnuuy"
+}

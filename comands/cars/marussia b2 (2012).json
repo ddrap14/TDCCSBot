@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["Marussia"],
+    "model": "B2",
+    "modelYear": 2012,
+    "country": "RU",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Macan"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/772734773893660692/B2_12.png",
+    "creator": "Macan"
+}
