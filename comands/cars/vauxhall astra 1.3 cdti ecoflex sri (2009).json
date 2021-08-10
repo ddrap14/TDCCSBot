@@ -1,0 +1,13 @@
+{
+    "rq": 17,
+    "make": ["Vauxhall" , "Opel"],
+    "model": "Astra 1.3 CDTi ecoFLEX SRi",
+    "modelYear": 2009,
+    "country": "GB",
+    "driveType": "F",
+    "tags": ["Everyday Heroes" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/783637024179224586/vauxhall_astra_1.3_cdti_ecoflex_sri.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 56,
+    "make": ["Mercedes-Benz"],
+    "model": "T80",
+    "modelYear": 1939,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Concept" , "Keanny],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/804183407156264970/mercedes-benz_t80.png",
+    "creator": "Keanny"
+}

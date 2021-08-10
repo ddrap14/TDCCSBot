@@ -1,0 +1,13 @@
+{
+    "rq": 54,
+    "make": ["Ford"],
+    "model": "Fusion Hydrogen 999",
+    "modelYear": 2007,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Concept" , "Motorsport" , "GAAN919"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Hydrogen",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/845879747614605382/Ford_Fusion_Hydrogen_999.png",
+    "creator": "GAAN919"
+}

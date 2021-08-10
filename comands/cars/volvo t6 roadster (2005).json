@@ -1,0 +1,13 @@
+{
+    "rq": 47,
+    "make": ["Volvo"],
+    "model": "T6 Roadster",
+    "modelYear": 2005,
+    "country": "SE",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Concept" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/794798097791975444/volvo_t6_roadster.png",
+    "creator": "Keanny"
+}
