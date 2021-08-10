@@ -1,0 +1,13 @@
+{
+    "rq": 55,
+    "make": ["Ford"],
+    "model": "Escort RS1600 Group 2",
+    "modelYear": 1972,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Motorsport" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/874445993968545842/escort_rs.png?width=1022&height=702",
+    "creator": "Olimato"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Volkswagen"],
+    "model": "Golf Cabrio",
+    "modelYear": 1988,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Olimato"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://media.discordapp.net/attachments/421784438062579712/874431303599157248/golf_cabrio.png?width=1022&height=702",
+    "creator": "Olimato"
+}
