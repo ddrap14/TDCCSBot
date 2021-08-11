@@ -1,0 +1,13 @@
+{
+    "rq": 59,
+    "make": ["Nissan"],
+    "model": "Frontier",
+    "modelYear": 2022,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Northernhauler"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874699065840005120/Nissan_Frontier_Card.png",
+    "creator": "Northernhauler"
+}

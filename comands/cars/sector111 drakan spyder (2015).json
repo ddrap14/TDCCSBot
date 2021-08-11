@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Sector111"],
+    "model": "Drakan Spyder",
+    "modelYear": 2015,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874650005519093781/sector111_drakan_spyder.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Seat"],
+    "model": "Altea FR Concept",
+    "modelYear": 2005,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Concept" , "Everyday Heroes" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874745328610459719/SEATAlteaFRConcept2005_29.png",
+    "creator": "No_One"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["ZAP"],
+    "model": "Alias",
+    "modelYear": 2007,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874640486621675570/zap_alias.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Fiat-Abarth" , "Fiat" , "Abarth"],
+    "model": "750 Berlina",
+    "modelYear": 1955,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "WaterDispencer"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874821883974012990/image0.png",
+    "creator": "WaterDispencer"
+}

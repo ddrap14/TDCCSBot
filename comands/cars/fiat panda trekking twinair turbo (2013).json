@@ -1,0 +1,13 @@
+{
+    "rq": 22,
+    "make": ["Fiat"],
+    "model": "Panda Trekking TwinAir Turbo",
+    "modelYear": 2013,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Legends" , "Northernhauler"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874687437522239578/Fiat_Panda_Trekking_TwinAir_Turbo_Card.png",
+    "creator": "Northernhauler"
+}

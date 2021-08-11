@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Toyota"],
+    "model": "GR Supra 3.0",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Bart"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874621691970605066/Toyota_GR_Supra_19.png",
+    "creator": "Bart"
+}

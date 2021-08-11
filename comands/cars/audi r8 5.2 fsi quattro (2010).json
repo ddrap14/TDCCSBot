@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["Audi"],
+    "model": "R8 5.2 FSI Quattro",
+    "modelYear": 2008,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874631176873213962/Audi_R8_5.2_FSI_Quattro_Card_4.png",
+    "creator": "Northernhauler"
+}

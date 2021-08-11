@@ -1,0 +1,13 @@
+{
+    "rq": 21,
+    "make": ["Toyota"],
+    "model": "Paseo",
+    "modelYear": 1995,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874704797951991808/Toyota_Paseo.png",
+    "creator": "GAAN919"
+}

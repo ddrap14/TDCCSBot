@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Seat"],
+    "model": "Altea MSV Concept",
+    "modelYear": 2003,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Concept" , "Everyday Heroes" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874699548101050378/SEATAlteaMSVConcept2003_25.png",
+    "creator": "No_One"
+}

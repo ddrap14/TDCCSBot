@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Fiat-Abarth" , "Fiat" , "Abarth" , "Zagato"],
+    "model": "750 GT Carozzeria Zagato",
+    "modelYear": 1957,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["WaterDispencer"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874828994753736754/image0.png",
+    "creator": "WaterDispencer"
+}

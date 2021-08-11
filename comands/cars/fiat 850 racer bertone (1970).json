@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Fiat"],
+    "model": "850 Racer Bertone",
+    "modelYear": 1970,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874613383062749214/Fiat_850_Racer_Bertone_Card.png",
+    "creator": "Northernhauler"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Uno"],
+    "model": "Catlin",
+    "modelYear": 1991,
+    "country": "SE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Oddball" , "Johnny4388"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874618687770996756/Uno-Catlin.png",
+    "creator": "Johnny4388"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Subaru"],
+    "model": "BRAT",
+    "modelYear": 1977,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Crayola"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874675122244554763/Subaru_BRAT_77.png",
+    "creator": "Crayola"
+}

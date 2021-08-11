@@ -1,0 +1,13 @@
+{
+    "rq": 50,
+    "make": ["FVT"],
+    "model": "eVaro",
+    "modelYear": 2009,
+    "country": "CA",
+    "driveType": "FWD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874640340093661214/fvt_evaro.png",
+    "creator": "Keanny"
+}

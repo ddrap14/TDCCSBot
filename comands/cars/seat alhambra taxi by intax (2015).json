@@ -1,0 +1,13 @@
+{
+    "rq": 23,
+    "make": ["Seat"],
+    "model": "Alhambra Taxi by INTAX",
+    "modelYear": 2015,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874629266019594240/SEATAlhambraTaxiByINTAX2015_23.png",
+    "creator": "No_One"
+}

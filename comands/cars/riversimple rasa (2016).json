@@ -1,0 +1,13 @@
+{
+    "rq": 31,
+    "make": ["Riversimple"],
+    "model": "Rasa",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hydrogen",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874640369617350686/riversimple_rasa.png",
+    "creator": "Keanny"
+}
