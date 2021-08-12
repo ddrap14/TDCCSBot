@@ -1,0 +1,13 @@
+{
+    "rq": 66,
+    "make": ["Alfa Romeo"],
+    "model": "4C Spider",
+    "modelYear": 2015,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874993203625984070/AlfaRomeo4CSpider.png",
+    "creator": "Crossfire"
+}

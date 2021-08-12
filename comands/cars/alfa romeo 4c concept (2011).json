@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Alfa Romeo"],
+    "model": "4C Concept",
+    "modelYear": 2011,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874993147057422346/AlfaRomeo4CConcept.png",
+    "creator": "Crossfire"
+}

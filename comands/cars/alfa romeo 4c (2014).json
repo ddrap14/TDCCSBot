@@ -1,0 +1,13 @@
+{
+    "rq": 66,
+    "make": ["Alfa Romeo"],
+    "model": "4C",
+    "modelYear": 2014,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874993090543366214/AlfaRomeo4C.png",
+    "creator": "Crossfire"
+}
