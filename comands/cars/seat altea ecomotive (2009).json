@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Seat"],
+    "model": "Altea Ecomotive",
+    "modelYear": 2009,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874984790561013810/SEAtAlteaEcomotive2009_20.png",
+    "creator": "No_One"
+}

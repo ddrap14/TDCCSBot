@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Lotus"],
+    "model": "M250",
+    "modelYear": 1999,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Concept" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874977338570440734/lotus_m250.png",
+    "creator": "Keanny"
+}

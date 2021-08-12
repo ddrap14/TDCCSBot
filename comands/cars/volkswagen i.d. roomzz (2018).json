@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Volkswagen"],
+    "model": "I.D. Roomzz",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874978673164431420/volkswagen_i.d._roomzz.png",
+    "creator": "Keanny"
+}

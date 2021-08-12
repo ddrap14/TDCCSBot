@@ -1,0 +1,13 @@
+{
+    "rq": 97,
+    "make": ["Palatov"],
+    "model": "D2 EV",
+    "modelYear": 2015,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874984546045677658/palatov_d2_ev.png",
+    "creator": "Keanny"
+}

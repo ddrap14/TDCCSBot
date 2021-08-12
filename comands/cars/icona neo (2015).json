@@ -1,0 +1,13 @@
+{
+    "rq": 13,
+    "make": ["Icona"],
+    "model": "NEO",
+    "modelYear": 2015,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Concept" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874977230881710090/icona_neo.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 69,
+    "make": ["SIM-Drive"],
+    "model": "SIM-LEI",
+    "modelYear": 2013,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874977530157862952/sim-drive_sim-lei.png",
+    "creator": "Keanny"
+}

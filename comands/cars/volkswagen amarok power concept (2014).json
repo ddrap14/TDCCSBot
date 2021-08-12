@@ -1,0 +1,13 @@
+{
+    "rq": 37,
+    "make": ["Volkswagen"],
+    "model": "Amarok Power Concept",
+    "modelYear": 2014,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Tuner" , "Keanny"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874978602217779230/volkswagen_amarok_power_concept.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Icona"],
+    "model": "Fuselage EV",
+    "modelYear": 2011,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874977133464780820/icona_fuselage_ev.png",
+    "creator": "Keanny"
+}

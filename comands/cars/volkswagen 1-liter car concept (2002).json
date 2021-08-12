@@ -1,0 +1,13 @@
+{
+    "rq": 14,
+    "make": ["Volkswagen"],
+    "model": "1-Liter Car Concept",
+    "modelYear": 2002,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874978544294453268/volkswagen_1-liter_car_concept.png",
+    "creator": "Keanny"
+}

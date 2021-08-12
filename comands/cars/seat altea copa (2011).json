@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Seat"],
+    "model": "Altea 'Copa'",
+    "modelYear": 2011,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875000670107889664/SEATAlteaCopa2011_25.png",
+    "creator": "No_One"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Subaru"],
+    "model": "BRZ Supercharged Phuong",
+    "modelYear": 2016,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Limited Edition" , "GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875096235558703134/Subaru_BRZ_Supercharged_Phuong.png",
+    "creator": "GAAN919"
+}

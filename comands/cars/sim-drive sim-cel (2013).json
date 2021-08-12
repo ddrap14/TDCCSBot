@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["SIM-Drive"],
+    "model": "SIM-CEL",
+    "modelYear": 2013,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874977477016035408/sim-drive_sim-cel.png",
+    "creator": "Keanny"
+}

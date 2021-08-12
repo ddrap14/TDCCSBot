@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Icona"],
+    "model": "Fuselage Hybrid",
+    "modelYear": 2011,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874977186380128296/icona_fuselage_hybrid.png",
+    "creator": "Keanny"
+}

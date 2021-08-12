@@ -1,0 +1,13 @@
+{
+    "rq": 37,
+    "make": ["Seat"],
+    "model": "Arona 1.5 TSI FR",
+    "modelYear": 2021,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875139788498415686/SEATArona1.5TSIFR2021_37.png",
+    "creator": "No_One"
+}

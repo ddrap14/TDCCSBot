@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Seat"],
+    "model": "Altea 2.0 TDi I-Tech",
+    "modelYear": 2013,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875004428644659250/SEATAltea2.0TDII-Tech2013_25.png",
+    "creator": "No_One"
+}

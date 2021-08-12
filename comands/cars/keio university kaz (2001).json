@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["Keio University"],
+    "model": "KAZ",
+    "modelYear": 2001,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875007625887109200/keio_university_kaz.png",
+    "creator": "Keanny"
+}

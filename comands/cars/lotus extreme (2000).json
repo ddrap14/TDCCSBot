@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Lotus"],
+    "model": "Extreme",
+    "modelYear": 2000,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874977323802300456/lotus_extreme.png",
+    "creator": "Keanny"
+}

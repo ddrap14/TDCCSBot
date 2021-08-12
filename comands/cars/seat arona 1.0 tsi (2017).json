@@ -1,0 +1,13 @@
+{
+    "rq": 37,
+    "make": ["Seat"],
+    "model": "Arona 1.0 TSi",
+    "modelYear": 2017,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Offroad" , "No_One"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875017388502958120/SEATArona1.0TSI2017_37.png",
+    "creator": "No_One"
+}

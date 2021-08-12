@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Volkswagem"],
+    "model": "L1",
+    "modelYear": 2009,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/874978716135092314/volkswagen_l1.png",
+    "creator": "Keanny"
+}
