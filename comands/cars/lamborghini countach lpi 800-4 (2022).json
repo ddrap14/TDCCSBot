@@ -1,0 +1,13 @@
+{
+    "rq": 99,
+    "make": ["Lamborghini"],
+    "model": "Countach LPI 800-4",
+    "modelYear": 2022,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Legends" , "Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875822243601588264/LamborghiniCountachLPI8004.png",
+    "creator": "Crossfire"
+}
