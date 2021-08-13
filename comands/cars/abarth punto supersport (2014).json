@@ -1,0 +1,13 @@
+{
+    "rq": 37,
+    "make": ["Abarth" , "Fiat"],
+    "model": "Punto Supersport",
+    "modelYear": 2014,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Northernhauler"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875439005787910235/Abarth_Punto_Supersport.png",
+    "creator": "Northernhauler"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 31,
+    "make": ["Seat"],
+    "model": "Arona Racer Concept",
+    "modelYear": 2001,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Concept" , "Motorsport" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875521489355550720/SEATArosaRacerConcept2001_31.png",
+    "creator": "No_One"
+}

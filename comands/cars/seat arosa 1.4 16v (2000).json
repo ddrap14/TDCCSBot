@@ -1,0 +1,13 @@
+{
+    "rq": 23,
+    "make": ["Seat"],
+    "model": "Arosa 1.4 16V",
+    "modelYear": 1997,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875521254369689640/SEATArosa1.416V2000_23.png",
+    "creator": "No_One"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Seat"],
+    "model": "Arosa 3L Concept",
+    "modelYear": 1997,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Concept" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875388475401187368/SEATArosa3LConcept1999_16.png",
+    "creator": "No_One"
+}

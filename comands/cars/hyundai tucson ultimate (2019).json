@@ -1,0 +1,13 @@
+{
+    "rq": 30,
+    "make": ["Hyundai"],
+    "model": "Tucson Ultimate",
+    "modelYear": 2019,
+    "country": "KR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Awaffle"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875579295198761011/hyundaitucsonultimate19.png",
+    "creator": "Awaffle"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 93,
+    "make": ["M2K Motorsports" , "Ford"],
+    "model": "GT",
+    "modelYear": 2019,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Tuner" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875342518487769098/M2KMotorsportsGT.png",
+    "creator": "Bnuuy"
+}

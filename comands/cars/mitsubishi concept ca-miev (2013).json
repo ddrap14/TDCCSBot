@@ -1,0 +1,13 @@
+{
+    "rq": 18,
+    "make": ["Mitsubishi"],
+    "model": "Concept CA-MiEV",
+    "modelYear": 2013,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Concept" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875572990232887296/mitsubishi_concept_ca-miev.png",
+    "creator": "Keanny"
+}
