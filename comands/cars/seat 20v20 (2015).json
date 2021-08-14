@@ -1,0 +1,13 @@
+{
+    "rq": 57,
+    "make": ["Seat"],
+    "model": "20V20",
+    "modelYear": 2015,
+    "country": "ES",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Concept" , "No_One"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875754978780790836/SEAT20V202015_57.png",
+    "creator": "No_One"
+}

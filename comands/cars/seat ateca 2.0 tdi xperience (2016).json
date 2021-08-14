@@ -1,0 +1,13 @@
+{
+    "rq": 35,
+    "make": ["Seat"],
+    "model": "Ateca 2.0 TDi Xperience",
+    "modelYear": 2016,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Offroad" , "Everyday Heroes" , "No_One"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875822632476504104/SEATAteca2.oTDIXperience2016_35.png",
+    "creator": "No_One"
+}

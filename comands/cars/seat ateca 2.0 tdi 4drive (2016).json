@@ -1,0 +1,13 @@
+{
+    "rq": 50,
+    "make": ["Seat"],
+    "model": "Ateca 2.0 TDi 4Drive",
+    "modelYear": 2016,
+    "country": "ES",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "No_One"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875775255946342510/SEATAteca2.0TDI4Drive2016_50.png",
+    "creator": "No_One"
+}

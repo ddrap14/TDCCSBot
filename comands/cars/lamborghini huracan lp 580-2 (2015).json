@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["Lamborghini"],
+    "model": "Huracan LP 580-2",
+    "modelYear": 2015,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/875855152630857758/LamborghiniHuracanLP5802.png",
+    "creator": "Crossfire"
+}
