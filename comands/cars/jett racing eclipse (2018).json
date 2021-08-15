@@ -1,0 +1,13 @@
+{
+    "rq": 77,
+    "make": ["Jett Racing" , "Mitsubishi"],
+    "model": "Eclipse",
+    "modelYear": 2018,
+    "country": "AU",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876111735931699260/Jettracingeclipse.png",
+    "creator": "Bnuuy"
+}

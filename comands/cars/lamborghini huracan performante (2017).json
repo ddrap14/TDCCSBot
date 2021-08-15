@@ -1,0 +1,13 @@
+{
+    "rq": 96,
+    "make": ["Lamborghini"],
+    "model": "Huracan Performante",
+    "modelYear": 2017,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876014818723758100/LamborghiniHuracanPerformante.png",
+    "creator": "Crossfire"
+}

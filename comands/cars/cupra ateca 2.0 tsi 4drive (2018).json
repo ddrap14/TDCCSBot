@@ -1,0 +1,13 @@
+{
+    "rq": 78,
+    "make": ["CUPRA" , "Seat"],
+    "model": "Ateca 2.0 TSI 4Drive",
+    "modelYear": 2018,
+    "country": "ES",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "No_One"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876047978165567509/CUPRAAteca2.0TSI4Drive2018_78.png",
+    "creator": "No_One"
+}

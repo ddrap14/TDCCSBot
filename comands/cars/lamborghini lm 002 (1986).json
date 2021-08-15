@@ -1,0 +1,13 @@
+{
+    "rq": 48,
+    "make": ["Lamborghini"],
+    "model": "LM 002",
+    "modelYear": 1986,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Oddball" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876071411129655347/LamborghiniLM002.png",
+    "creator": "Crossfire"
+}

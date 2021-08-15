@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["Pagani"],
+    "model": "Zonda F",
+    "modelYear": 2005,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876070123323138138/zonda_f.png",
+    "creator": "Olimato"
+}

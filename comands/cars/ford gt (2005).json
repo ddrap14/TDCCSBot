@@ -1,0 +1,13 @@
+{
+    "rq": 83,
+    "make": ["Ford"],
+    "model": "GT",
+    "modelYear": 2005,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876000039728713788/Ford_GT_05.png",
+    "creator": "Itadari"
+}

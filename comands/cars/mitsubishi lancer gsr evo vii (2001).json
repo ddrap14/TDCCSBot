@@ -1,0 +1,13 @@
+{
+    "rq": 72
+    "make": ["Mitsubishi"],
+    "model": "Lancer GSR Evo VII",
+    "modelYear": 2001,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876122236191404083/Mitsubishi_EVO_V11_Card_2.png",
+    "creator": "Northernhauler"
+}

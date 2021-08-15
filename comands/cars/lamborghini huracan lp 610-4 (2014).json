@@ -1,0 +1,13 @@
+{
+    "rq": 95,
+    "make": ["Lamborghini"],
+    "model": "Huracan LP 610-4",
+    "modelYear": 2014,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876071309992411146/LamborghiniHuracanLP6104.png",
+    "creator": "Crossfire"
+}

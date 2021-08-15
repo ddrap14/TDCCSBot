@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Chevrolet"],
+    "model": "Equinox Premium",
+    "modelYear": 2022,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876122065684561951/Chevrolet_Equinox_Premium.png",
+    "creator": "Northernhauler"
+}
