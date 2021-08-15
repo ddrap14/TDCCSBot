@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Dodge"],
+    "model": "Charger R/T",
+    "modelYear": 2015,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Macan"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/744111431116390500/Charger_RT_15.png",
+    "creator": "Macan"
+}

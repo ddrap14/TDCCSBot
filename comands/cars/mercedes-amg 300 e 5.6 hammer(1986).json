@@ -1,0 +1,13 @@
+{
+    "rq": 58,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "300 E 5.6 Hammer",
+    "modelYear": 1986,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Legends" , "Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876397985750208562/MercedesAMG300E56Hammer.png",
+    "creator": "Crossfire"
+}
