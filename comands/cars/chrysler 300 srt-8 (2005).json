@@ -1,0 +1,13 @@
+{
+    "rq": 59,
+    "make": ["Chrysler"],
+    "model": "300 SRT-8",
+    "modelYear": 2005,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Itadari"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876724343990804480/Chrysler_300_SRT-8_05.png",
+    "creator": "Itadari"
+}

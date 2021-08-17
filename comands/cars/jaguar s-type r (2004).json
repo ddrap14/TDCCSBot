@@ -1,0 +1,13 @@
+{
+    "rq": 52,
+    "make": ["Jaguar"],
+    "model": "S-Type R",
+    "modelYear": 2004,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876797580556791869/JaguarSTypeR.png",
+    "creator": "Crossfire"
+}

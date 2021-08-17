@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Jaguar"],
+    "model": "XJR575",
+    "modelYear": 2017,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Crossfire" , "Luxury" , "Muscle Car"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876797549778964480/JaguarXJR575.png",
+    "creator": "Crossfire"
+}

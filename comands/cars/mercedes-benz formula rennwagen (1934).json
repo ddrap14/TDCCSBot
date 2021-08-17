@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Mercedes-Benz"],
+    "model": "Formula Rennwagen",
+    "modelYear": 1934,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "GAAN919"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876559344588697600/Mercedes-Benz_Formula_Rennwagen.png",
+    "creator": "GAAN919"
+}

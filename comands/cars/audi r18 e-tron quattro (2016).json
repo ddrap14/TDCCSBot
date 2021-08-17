@@ -1,0 +1,13 @@
+{
+    "rq": 102,
+    "make": ["Audi"],
+    "model": "R18 e-Tron Quattro",
+    "modelYear": 2016,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876557787969253416/Audi_R18_e-tron_quattro.png",
+    "creator": "GAAN919"
+}

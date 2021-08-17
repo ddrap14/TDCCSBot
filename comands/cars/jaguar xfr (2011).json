@@ -1,0 +1,13 @@
+{
+    "rq": 62,
+    "make": ["Jaguar"],
+    "model": "XFR",
+    "modelYear": 2011,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876737743894511646/JaguarXFR.png",
+    "creator": "Crossfire"
+}

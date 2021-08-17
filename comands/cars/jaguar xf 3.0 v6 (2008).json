@@ -1,0 +1,13 @@
+{
+    "rq": 43,
+    "make": ["Jaguar"],
+    "model": "XF 3.0 V6",
+    "modelYear": 2008,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876797672550457344/JaguarXF30V6.png",
+    "creator": "Crossfire"
+}
