@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Mazda"],
+    "model": "RX-7 Type R Bathurst R",
+    "modelYear": 2001,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877584002746286130/Mazda_RX-7_Type_R_Bathurst_R_01.png",
+    "creator": "Itadari"
+}
