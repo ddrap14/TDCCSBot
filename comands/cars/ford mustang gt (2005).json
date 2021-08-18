@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Ford"],
+    "model": "Mustang GT",
+    "modelYear": 2005,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877387793112924190/Ford_Mustang_GT_05.png",
+    "creator": "Itadari"
+}
