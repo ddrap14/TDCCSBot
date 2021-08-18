@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Volkswagen"],
+    "model": "ID.Buzz",
+    "modelYear": 2024,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Concept" , "Oddball" , "Northernhauler"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876928747293511730/Volkswagen_ID.Buzz_Card_4.png",
+    "creator": "Northernhauler"
+}
