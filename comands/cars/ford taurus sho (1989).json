@@ -1,0 +1,13 @@
+{
+    "rq": 40,
+    "make": ["Ford"],
+    "model": "Taurus SHO",
+    "modelYear": 1989,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877148118616014858/Ford_Taurus_SHO_Card.png",
+    "creator": "Northernhauler"
+}

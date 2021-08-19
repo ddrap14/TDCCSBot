@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Holden"],
+    "model": "Commodore SS V",
+    "modelYear": 2013,
+    "country": "AU",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Everyday Heroes" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877040808757452850/commodore_ss_v.png",
+    "creator": "Olimato"
+}

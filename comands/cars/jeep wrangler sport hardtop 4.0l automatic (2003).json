@@ -1,0 +1,13 @@
+{
+    "rq": 57,
+    "make": ["Jeep"],
+    "model": "Wrangler Sport Hardtop 4.0L Automatic",
+    "modelYear": 2003,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877181361386061844/Jeep_Wrangler_Sport_Card_3.png",
+    "creator": "Northernhauler"
+}

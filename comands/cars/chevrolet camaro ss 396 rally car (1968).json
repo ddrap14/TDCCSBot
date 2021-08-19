@@ -1,0 +1,13 @@
+{
+    "rq": 52,
+    "make": ["Chevrolet"],
+    "model": "Camaro SS 396 Rally Car",
+    "modelYear": 1968,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Offroad" , "Muscle Car" , "Oddball" , "Nevaeh"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/876966403691909170/1629079773167.png",
+    "creator": "Nevaeh"
+}

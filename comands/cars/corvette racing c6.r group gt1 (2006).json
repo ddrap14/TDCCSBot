@@ -1,0 +1,13 @@
+{
+    "rq": 91,
+    "make": ["Corvette Racing" , "Chevrolet"],
+    "model": "C6.R Group GT1",
+    "modelYear": 2006,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Dragonator"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877195669662740520/2006_Corvette_Racing_C6.R_Group_GT1.png",
+    "creator": "Dragonator"
+}

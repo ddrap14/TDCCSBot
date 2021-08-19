@@ -1,0 +1,13 @@
+{
+    "rq": 62,
+    "make": ["BMW"],
+    "model": "Z8 E52",
+    "modelYear": 2003,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Supercar" , "Northernhauler"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877582167381782558/BMW_Z8_E52_Card.png",
+    "creator": "Northernhauler"
+}

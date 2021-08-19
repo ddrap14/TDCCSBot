@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Volvo"],
+    "model": "Amazon Drag Car",
+    "modelYear": 1962,
+    "country": "SE",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Motorsport" , "Johnny4388"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877633839902621796/Volvo-Amazon-Drag-Car.png",
+    "creator": "Johnny4388"
+}

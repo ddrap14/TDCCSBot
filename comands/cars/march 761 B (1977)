@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["March"],
+    "model": "761",
+    "modelYear": 1976,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Open Wheel",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877191633689526302/March761.png",
+    "creator": "Shinji"
+}

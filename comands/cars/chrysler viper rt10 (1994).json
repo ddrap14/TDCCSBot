@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Chrysler"],
+    "model": "Viper RT/10",
+    "modelYear": 1994,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Nevaeh"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877041570426257408/1629155592454.png",
+    "creator": "Nevaeh"
+}

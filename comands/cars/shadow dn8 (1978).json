@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Shadow"],
+    "model": "DN8",
+    "modelYear": 1978,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Open Wheel",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877192473347244112/ShadowDN8.png",
+    "creator": "Shinji"
+}

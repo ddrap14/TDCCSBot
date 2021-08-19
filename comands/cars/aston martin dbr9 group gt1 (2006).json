@@ -1,0 +1,13 @@
+{
+    "rq": 90,
+    "make": ["Aston Martin"],
+    "model": "DBR9 Group GT1",
+    "modelYear": 2006,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Dragonator"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877195772406423603/Aston_Martin_DBR9_Group_GT1.png",
+    "creator": "Dragonator"
+}

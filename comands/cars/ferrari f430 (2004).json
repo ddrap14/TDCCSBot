@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Ferrari"],
+    "model": "F430",
+    "modelYear": 2004,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877390908025352242/Ferrari_F430_04.png",
+    "creator": "Crayola"
+}

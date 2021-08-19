@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Mazda"],
+    "model": "2 AP4 Rally Car",
+    "modelYear": 2017,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "AM Valkyrie"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877329991065550868/1626071199482.png",
+    "creator": "AM Valkyrie"
+}

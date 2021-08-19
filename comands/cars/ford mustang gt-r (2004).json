@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Ford"],
+    "model": "Mustang GT-R",
+    "modelYear": 2004,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Tuner" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877387530352332820/Ford_Mustang_GT-R_04.png",
+    "creator": "Crayola"
+}

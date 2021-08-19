@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["Volvo"],
+    "model": "S40 D5 R-Design",
+    "modelYear": 2008,
+    "country": "SE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "AM Valkyrie"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/877327622676308028/1629088452746.png",
+    "creator": "AM Valkyrie"
+}
