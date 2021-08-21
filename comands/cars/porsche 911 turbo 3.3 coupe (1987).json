@@ -1,0 +1,13 @@
+{
+    "rq": 54,
+    "make": ["Porsche"],
+    "model": "911 Turbo 3.3 Coupe",
+    "modelYear": 1978,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Legends" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878673968972857344/Porsche_911_Turbo_3.3_Coupe_78.png",
+    "creator": "Itadari"
+}

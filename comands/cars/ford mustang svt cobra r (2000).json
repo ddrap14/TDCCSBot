@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Ford"],
+    "model": "Mustang SVT Cobra R",
+    "modelYear": 2000,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878576945590337577/Ford_Mustang_SVT_Cobra_R_00.png",
+    "creator": "Itadari"
+}
