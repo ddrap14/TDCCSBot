@@ -1,0 +1,13 @@
+{
+    "rq": 17,
+    "make": ["Citroen"],
+    "model": "AX 14 TRS",
+    "modelYear": 1986,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Valou"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878832266720215080/1629600130283.jpg",
+    "creator": "Valou"
+}

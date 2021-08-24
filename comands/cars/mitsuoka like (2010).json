@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Mitsuoka"],
+    "model": "Like",
+    "modelYear": 2010,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Valou"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878763796494164059/1629582104829.jpg",
+    "creator": "Valou"
+}

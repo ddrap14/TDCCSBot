@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Renault"],
+    "model": "Laguna Wagon",
+    "modelYear": 2008,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Olimato"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878944970864721920/laguna_wagon.png",
+    "creator": "Olimato"
+}

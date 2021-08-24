@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Aston Martin"],
+    "model": "DB11 AMR",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Tuner" , "Automotive Gaming Experience"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879154855862734919/image0.jpg",
+    "creator": "Automotive Gaming Experience"
+}

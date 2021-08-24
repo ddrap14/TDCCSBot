@@ -1,0 +1,13 @@
+{
+    "rq": 43,
+    "make": ["Ford"],
+    "model": "Thunderbird Super Coupe",
+    "modelYear": 1989,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878820038063308880/Ford_Thunderbird_Super_Coupe_89.png",
+    "creator": "Crayola"
+}

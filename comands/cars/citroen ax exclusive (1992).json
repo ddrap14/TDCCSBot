@@ -1,0 +1,13 @@
+{
+    "rq": 17,
+    "make": ["Citroen"],
+    "model": "AX Exclusive",
+    "modelYear": 1992,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Valou"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878717097453183026/1629572814823.jpg",
+    "creator": "Valou"
+}

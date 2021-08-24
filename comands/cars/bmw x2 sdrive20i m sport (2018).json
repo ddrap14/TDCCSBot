@@ -1,0 +1,13 @@
+{
+    "rq": 42,
+    "make": ["BMW"],
+    "model": "X2 sDrive20i M Sport",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Valou"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879124076554244136/1629669526070.jpg",
+    "creator": "Valou"
+}

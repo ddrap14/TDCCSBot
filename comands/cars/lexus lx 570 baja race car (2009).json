@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Lexus"],
+    "model": "LX 570 Baja Race Car",
+    "modelYear": 2009,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Nevaeh"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878419864744783942/1629499131919.png",
+    "creator": "Nevaeh"
+}

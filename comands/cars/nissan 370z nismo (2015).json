@@ -1,0 +1,13 @@
+{
+    "rq": 62,
+    "make": ["Nissan"],
+    "model": "370Z Nismo",
+    "modelYear": 2015,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "La Peyo"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878773461122691132/Nissan_370Z_Nismo_15.png",
+    "creator": "La Peyo"
+}

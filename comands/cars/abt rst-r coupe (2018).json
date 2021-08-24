@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["ABT" , "Audi"],
+    "model": "RS5-R Coupe",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Automotive Gaming Experience"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878750157724860436/image0.jpg",
+    "creator": "Automotive Gaming Experience"
+}

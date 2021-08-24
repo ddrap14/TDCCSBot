@@ -1,0 +1,13 @@
+{
+    "rq": 30,
+    "make": ["Peugeot"],
+    "model": "205 GTi 1.9",
+    "modelYear": 1986,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Legends" , "Valou"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878592904677953566/1629543171751.jpg",
+    "creator": "Valou"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Mitsubishi"],
+    "model": "Lancer WRC04",
+    "modelYear": 2004,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Offroad" , "Concept" , "Crayola"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878538981791383562/Mitsubishi_Lancer_WRC04_04.png",
+    "creator": "Crayola"
+}

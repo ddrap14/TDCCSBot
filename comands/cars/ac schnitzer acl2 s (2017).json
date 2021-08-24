@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["AC Schnitzer" , "BMW"],
+    "model": "ACL2 S",
+    "modelYear": 2017,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Super Sedan" , "Tuner" , "Automotive Gaming Experience"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878750378185854976/image0.jpg",
+    "creator": "Automotive Gaming Experience"
+}

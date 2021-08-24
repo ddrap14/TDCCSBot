@@ -1,0 +1,13 @@
+{
+    "rq": 27,
+    "make": ["Renault"],
+    "model": "Megane e-Tech Plug-in Hybrid R.S. Line",
+    "modelYear": 2021,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "La Peyo"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878371283673448498/Renault_Megane_E-Tech_Plug-in_Hybrid_R.S._Line_21.png",
+    "creator": "La Peyo"
+}

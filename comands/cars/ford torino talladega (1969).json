@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["Ford"],
+    "model": "Torino Talladega",
+    "modelYear": 1969,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Motorsport" , "Nevaeh"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878716737825144964/1629568498357.png",
+    "creator": "Nevaeh"
+}

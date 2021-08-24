@@ -1,0 +1,13 @@
+{
+    "rq": 18,
+    "make": ["Toyota"],
+    "model": "Yaris 3-Door",
+    "modelYear": 2003,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Olimato"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879140904320000060/yaris_3_door.png",
+    "creator": "Olimato"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 93,
+    "make": ["Ferrari"],
+    "model": "599XX",
+    "modelYear": 2009,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Limited Edition" , "GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878806176853286932/Ferrari_599XX.png",
+    "creator": "GAAN919"
+}

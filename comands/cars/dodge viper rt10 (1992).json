@@ -1,0 +1,13 @@
+{
+    "rq": 67,
+    "make": ["Dodge"],
+    "model": "Viper RT/10",
+    "modelYear": 1992,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Muscle Car" , "Crayola"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878546219163586580/Dodge_Viper_RT10_92.png",
+    "creator": "Crayola"
+}

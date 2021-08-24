@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["Holden"],
+    "model": "Vectra CDXi V6 Hatch",
+    "modelYear": 2003,
+    "country": "AU",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Nevaeh"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878482503445409842/1629516905638.png",
+    "creator": "Nevaeh"
+}

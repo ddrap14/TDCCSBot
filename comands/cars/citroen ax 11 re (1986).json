@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Citroen"],
+    "model": "AX 11 RE",
+    "modelYear": 1986,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Valou"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878687283174342666/1629565673923.jpg",
+    "creator": "Valou"
+}

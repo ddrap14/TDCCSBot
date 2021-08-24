@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Mitsubishi"],
+    "model": "i-MiEV",
+    "modelYear": 2010,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Valou"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878763518105616475/1629583088825.jpg",
+    "creator": "Valou"
+}

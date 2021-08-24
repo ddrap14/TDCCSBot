@@ -1,0 +1,13 @@
+{
+    "rq": 27,
+    "make": ["MG"],
+    "model": "3",
+    "modelYear": 2018,
+    "country": "CN",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Android"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878766493486174278/3_china.png",
+    "creator": "Android"
+}

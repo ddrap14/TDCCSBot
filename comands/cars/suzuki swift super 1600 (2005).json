@@ -1,0 +1,13 @@
+{
+    "rq": 48,
+    "make": ["Suzuki"],
+    "model": "Swift Super 1600",
+    "modelYear": 2005,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Motorsport" , "Offroad" , "Nevaeh"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878823899360550932/1629596611059.png",
+    "creator": "Nevaeh"
+}

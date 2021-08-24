@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["BMW"],
+    "model": "X3 M Competition",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Valou"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878609430751608832/1629546918486.jpg",
+    "creator": "Valou"
+}

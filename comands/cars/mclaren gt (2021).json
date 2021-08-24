@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["McLaren"],
+    "model": "GT",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878015539455361104/McLared_GT_Card.png",
+    "creator": "Northernhauler"
+}

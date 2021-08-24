@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Volkswagen"],
+    "model": "Arteon R Shooting BRake",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Itadari"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879058472786874378/Volkswagen_Arteon_R_Shooting_Brake_20.png",
+    "creator": "Itadari"
+}

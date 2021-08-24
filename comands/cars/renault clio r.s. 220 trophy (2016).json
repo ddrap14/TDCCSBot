@@ -1,0 +1,13 @@
+{
+    "rq": 45,
+    "make": ["Renault"],
+    "model": "Clio R.S. 220 Trophy",
+    "modelYear": 2016,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "La Peyo"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878751211807985675/Renault_Clio_R.S._220_Trophy_16.png",
+    "creator": "La Peyo"
+}

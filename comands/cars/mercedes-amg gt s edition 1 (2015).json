@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "GT S Edition 1",
+    "modelYear": 2015,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Automotive Gaming Experience"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878377100673949827/image0.jpg",
+    "creator": "Automotive Gaming Experience"
+}

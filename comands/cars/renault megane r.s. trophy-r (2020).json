@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Renault"],
+    "model": "Megane R.S. Trophy-R",
+    "modelYear": 2020,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["La Peyo"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878371446181752842/Renault_Megane_R.S._Trophy-R_20.png",
+    "creator": "La Peyo"
+}

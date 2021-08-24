@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["Oldsmobile"],
+    "model": "Cutlass S Holiday",
+    "modelYear": 1970,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Limited Edition" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879154172786769930/cutlass_s_holiday.png",
+    "creator": "Olimato"
+}

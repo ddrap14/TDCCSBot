@@ -1,0 +1,13 @@
+{
+    "rq": 92,
+    "make": ["BMW"],
+    "model": "M3 DTM",
+    "modelYear": 2012,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/878543130251640842/m3_dtm.png",
+    "creator": "Olimato"
+}
