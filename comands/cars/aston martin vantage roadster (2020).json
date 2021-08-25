@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Aston Martin"],
+    "model": "Vantage Roadster",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Luxury" , "Saabsut"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879308322589786122/Vantage_Roadster_Card.png",
+    "creator": "Saabsut"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 36,
+    "make": ["Dodge"],
+    "model": "Coronet 500 2-Door Hardtop 426 V-8 Street Hemi",
+    "modelYear": 1966,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Nevaeh"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879168948816445460/ProperAmericanMuscle.png",
+    "creator": "Nevaeh"
+}

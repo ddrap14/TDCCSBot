@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Porsche"],
+    "model": "718 Cayman GT4 MT",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Saabsut"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879308043639214132/718_ca_2.png",
+    "creator": "Saabsut"
+}

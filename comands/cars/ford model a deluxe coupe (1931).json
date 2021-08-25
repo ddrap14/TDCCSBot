@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Ford"],
+    "model": "Model A Deluxe Coupe",
+    "modelYear": 1931,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["PrestonLK"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879390047378497606/model_a_card.png",
+    "creator": "PrestonLK"
+}

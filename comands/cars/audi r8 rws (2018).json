@@ -1,0 +1,13 @@
+{
+    "rq": 82,
+    "make": ["Audi"],
+    "model": "R8 RWS",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Limited Edition" , "Valou"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879205884696354856/1629689249251.jpg",
+    "creator": "Valou"
+}

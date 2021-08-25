@@ -1,0 +1,13 @@
+{
+    "rq": 58,
+    "make": ["Lexus"],
+    "model": "RC 350 F Sport",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["La Peyo"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879161087117910116/Lexus_RC_350_F_Sport_19.png",
+    "creator": "La Peyo"
+}

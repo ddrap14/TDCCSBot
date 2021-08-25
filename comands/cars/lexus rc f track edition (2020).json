@@ -1,0 +1,13 @@
+{
+    "rq": 69,
+    "make": ["Lexus"],
+    "model": "RC F Track Edition",
+    "modelYear": 2020,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "La Peyo"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879161215585230888/Lexus_RC_F_Track_Edition_20.png",
+    "creator": "La Peyo"
+}

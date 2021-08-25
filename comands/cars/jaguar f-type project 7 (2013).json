@@ -1,0 +1,13 @@
+{
+    "rq": 78,
+    "make": ["Jaguar"],
+    "model": "F-Type Project 7",
+    "modelYear": 2013,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Olimato"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879168948816445460/ProperAmericanMuscle.png",
+    "creator": "Olimato"
+}

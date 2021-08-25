@@ -1,0 +1,13 @@
+{
+    "rq": 35,
+    "make": ["Audi"],
+    "model": "A1 Sportback 35 TFSI",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Macan"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879230197344403486/A1_Sportback_35_TFSI_19.png",
+    "creator": "Macan"
+}

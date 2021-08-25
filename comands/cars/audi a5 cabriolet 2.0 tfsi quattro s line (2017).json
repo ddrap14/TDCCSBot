@@ -1,0 +1,13 @@
+{
+    "rq": 45,
+    "make": ["Audi"],
+    "model": "A5 Cabriolet 2.0 TFSI quattro S line",
+    "modelYear": 2017,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Everyday Heroes" , "Macan"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879230246619086888/A5_Cabriolet_2.0_TFSI_quattro_S_line_17.png",
+    "creator": "Macan"
+}

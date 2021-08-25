@@ -1,0 +1,13 @@
+{
+    "rq": 98,
+    "make": ["Alpine"],
+    "model": "A480",
+    "modelYear": 2021,
+    "country": "FR",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879160696754040832/image0.png",
+    "creator": "Shinji"
+}

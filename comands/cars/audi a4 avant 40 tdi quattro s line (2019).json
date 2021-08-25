@@ -1,0 +1,13 @@
+{
+    "rq": 56,
+    "make": ["Audi"],
+    "model": "A4 Avant 40 TDI quattro S line",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Luxury" , "Macan"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879230535136845844/A4_Avant_40_TDI_quattro_S_line_19.png",
+    "creator": "Macan"
+}

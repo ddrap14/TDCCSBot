@@ -1,0 +1,13 @@
+{
+    "rq": 67,
+    "make": ["Lexus"],
+    "model": "RC F",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["La Peyo"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879161150531584090/Lexus_RC_F_19.png",
+    "creator": "La Peyo"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 37,
+    "make": ["Audi"],
+    "model": "Q2 35 TFSI",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Macan"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879230289015095316/Q2_35_TFSI_21.png",
+    "creator": "Macan"
+}

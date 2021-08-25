@@ -3,7 +3,7 @@
     "make": ["Toyota"],
     "model": "Corolla XSE Apex Edition",
     "modelYear": 2021,
-    "country": ""JP,
+    "country": "JP",
     "driveType": "FWD",
     "tags": ["Limited Edition" , "La Peyo"],
     "bodyStyle": "Sedan",

@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Toyota"],
+    "model": "GR Yaris",
+    "modelYear": 2020,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Valou"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879206607005814804/1629655554758.jpg",
+    "creator": "Valou"
+}

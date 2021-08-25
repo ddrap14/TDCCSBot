@@ -1,0 +1,13 @@
+{
+    "rq": 57,
+    "make": ["Mazda"],
+    "model": "BBR MX-5 Super 220",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Saabsut"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879307717662105600/BBR_MX-5_Super_220_Card.png",
+    "creator": "Saabsut"
+}

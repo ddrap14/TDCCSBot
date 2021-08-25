@@ -1,0 +1,13 @@
+{
+    "rq": 37,
+    "make": ["Audi"],
+    "model": "A4 35 TFSI S line",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Macan"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879230592590434355/A4_35_TFSI_S_line_20.png",
+    "creator": "Macan"
+}

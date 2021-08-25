@@ -1,0 +1,13 @@
+{
+    "rq": 35,
+    "make": ["Audi"],
+    "model": "A3 Sportback e-tron",
+    "modelYear": 2015,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Macan"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879230154386329630/A3_Sportback_e-tron_15.png",
+    "creator": "Macan"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Audi"],
+    "model": "A7 Sportback 55 TFSI quattro S line",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Macan"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879230699184488458/A7_Sportback_55_TFSI_quattro_S_line_18.png",
+    "creator": "Macan"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 35,
+    "make": ["Lexus"],
+    "model": "RC 300h",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "La Peyo"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879161022966034442/Lexus_RC_300h_19.png",
+    "creator": "La Peyo"
+}
