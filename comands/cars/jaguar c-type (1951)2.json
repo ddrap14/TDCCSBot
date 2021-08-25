@@ -1,0 +1,13 @@
+{
+    "rq": 30,
+    "make": ["Jaguar"],
+    "model": "C-Type",
+    "modelYear": 1951,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Bnuuy", "Legends"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879858372512460800/ctype.png",
+    "creator": "Bnuuy"
+}
