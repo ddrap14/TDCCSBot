@@ -1,0 +1,13 @@
+{
+    "rq": 97,
+    "make": ["Jaguar"],
+    "model": "C-X75 007 Spectre",
+    "modelYear": 2015,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Star Cars" , "Limited Edition" , "Crossfire],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880554647247548516/JaguarCX75007Spectre5.png",
+    "creator": "Crossfire"
+}
