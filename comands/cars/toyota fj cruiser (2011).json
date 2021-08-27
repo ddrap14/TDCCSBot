@@ -1,0 +1,13 @@
+{
+    "rq": 57,
+    "make": ["Toyota"],
+    "model": "FJ Cruiser",
+    "modelYear": 2011,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heros" , "ImSoupra"],
+    "bodyStyle": "Sedan",
+    "fuelType": "SUV",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880594805246263366/Toyota_FJ_Cruiser_2011.png",
+    "creator": "ImSoupra"
+}
