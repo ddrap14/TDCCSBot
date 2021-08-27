@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Audi Sport"],
+    "model": "Quattro S1",
+    "modelYear": 1985,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880473932526940190/Audi_Sport_Quattro_S1_85.png",
+    "creator": "Itadari"
+}

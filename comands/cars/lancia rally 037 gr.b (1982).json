@@ -1,0 +1,13 @@
+{
+    "rq": 74,
+    "make": ["Lancia"],
+    "model": "Rally 037 Gr.B",
+    "modelYear": 1982,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880509804131545138/Lancia_Rally_037_Gr.B_82.png",
+    "creator": "Itadari"
+}
