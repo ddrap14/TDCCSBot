@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Porsche"],
+    "model": "911 Turbo S 3.3 Leichtbau",
+    "modelYear": 1992,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Itadari],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880877276273737748/Porsche_911_Turbo_S_3.3_Leichtbau_92.png",
+    "creator": "Itadari"
+}
