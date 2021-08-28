@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["McLaren"],
+    "model": "MP4-12C Spider",
+    "modelYear": 2012,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881198605933895760/McLarenMP412CSpider.png",
+    "creator": "Crossfire"
+}

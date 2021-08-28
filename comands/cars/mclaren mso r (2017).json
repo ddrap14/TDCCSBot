@@ -1,0 +1,13 @@
+{
+    "rq": 92,
+    "make": ["McLaren"],
+    "model": "MSO R",
+    "modelYear": 2017,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881198701022945321/McLarenMSOR.png",
+    "creator": "Crossfire"
+}

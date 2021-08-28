@@ -1,0 +1,13 @@
+{
+    "rq": 92,
+    "make": ["McLaren"],
+    "model": "600LT",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881197986003161099/McLaren600LT.png",
+    "creator": "Crossfire"
+}

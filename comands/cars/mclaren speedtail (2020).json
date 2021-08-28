@@ -1,0 +1,13 @@
+{
+    "rq": 95,
+    "make": ["McLaren"],
+    "model": "Speedtail",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Legends" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881198509188055111/McLarenSpeedtail.png",
+    "creator": "Crossfire"
+}

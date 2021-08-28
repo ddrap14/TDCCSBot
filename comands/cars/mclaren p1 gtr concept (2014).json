@@ -1,0 +1,13 @@
+{
+    "rq": 97,
+    "make": ["McLaren"],
+    "model": "P1 GTR Concept",
+    "modelYear": 2014,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Motorsport" , "Concept" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881197872257859604/McLarenP1GTRConcept.png",
+    "creator": "Crossfire"
+}

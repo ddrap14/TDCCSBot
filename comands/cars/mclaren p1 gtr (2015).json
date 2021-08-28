@@ -1,0 +1,13 @@
+{
+    "rq": 97,
+    "make": ["McLaren"],
+    "model": "P1 GTR",
+    "modelYear": 2015,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Motorsport" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881198712850882560/McLarenP1GTR.png",
+    "creator": "Crossfire"
+}
