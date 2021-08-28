@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Oldsmobile"],
+    "model": "4-4-2 Cutlass Convertible",
+    "modelYear": 1966,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Northernhauler"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879883213567311952/Oldsmobile_4-4-2_Cutlass_Convertible_Card_1.png",
+    "creator": "Northernhauler"
+}

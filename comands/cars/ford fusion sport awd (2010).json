@@ -1,0 +1,13 @@
+{
+    "rq": 56,
+    "make": ["Ford"],
+    "model": "Fusion Sport AWD",
+    "modelYear": 2010,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879520385635319839/fusion_sport.png",
+    "creator": "ChickenMcNuggets"
+}

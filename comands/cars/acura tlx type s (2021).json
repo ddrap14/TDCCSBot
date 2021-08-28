@@ -1,0 +1,13 @@
+{
+    "rq": 69,
+    "make": ["Acura"],
+    "model": "TLX Type S",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Super Sedan" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879520666246848512/tlx_type_s.png",
+    "creator": "ChickenMcNuggets"
+}

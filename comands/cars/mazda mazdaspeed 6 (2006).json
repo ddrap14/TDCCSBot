@@ -1,0 +1,13 @@
+{
+    "rq": 54,
+    "make": ["Mazda"],
+    "model": "Mazdaspeed 6",
+    "modelYear": 2006,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Super Sedan" , "Tuner" , "Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879771501870592000/Mazda_Mazdaspeed_6_Card_3.png",
+    "creator": "Northernhauler"
+}

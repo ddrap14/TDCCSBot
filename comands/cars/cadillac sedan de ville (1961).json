@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Cadillac"],
+    "model": "Sedan de Ville",
+    "modelYear": 1961,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879477612836167720/Cadillac_Sedan_de_Ville_Card.png",
+    "creator": "Northernhauler"
+}

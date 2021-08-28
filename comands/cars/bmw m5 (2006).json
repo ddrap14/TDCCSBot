@@ -1,0 +1,13 @@
+{
+    "rq": 62,
+    "make": ["BMW"],
+    "model": "M5",
+    "modelYear": 2006,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Super Sedan" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879934944393187358/e60_m5.png",
+    "creator": "Olimato"
+}

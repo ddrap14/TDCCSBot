@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Audi"],
+    "model": "RS4 Avant",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Super Sedan" , "Saabsut"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880446880197259314/RS4_Avant_Card.png",
+    "creator": "Saabsut"
+}

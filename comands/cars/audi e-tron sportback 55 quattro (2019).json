@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Audi"],
+    "model": "e-tron Sportback 55 quattro",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Misopasko"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880351376062951454/Audi_Q3_45_TFSI_quattro_F.png",
+    "creator": "Misopasko"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 92,
+    "make": ["Aston Martin"],
+    "model": "Victor",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Supercar" , "Automotive Gaming Experience"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879830966036729866/image0.jpg",
+    "creator": "Automotive Gaming Experience"
+}

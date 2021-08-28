@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Porsche"],
+    "model": "550 Spyder",
+    "modelYear": 1954,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Bnuuy"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879858819222614037/porsche550Spyder.png",
+    "creator": "Bnuuy"
+}

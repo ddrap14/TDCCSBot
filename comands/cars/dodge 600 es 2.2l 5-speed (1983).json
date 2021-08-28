@@ -1,0 +1,13 @@
+{
+    "rq": 15,
+    "make": ["Dodge"],
+    "model": "600 ES 2.2L 5-Speed",
+    "modelYear": 1983,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879468993042341908/Dodge_600_2.png",
+    "creator": "Northernhauler"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 62,
+    "make": ["Audi"],
+    "model": "Q3 Sportback 45 TFSI quattro",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Saabsut"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880183897479057508/Q3_Sportback_45_TFSI_quattro_Caed.png",
+    "creator": "Saabsut"
+}

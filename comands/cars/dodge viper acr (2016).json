@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Dodge"],
+    "model": "Viper ACR",
+    "modelYear": 2016,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "Limited Edition" , "Valou"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879683410770153502/Ford_Laser_Card_1.png",
+    "creator": "Valou"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 69,
+    "make": ["Aston Martin"],
+    "model": "DBS Coupe Centennial",
+    "modelYear": 2013,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Supercar" , "Concept" , "Automotive Gaming Experience"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879825870771073034/Opel-Lotus_Omega_Card_1.png",
+    "creator": "Automotive Gaming Experience"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 62,
+    "make": ["Audi"],
+    "model": "Q3 45 TFSI quattro",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Misopasko"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880351376062951454/Audi_Q3_45_TFSI_quattro_F.png",
+    "creator": "Misopasko"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 36,
+    "make": ["Maserati"],
+    "model": "Kyalami 4200",
+    "modelYear": 1981,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880424585965740042/Lexus_IS_300c_Card_1.png",
+    "creator": "Northernhauler"
+}

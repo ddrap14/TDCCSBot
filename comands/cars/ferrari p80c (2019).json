@@ -1,0 +1,13 @@
+{
+    "rq": 97,
+    "make": ["Ferrari"],
+    "model": "P80/C",
+    "modelYear": 2019,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880416187677294612/P80C2.png",
+    "creator": "Bnuuy"
+}

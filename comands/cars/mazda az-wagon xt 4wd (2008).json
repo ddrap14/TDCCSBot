@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Mazda"],
+    "model": "AZ-Wagon XT 4WD",
+    "modelYear": 2008,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Northernhauler"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879430085369823312/Isuzu_MU_Wiazard_LS_Card_3.png",
+    "creator": "Northernhauler"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 23,
+    "make": ["BMW"],
+    "model": "3000 V8 Fastback by Frua",
+    "modelYear": 1967,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Oddball" , "Saabsut"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879867424013439016/3000_V8_Fatback_Crderis.png",
+    "creator": "Saabsut"
+}

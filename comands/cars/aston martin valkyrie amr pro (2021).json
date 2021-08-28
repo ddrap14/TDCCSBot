@@ -1,0 +1,13 @@
+{
+    "rq": 100,
+    "make": ["Aston Martin"],
+    "model": "Valkyrie AMR Pro",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "Limited Edition" , "Automotive Gaming Experience"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879466145491607552/image0.jpg",
+    "creator": "Automotive Gaming Experience"
+}

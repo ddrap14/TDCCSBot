@@ -1,0 +1,13 @@
+{
+    "rq": 55,
+    "make": ["Subaru"],
+    "model": "Legacy 3.6R",
+    "modelYear": 2018,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879520121859756032/3.6r.png",
+    "creator": "ChickenMcNuggets"
+}

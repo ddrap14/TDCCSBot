@@ -1,0 +1,13 @@
+{
+    "rq": 66,
+    "make": ["Aston Martin"],
+    "model": "V8 Cygnet",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Oddball" , "Automotive Gaming Experience"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879830918196494386/image0.jpg",
+    "creator": "Automotive Gaming Experience"
+}

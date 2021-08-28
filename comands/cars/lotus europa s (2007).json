@@ -1,0 +1,13 @@
+{
+    "rq": 55,
+    "make": ["Lotus"],
+    "model": "Europa S",
+    "modelYear": 2007,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879833935985668096/Lotus_Europa_S_Card_1.png",
+    "creator": "Northernhauler"
+}

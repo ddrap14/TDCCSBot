@@ -1,0 +1,13 @@
+{
+    "rq": 40,
+    "make": ["Saab"],
+    "model": "9-3 Aero Convertible",
+    "modelYear": 2003,
+    "country": "SE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Saabsut"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880455176383766659/9-3_Aero_Convertible_cARD.png",
+    "creator": "Saabsut"
+}

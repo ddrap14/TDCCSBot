@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Chevrolet"],
+    "model": "S-10 Rally Car",
+    "modelYear": 2005,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Nevaeh"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880299019329499238/1999_Oldsmobile_Alero_GL_Coupe_3.5_V6.png",
+    "creator": "Nevaeh"
+}

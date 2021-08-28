@@ -1,0 +1,13 @@
+{
+    "rq": 18,
+    "make": ["AMC"],
+    "model": "Spirit Liftback 258 4-Speed",
+    "modelYear": 1979,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880453490919489536/AMC_Spirit_Liftback_card_1.png",
+    "creator": "Northernhauler"
+}

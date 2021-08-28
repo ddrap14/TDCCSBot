@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Genesis"],
+    "model": "G70 3.3T Sport",
+    "modelYear": 2021,
+    "country": "KR",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879520875152547840/gensis.png",
+    "creator": "ChickenMcNuggets"
+}

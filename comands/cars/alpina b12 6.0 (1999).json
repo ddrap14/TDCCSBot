@@ -1,0 +1,13 @@
+{
+    "rq": 54,
+    "make": ["Alpina" , "BMW"],
+    "model": "B12 6.0",
+    "modelYear": 1999,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Super Sedan" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879870966828781568/b12_6.0.png",
+    "creator": "Olimato"
+}

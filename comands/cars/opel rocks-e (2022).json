@@ -1,0 +1,13 @@
+{
+    "rq": 15,
+    "make": ["Opel"],
+    "model": "Rocks-e",
+    "modelYear": 2022,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880505051020394556/OpelRockse.png",
+    "creator": "Crossfire"
+}

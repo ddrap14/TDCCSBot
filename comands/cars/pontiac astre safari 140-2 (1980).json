@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Pontiac"],
+    "model": "Astre Safari 140-2",
+    "modelYear": 1980,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880062402366943363/Pontiac_Astre_Safari_140-2_Card_1.png",
+    "creator": "Northernhauler"
+}

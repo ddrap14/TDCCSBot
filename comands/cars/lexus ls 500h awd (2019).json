@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Lexus"],
+    "model": "LS 500h AWD",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880084704462794862/Lexus_LS_500h_AWD_Card_2.png",
+    "creator": "Northernhauler"
+}

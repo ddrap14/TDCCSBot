@@ -1,0 +1,13 @@
+{
+    "rq": 69,
+    "make": ["Genesis"],
+    "model": "G70 3.3T RWD",
+    "modelYear": 2019,
+    "country": "KR",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879520451095834695/g70.png",
+    "creator": "ChickenMcNuggets"
+}

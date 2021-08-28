@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Ford"],
+    "model": "Fusion Sport",
+    "modelYear": 2017,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879520318262222878/fusion_sport_tag.png",
+    "creator": "ChickenMcNuggets"
+}

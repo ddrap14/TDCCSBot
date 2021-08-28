@@ -1,0 +1,13 @@
+{
+    "rq": 39,
+    "make": ["Aston Martin"],
+    "model": "V8 Series II",
+    "modelYear": 1972,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Supercar" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879588725594652723/Aston_Martin_V8_Series_II_72.png",
+    "creator": "Crayola"
+}

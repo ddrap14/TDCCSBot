@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["BMW"],
+    "model": "M4 GT4",
+    "modelYear": 2017,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Super Sedan" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879935018288431114/m4_gt4.png",
+    "creator": "Olimato"
+}

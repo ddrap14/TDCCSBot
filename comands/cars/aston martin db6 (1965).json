@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Aston Martin"],
+    "model": "DB6",
+    "modelYear": 1965,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879858479899217990/AstonDB6.png",
+    "creator": "Bnuuy"
+}

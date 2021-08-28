@@ -1,0 +1,13 @@
+{
+    "rq": 39,
+    "make": ["Mercedes-Benz"],
+    "model": "E 420",
+    "modelYear": 1993,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Olimato"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880266229091278858/e420.png",
+    "creator": "Olimato"
+}

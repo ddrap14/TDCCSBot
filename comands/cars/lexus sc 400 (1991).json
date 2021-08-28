@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Lexus"],
+    "model": "SC 400",
+    "modelYear": 1991,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880068511081324644/Lexus_SC_400_Card_1.png",
+    "creator": "Northernhauler"
+}

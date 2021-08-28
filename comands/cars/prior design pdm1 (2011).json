@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Prior Design" , "BMW"],
+    "model": "PDM1",
+    "modelYear": 2011,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Super Sedan" , "Olimato"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880405598762586222/prior_design_pdm1.png",
+    "creator": "Olimato"
+}

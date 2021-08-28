@@ -1,0 +1,13 @@
+{
+    "rq": 58,
+    "make": ["Chrysler"],
+    "model": "Aspen AWD 5.7L V8",
+    "modelYear": 2008,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879814708184645642/Chrysler_Aspen_5.2L_V8_Card_1.png",
+    "creator": "Northernhauler"
+}

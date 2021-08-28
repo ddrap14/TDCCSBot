@@ -1,0 +1,13 @@
+{
+    "rq": 44,
+    "make": ["Audi"],
+    "model": "A3 Sportback e-tron",
+    "modelYear": 2015,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Olimato"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880256071787249724/a3_sportback_etron.png",
+    "creator": "Olimato"
+}

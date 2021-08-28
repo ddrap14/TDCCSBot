@@ -1,0 +1,13 @@
+{
+    "rq": 34,
+    "make": ["Volvo"],
+    "model": "740 Turbo",
+    "modelYear": 1989,
+    "country": "SE",
+    "driveType": "RWD",
+    "tags": ["Super Sedan" , "Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880056069840339014/Volvo_740_Turbo_Card_2.png",
+    "creator": "Northernhauler"
+}

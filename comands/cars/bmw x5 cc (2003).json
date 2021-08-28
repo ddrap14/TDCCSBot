@@ -1,0 +1,13 @@
+{
+    "rq": 72,
+    "make": ["BMW"],
+    "model": "X5 CC",
+    "modelYear": 2003,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Nevaeh"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880281566100750398/1629943256731.png",
+    "creator": "Nevaeh"
+}

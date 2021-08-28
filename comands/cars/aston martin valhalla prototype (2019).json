@@ -1,0 +1,13 @@
+{
+    "rq": 96,
+    "make": ["Aston Martin"],
+    "model": "Valhalla Prototype",
+    "modelYear": 2019,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Supercar" , "Automotive Gaming Experience"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879466233899155549/image0.jpg",
+    "creator": "Automotive Gaming Experience"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Opel-Lotus" , "Opel" , "Lotus"],
+    "model": "Omega",
+    "modelYear": 1990,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Tuner" , "Northernhauler"],
+    "bodyStyle": "Sedam",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/879825870771073034/Opel-Lotus_Omega_Card_1.png",
+    "creator": "Northernhauler"
+}

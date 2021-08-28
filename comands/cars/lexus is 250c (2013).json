@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Lexus"],
+    "model": "IS 250c",
+    "modelYear": 2013,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Northernhauler"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/880424585965740042/Lexus_IS_300c_Card_1.png",
+    "creator": "Northernhauler"
+}
