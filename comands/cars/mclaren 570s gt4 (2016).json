@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["McLaren"],
+    "model": "570S GT4",
+    "modelYear": 0000,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Motorsport" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881196873619222578/McLaren570SGT4.png",
+    "creator": "Crossfire"
+}

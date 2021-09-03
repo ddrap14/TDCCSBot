@@ -1,0 +1,13 @@
+{
+    "rq": 96,
+    "make": ["McLaren"],
+    "model": "Senna LM",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881198867801075752/McLarenSennaLM.png",
+    "creator": "Crossfire"
+}

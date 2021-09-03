@@ -1,0 +1,13 @@
+{
+    "rq": 91,
+    "make": ["McLaren"],
+    "model": "625C",
+    "modelYear": 2015,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881197380727361576/McLaren625C.png",
+    "creator": "Crossfire"
+}

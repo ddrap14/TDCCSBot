@@ -1,0 +1,13 @@
+{
+    "rq": 91,
+    "make": ["McLaren"],
+    "model": "570S Sprint",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Motorsport" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/881197250129317918/McLaren570SSprint.png",
+    "creator": "Crossfire"
+}
