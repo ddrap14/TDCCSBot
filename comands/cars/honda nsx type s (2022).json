@@ -1,0 +1,13 @@
+{
+    "rq": 91,
+    "make": ["Honda"],
+    "model": "NSX Type S",
+    "modelYear": 2022,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Limited Edition" , "ImSoupra"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882027968220774450/Honda_NSX_Type_S_2022.png",
+    "creator": "ImSoupra"
+}
