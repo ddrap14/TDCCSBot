@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Ferrari"],
+    "model": "512 BB LM",
+    "modelYear": 1979,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882702133772824616/Ferrari_512_BB_LM_79_2.png",
+    "creator": "Crayola"
+}

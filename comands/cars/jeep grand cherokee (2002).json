@@ -1,0 +1,13 @@
+{
+    "rq": 47,
+    "make": ["Jeep"],
+    "model": "Grand Cherokee",
+    "modelYear": 2002,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Olimato"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882541954284523560/grand_cherokee.png",
+    "creator": "Olimato"
+}

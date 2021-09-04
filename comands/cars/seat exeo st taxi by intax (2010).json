@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["Seat"],
+    "model": "Exeo ST Taxi by INTAX",
+    "modelYear": 2010,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882763597212704798/SEATExeoTaxiByINTAX2010_24.png",
+    "creator": "No_One"
+}

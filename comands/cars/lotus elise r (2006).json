@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Lotus"],
+    "model": "Elise R",
+    "modelYear": 2006,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882911490447908874/LotusEliseR.png",
+    "creator": "Crossfire"
+}

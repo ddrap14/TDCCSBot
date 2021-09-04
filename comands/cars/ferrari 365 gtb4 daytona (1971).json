@@ -1,0 +1,13 @@
+{
+    "rq": 45,
+    "make": ["Ferrari"],
+    "model": "365 GTB/4 Daytona",
+    "modelYear": 1971,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882743098487234641/Ferrari_365_GTB_4_Daytona_71.png",
+    "creator": "Crayola"
+}

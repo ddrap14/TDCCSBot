@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Seat"],
+    "model": "Cordoba WRC Evo 3",
+    "modelYear": 2000,
+    "country": "ES",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Offroad" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882667377752420472/SEATCordobaWRCEvo32000_80.png",
+    "creator": "No_One"
+}

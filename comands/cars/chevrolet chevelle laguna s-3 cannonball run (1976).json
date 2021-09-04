@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Chevrolet"],
+    "model": "Chevelle Laguna S-3 Cannonball Run",
+    "modelYear": 1976,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Motorsport" , "Oddball" , "SidewaysReaction"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882451987726233610/chevellelagunacannonball.png",
+    "creator": "SidewaysReaction"
+}

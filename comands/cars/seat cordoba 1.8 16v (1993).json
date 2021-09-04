@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Seat"],
+    "model": "Cordoba 1.8 16V",
+    "modelYear": 1993,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882403212458594314/SEATCordoba1.816V1993_29.png",
+    "creator": "No_One"
+}

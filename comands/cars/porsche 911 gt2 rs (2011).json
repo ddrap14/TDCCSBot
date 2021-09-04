@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Porsche"],
+    "model": "911 GT2 RS",
+    "modelYear": 2011,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Supercar" , "Itadari"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882443341474709555/Porsche_911_GT2_RS_11_UK_spec.png",
+    "creator": "Itadari"
+}

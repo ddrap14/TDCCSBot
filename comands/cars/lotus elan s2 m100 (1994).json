@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["Lotus"],
+    "model": "Elan S2 M100",
+    "modelYear": 1994,
+    "country": "GB",
+    "driveType": "FWD",
+    "tags": ["Oddball" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882733283916525578/LotusElanS2M100.png",
+    "creator": "Crossfire"
+}

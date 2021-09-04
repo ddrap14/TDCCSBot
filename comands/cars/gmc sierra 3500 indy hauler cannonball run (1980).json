@@ -1,0 +1,13 @@
+{
+    "rq": 19,
+    "make": ["GMC"],
+    "model": "Sierra 3500 Indy Hauler Cannonball Run",
+    "modelYear": 1980,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["SidewaysReaction"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882473654250795008/sierra3500indyhaulercannonball.png",
+    "creator": "SidewaysReaction"
+}

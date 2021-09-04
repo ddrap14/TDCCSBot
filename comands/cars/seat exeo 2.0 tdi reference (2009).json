@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Seat"],
+    "model": "Exeo 2.0 TDI Reference",
+    "modelYear": 2009,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882704464493027378/SEATExeo2.0TDIReference2009_25.png",
+    "creator": "No_One"
+}

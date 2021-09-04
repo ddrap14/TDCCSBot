@@ -1,0 +1,13 @@
+{
+    "rq": 17,
+    "make": ["Seat"],
+    "model": "Cordoba Vario 1.4 16V",
+    "modelYear": 1999,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882564875145072670/SEATCordobaVario1.416V1999_17.png",
+    "creator": "No_One"
+}

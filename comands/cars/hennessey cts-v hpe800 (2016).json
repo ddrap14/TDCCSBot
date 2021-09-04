@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Hennessey" , "Cadillac"],
+    "model": "CTS-V HPE800",
+    "modelYear": 2016,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Supercar" , "Tuner" , "ChickenMcNuggets"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882806867947044875/ctsvhpe800.png",
+    "creator": "ChickenMcNuggets"
+}

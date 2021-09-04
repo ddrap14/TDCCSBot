@@ -1,0 +1,13 @@
+{
+    "rq": 18,
+    "make": ["Seat"],
+    "model": "Cordoba 1.9 TDI",
+    "modelYear": 1999,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882556355129524224/SEATCordoba1.9TDI1999_18.png",
+    "creator": "No_One"
+}

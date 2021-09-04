@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Lotus"],
+    "model": "Emira First Edition",
+    "modelYear": 2022,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882968795700928513/LotusEmiraFirstEdition.png",
+    "creator": "Crossfire"
+}

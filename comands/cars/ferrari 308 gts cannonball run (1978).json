@@ -1,0 +1,13 @@
+{
+    "rq": 39,
+    "make": ["Ferrari"],
+    "model": "308 GTS Cannonball Run",
+    "modelYear": 1978,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "SidewaysReaction"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882790635260764230/308gtscannonball.png",
+    "creator": "SidewaysReaction"
+}

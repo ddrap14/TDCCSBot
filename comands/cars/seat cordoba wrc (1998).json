@@ -1,0 +1,13 @@
+{
+    "rq": 77,
+    "make": ["Seat"],
+    "model": "Cordoba WRC",
+    "modelYear": 1998,
+    "country": "ES",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Offroad" , "No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882600772594962492/SEATCordobaWRC1998_77.png",
+    "creator": "No_One"
+}

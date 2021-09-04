@@ -1,0 +1,13 @@
+{
+    "rq": 35,
+    "make": ["Chevrolet"],
+    "model": "Chevelle SS 454",
+    "modelYear": 1970,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Valou"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882779566618312724/1630540648359.jpg",
+    "creator": "Valou"
+}

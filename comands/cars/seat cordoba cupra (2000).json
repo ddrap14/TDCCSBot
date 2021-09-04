@@ -1,0 +1,13 @@
+{
+    "rq": 30,
+    "make": ["Seat"],
+    "model": "Cordoba Cupra",
+    "modelYear": 2000,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882564978962477126/SEATCordobaCupra2000_30.png",
+    "creator": "No_One"
+}

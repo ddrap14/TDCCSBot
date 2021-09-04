@@ -1,0 +1,13 @@
+{
+    "rq": 19,
+    "make": ["Seat"],
+    "model": "Cordoba 1.4 16V Reference",
+    "modelYear": 2006,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882583200717750282/SEATCordoba1.416VReference2006_19.png",
+    "creator": "No_One"
+}

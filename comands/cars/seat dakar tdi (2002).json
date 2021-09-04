@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Seat"],
+    "model": "Dakar TDI",
+    "modelYear": 2002,
+    "country": "ES",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Oddball" , "No_One"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882686260223815750/SEATDakarTDI2002_60.png",
+    "creator": "No_One"
+}

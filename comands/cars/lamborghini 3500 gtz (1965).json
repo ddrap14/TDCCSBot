@@ -1,0 +1,13 @@
+{
+    "rq": 44,
+    "make": ["Lamborghini"],
+    "model": "3500 GTZ",
+    "modelYear": 1965,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882428124728541275/Lamborghini_3500_GTZ_65.png",
+    "creator": "Crayola"
+}

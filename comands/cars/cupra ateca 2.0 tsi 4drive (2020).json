@@ -1,0 +1,13 @@
+{
+    "rq": 78,
+    "make": ["CUPRA" , "Seat"],
+    "model": "Ateca 2.0 TSI 4Drive",
+    "modelYear": 2020,
+    "country": "ES",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Tuner" , "No_One"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882387556757540896/CUPRAAteca2.0TSI4Drive2020_78.png",
+    "creator": "No_One"
+}

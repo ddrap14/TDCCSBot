@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Lotus"],
+    "model": "Exige 360 Cup",
+    "modelYear": 2015,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882968901388996638/LotusExige360Cup.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["Aston Martin"],
+    "model": "DB5 Cannonball Run",
+    "modelYear": 1963,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "SidewaysReaction"],
+    "bodyStyle": "",
+    "fuelType": "Petrol",
+    "card": "",
+    "creator": ""
+}

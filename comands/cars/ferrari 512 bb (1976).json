@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Ferrari"],
+    "model": "512 BB",
+    "modelYear": 1976,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882729943853830184/Ferrari_512_BB_76_2.png",
+    "creator": "Crayola"
+}

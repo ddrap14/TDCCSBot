@@ -1,0 +1,13 @@
+{
+    "rq": 66,
+    "make": ["Monster Jam" , "Chevrolet"],
+    "model": "The Patriot",
+    "modelYear": 2011,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Oddball" , "Motorsport" , "GAAN919"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882442407025729566/The_Patriot.png",
+    "creator": "GAAN919"
+}

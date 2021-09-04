@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Seat"],
+    "model": "Cordoba 1.4 16V Stella",
+    "modelYear": 2003,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882579535130947614/SEATCordoba1.416VStella2003_20.png",
+    "creator": "No_One"
+}
