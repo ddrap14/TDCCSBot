@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["Porsche"],
+    "model": "911 GT3 PDK",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "Awaffle"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888581738098475038/image1.png",
+    "creator": "Awaffle"
+}

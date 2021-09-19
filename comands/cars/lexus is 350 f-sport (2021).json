@@ -1,0 +1,13 @@
+{
+    "rq": 50,
+    "make": ["Lexus"],
+    "model": "IS 350 F-Sport",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888119846288654356/LexusIS350FSport.png",
+    "creator": "Crossfire"
+}

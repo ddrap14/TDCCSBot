@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Lexus"],
+    "model": "LC 500 Black Label GT by Artisan Spirits",
+    "modelYear": 2020,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888510209750888478/LexusLC500BlackLabelGTbyArtisanSpirits.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 21,
+    "make": ["AC Schnitzer" , "Mini"],
+    "model": "Mini E 'Tune It! Safe!'",
+    "modelYear": 2010,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887438490281865246/AC_german_boi_mini_e_card_2.png",
+    "creator": "Northernhauler"
+}

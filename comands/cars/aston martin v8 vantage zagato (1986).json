@@ -1,0 +1,13 @@
+{
+    "rq": 51,
+    "make": ["Aston Martin" , "Zagato"],
+    "model": "V8 Vantage Zagato",
+    "modelYear": 1986,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Tuner" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887401842588385360/AstonMartinV8VantageZagato.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["AC Schnitzer" , "BMW"],
+    "model": "ACS1 2.3d Polizei 'Tune It! Safe!'",
+    "modelYear": 2009,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887438847011610724/AC_Shnitzer_bmw_coupe_police_what_thing_card_2.png",
+    "creator": "Northernhauler"
+}

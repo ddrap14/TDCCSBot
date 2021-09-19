@@ -1,0 +1,13 @@
+{
+    "rq": 71,
+    "make": ["Lexus"],
+    "model": "RC F Track Edition",
+    "modelYear": 2020,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Motorsport" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888434949546459226/LexusRCFTrackEdition.png",
+    "creator": "Crossfire"
+}

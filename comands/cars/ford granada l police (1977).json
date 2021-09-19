@@ -1,0 +1,13 @@
+{
+    "rq": 14,
+    "make": ["Ford"],
+    "model": "Granada L Police",
+    "modelYear": 1977,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Valou"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887062566390616134/1631562418104.jpg",
+    "creator": "Valou"
+}

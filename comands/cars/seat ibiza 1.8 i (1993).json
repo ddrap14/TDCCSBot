@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Seat"],
+    "model": "Ibiza 1.8 i",
+    "modelYear": 1993,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887340020350980136/SEATIbiza1.8i1993_20.png",
+    "creator": "No_One"
+}

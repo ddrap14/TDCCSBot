@@ -1,0 +1,13 @@
+{
+    "rq": 40,
+    "make": ["Ford"],
+    "model": "Focus Vignale",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Childish"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887431191563755550/image0.jpg",
+    "creator": "Childish"
+}

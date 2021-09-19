@@ -1,0 +1,13 @@
+{
+    "rq": 99,
+    "make": ["Bugatti"],
+    "model": "Chiron Pur Sport",
+    "modelYear": 2020,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Limited Edition" , "Motorsport" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/886613583369236530/BugattiChironPurSport.png",
+    "creator": "Crossfire"
+}

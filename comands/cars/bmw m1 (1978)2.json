@@ -1,0 +1,13 @@
+{
+    "rq": 44,
+    "make": ["BMW"],
+    "model": "M1",
+    "modelYear": 1978,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Valou"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887119850927955968/IMG_20210914_013152.jpg",
+    "creator": "Valou"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Lexus"],
+    "model": "RC F",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888434809569943572/LexusRCF.png",
+    "creator": "Crossfire"
+}

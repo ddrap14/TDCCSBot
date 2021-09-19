@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Lexus"],
+    "model": "RX 400h",
+    "modelYear": 2005,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Offroad" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888510584163819531/LexusRX400h.png",
+    "creator": "Crossfire"
+}

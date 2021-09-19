@@ -1,0 +1,13 @@
+{
+    "rq": 36,
+    "make": ["Renault"],
+    "model": "Koleos Energy dCi 130 Eco2",
+    "modelYear": 2017,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Macan"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888273274205790228/Koleos_Energy_dCi_130_Eco2_17.png",
+    "creator": "Macan"
+}

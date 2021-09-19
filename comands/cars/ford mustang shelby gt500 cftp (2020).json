@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Ford"],
+    "model": "Mustang Shelby GT500 CFTP",
+    "modelYear": 2020,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Limited Edition" , "PrestonLK"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887107839015940136/2020_Ford_Mustang_Shelby_GT500_CFTP.png",
+    "creator": "PrestonLK"
+}

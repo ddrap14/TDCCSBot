@@ -1,0 +1,13 @@
+{
+    "rq": 41,
+    "make": ["Aston Martin" , "Zagato"],
+    "model": "DB4 GT Zagato",
+    "modelYear": 1960,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Limited Edition" , "Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887401921260970045/AstonMartinDB4GTZagato.png",
+    "creator": "Crossfire"
+}

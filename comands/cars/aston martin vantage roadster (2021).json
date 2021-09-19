@@ -1,0 +1,13 @@
+{
+    "rq": 77,
+    "make": ["Aston Martin"],
+    "model": "Vantage Roadster",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887029110122098808/AstonMartinVantageRoadster.png",
+    "creator": "Crossfire"
+}

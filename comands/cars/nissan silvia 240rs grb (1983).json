@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Nissan"],
+    "model": "Silvia 240RS Gr.B",
+    "modelYear": 1983,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Motorsport" , "Childish"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888578179395100732/image0.jpg",
+    "creator": "Childish"
+}

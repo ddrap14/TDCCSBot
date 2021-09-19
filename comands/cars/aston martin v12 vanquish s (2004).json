@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Aston Martin"],
+    "model": "V12 Vanquish S",
+    "modelYear": 2004,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887742426008137748/AstonMartinV12VanquishS.png",
+    "creator": "Crossfire"
+}

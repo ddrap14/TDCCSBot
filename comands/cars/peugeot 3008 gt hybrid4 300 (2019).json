@@ -1,0 +1,13 @@
+{
+    "rq": 66,
+    "make": ["Peugeot"],
+    "model": "3008 GT HYBRID4 300",
+    "modelYear": 2019,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/886343763318960208/Peugeot3008GTHYBRID4300.png",
+    "creator": "Crossfire"
+}

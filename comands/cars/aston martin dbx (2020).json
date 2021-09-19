@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Aston Martin"],
+    "model": "DBX",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Luxury" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887742549731704832/AstonMartinDBX.png",
+    "creator": "Crossfire"
+}

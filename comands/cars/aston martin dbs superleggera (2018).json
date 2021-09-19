@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Aston Martin"],
+    "model": "DBS Superleggera",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Luxury" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/886707479864541194/AstonMartinDBSSuperleggera.png",
+    "creator": "Crossfire"
+}

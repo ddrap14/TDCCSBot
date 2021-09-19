@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["Lamborghini"],
+    "model": "Jalpa P350",
+    "modelYear": 1984,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888071454674026546/LamborghiniJalpaP350.png",
+    "creator": "Crossfire"
+}

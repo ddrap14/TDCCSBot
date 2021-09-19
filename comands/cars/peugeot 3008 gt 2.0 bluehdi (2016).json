@@ -1,0 +1,13 @@
+{
+    "rq": 31,
+    "make": ["Peugeot"],
+    "model": "3008 GT 2.0 BlueHDi",
+    "modelYear": 2016,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/886343744255840296/Peugeot3008GT20BlueHDi2016.png",
+    "creator": "Crossfire"
+}

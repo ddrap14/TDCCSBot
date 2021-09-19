@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Aston Martin"],
+    "model": "V12 Vantage S",
+    "modelYear": 2013,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887401885470969866/AstonMartinV12VantageS.png",
+    "creator": "Crossfire"
+}

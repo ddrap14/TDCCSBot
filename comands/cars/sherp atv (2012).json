@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["SHERP"],
+    "model": "ATV",
+    "modelYear": 2012,
+    "country": "UA",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Oddball" , "Childish"],
+    "bodyStyle": "Truck",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/886860838336614430/image0.jpg",
+    "creator": "Childish"
+}

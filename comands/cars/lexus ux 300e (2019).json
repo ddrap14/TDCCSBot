@@ -1,0 +1,13 @@
+{
+    "rq": 34,
+    "make": ["Lexus"],
+    "model": "UX 300e",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888487251149991946/LexusUX300e.png",
+    "creator": "Crossfire"
+}

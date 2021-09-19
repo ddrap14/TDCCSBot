@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "GLC 63 S Coupe",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Oddball" , "Awaffle"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888266717770424330/amgmercedesglc63scoupe18.png",
+    "creator": "Awaffle"
+}

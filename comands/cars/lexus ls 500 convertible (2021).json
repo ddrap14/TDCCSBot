@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Lexus"],
+    "model": "LC 500 Convertible",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888510551221760000/LexusLC500Convertible.png",
+    "creator": "Crossfire"
+}

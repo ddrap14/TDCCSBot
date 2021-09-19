@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["Subaru"],
+    "model": "Impreza WRC",
+    "modelYear": 2008,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Concept" , "Motorsport" , "Northernhauler"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888589439339745320/Subaru_WRC_Card_2.png",
+    "creator": "Northernhauler"
+}

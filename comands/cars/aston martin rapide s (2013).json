@@ -1,0 +1,13 @@
+{
+    "rq": 62,
+    "make": ["Aston Martin"],
+    "model": "Rapide S",
+    "modelYear": 2013,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887341013625106452/AstonMartinRapideS.png",
+    "creator": "Crossfire"
+}

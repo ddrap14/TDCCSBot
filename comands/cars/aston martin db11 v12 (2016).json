@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Aston Martin"],
+    "model": "DB11 V12",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/886707407818993664/AstonMartinDB11V12.png",
+    "creator": "Crossfire"
+}

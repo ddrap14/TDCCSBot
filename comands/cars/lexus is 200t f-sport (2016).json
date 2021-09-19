@@ -1,0 +1,13 @@
+{
+    "rq": 41,
+    "make": ["Lexus"],
+    "model": "IS 200t F-Sport",
+    "modelYear": 2016,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888510356652195850/LexusIS200tFSport.png",
+    "creator": "Crossfire"
+}
