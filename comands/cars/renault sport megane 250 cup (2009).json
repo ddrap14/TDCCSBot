@@ -1,0 +1,13 @@
+{
+    "rq": 47,
+    "make": ["Renault Sport" , "Renault"],
+    "model": "Mégane 250 Cup",
+    "modelYear": 2009,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["ImSoupra"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/884998836441993266/Renault_Sport_Megane_250_Cup_2009.png",
+    "creator": "ImSoupra"
+}

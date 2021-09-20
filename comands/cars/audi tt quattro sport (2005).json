@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Audi"],
+    "model": "TT quattro Sport",
+    "modelYear": 2005,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["ImSoupra"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889017835949522974/Audi_TT_quattro_Sport_2005.png",
+    "creator": "ImSoupra"
+}
