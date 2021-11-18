@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["BMW"],
+    "model": "M135i xDrive",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907662971675742278/BMWM135ixDrive.png",
+    "creator": "Crossfire"
+}

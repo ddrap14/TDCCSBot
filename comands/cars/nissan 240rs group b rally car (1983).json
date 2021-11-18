@@ -1,0 +1,13 @@
+{
+    "rq": 62,
+    "make": ["Nissan"],
+    "model": "240RS Group B Rally Car",
+    "modelYear": 1983,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Motorsport" , "Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888589548576182312/Nissan_Rally_Car_Card_2.png",
+    "creator": "Northernhauler"
+}

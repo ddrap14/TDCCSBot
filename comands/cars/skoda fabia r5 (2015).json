@@ -1,0 +1,13 @@
+{
+    "rq": 78,
+    "make": ["Skoda"],
+    "model": "Fabia R5",
+    "modelYear": 2015,
+    "country": "CZ",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Muffin"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888757157762326568/1631964910922.jpg",
+    "creator": "Muffin"
+}

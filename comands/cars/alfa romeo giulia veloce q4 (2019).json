@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Alfa Romeo"],
+    "model": "Giulia Veloce Q4",
+    "modelYear": 2019,
+    "country": "IT",
+    "driveType": "4WD",
+    "tags": ["Everyday HEroes" , "Corentin"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/891790501831909416/Alfa_Romeo_Giulia_Veloce_Q4_2019_-2.png",
+    "creator": "Corentin"
+}

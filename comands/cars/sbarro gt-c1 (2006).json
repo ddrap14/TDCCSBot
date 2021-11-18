@@ -1,0 +1,13 @@
+{
+    "rq": 27,
+    "make": ["Sbarro" , "Citroen"],
+    "model": "GT-C1",
+    "modelYear": 2006,
+    "country": "CH",
+    "driveType": "FWD",
+    "tags": ["Tuner" , "Oddball" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893720311462256680/sbarro_gt-c1.png",
+    "creator": "Keanny"
+}

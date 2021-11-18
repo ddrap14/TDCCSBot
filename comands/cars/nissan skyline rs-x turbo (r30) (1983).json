@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["Nissan"],
+    "model": "Skyline RS-X Turbo (R30)",
+    "modelYear": 1983,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Thunk"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889704684892323902/ground.png",
+    "creator": "Thunk"
+}

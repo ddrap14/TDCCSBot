@@ -1,0 +1,13 @@
+{
+    "rq": 17,
+    "make": ["Mercedes-Benz"],
+    "model": "600 (W100)",
+    "modelYear": 1964,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Valou"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894855896562298910/1632064585624.png",
+    "creator": "Valou"
+}

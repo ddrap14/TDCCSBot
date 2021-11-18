@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["Citroen"],
+    "model": "Xantia Break 4x4 Buffalo Prototype by Heuliez",
+    "modelYear": 1996,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Childish"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910266517160071269/phonto.jpg",
+    "creator": "Childish"
+}

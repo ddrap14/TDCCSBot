@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Land Rover"],
+    "model": "Discovery Sport P300e",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889826737461014538/LD_Disco_Sport_2.png",
+    "creator": "Northernhauler"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Chevrolet"],
+    "model": "Colorado ZH2",
+    "modelYear": 2016,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Concept" , "Oddball" , "Keanny"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893720639695884308/visible_confusion.png",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 21,
+    "make": ["Opel"],
+    "model": "Zafira 1.4 Turbo",
+    "modelYear": 2016,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/895026652587917412/OpelZafira14Turbo.png",
+    "creator": "Crossfire"
+}

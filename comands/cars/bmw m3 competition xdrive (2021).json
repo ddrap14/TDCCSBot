@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["BMW"],
+    "model": "M3 Competition xDrive",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Super Sedan" , "Valou"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910840718904401930/Sans_titre_1209_20211118103608.png",
+    "creator": "Valou"
+}

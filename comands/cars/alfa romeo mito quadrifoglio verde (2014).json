@@ -1,0 +1,13 @@
+{
+    "rq": 42,
+    "make": ["Alfa Romeo"],
+    "model": "MiTo Quadrifoglio Verde",
+    "modelYear": 2014,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Concept" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910907540710244412/AlfaRomeoMiToQuadrifoglioVerde.png",
+    "creator": "Crossfire"
+}

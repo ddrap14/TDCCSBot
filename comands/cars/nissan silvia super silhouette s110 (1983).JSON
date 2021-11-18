@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["Nissan"],
+    "model": "Silvia Super Silhouette (S110)",
+    "modelYear": 1983,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Flo"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894021302124421150/1633221469229.png",
+    "creator": "Flo"
+}

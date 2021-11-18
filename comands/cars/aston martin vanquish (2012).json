@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Aston Martin"],
+    "model": "Vanquish",
+    "modelYear": 2012,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889280872036069426/AMVanquish2012.png",
+    "creator": "Bnuuy"
+}

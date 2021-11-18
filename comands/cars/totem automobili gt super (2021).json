@@ -1,0 +1,13 @@
+{
+    "rq": 92,
+    "make": ["Totem Automobili" , "Alfa Romeo"],
+    "model": "GT Super",
+    "modelYear": 2021,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910907640186568734/AlfaRomeoTotemAutomobiliGTSuper.png",
+    "creator": "Crossfire"
+}

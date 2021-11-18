@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["Lotus"],
+    "model": "2-Eleven",
+    "modelYear": 2007,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Crayola"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892552111055839242/Lotus_2-Eleven_07.png",
+    "creator": "Crayola"
+}

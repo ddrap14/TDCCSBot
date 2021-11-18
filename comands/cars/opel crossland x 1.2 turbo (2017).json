@@ -1,0 +1,13 @@
+{
+    "rq": 27,
+    "make": ["Opel"],
+    "model": "Crossland X 1.2 Turbo",
+    "modelYear": 2017,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894253343843696640/OpelCrosslandX12Turbo.png",
+    "creator": "Crossfire"
+}

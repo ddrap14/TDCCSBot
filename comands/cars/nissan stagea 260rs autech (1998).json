@@ -1,0 +1,13 @@
+{
+    "rq": 55,
+    "make": ["Nissan"],
+    "model": "Stagea 260RS Autech",
+    "modelYear": 1998,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Shinji"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889562608254976051/Stagea260RS.png",
+    "creator": "Shinji"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Jeep"],
+    "model": "Grand Wagoneer 5.9L V8",
+    "modelYear": 1987,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Nevaeh"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889193754626523136/1631908300447.png",
+    "creator": "Nevaeh"
+}

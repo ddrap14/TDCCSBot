@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["Totem Automobili" , "Alfa Romeo"],
+    "model": "GT Electric",
+    "modelYear": 2021,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910907617596035162/AlfaRomeoTotemAutomobiliGTElectric.png",
+    "creator": "Crossfire"
+}

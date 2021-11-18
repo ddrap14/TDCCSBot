@@ -1,0 +1,13 @@
+{
+    "rq": 77,
+    "make": ["Aston Martin"],
+    "model": "Vantage Roadster",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Valou"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909886840469848074/Sans_titre_1197_20211115202100.png",
+    "creator": "Valou"
+}

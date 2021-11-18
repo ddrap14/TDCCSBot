@@ -1,0 +1,13 @@
+{
+    "rq": 94,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "CLK LM",
+    "modelYear": 1998,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "ImSoupra"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894930569220194364/Mercedes-AMG_CLK_LM_1998.png",
+    "creator": "ImSoupra"
+}

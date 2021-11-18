@@ -1,0 +1,13 @@
+{
+    "rq": 34,
+    "make": ["Daihatsu"],
+    "model": "Rugger",
+    "modelYear": 1984,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "ImSoupra"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909905454002487306/Daihatsu_Rugger_1984.png",
+    "creator": "ImSoupra"
+}

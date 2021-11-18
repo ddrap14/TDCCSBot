@@ -1,0 +1,13 @@
+{
+    "rq": 39,
+    "make": ["Peugeot"],
+    "model": "508 GT HYBRID",
+    "modelYear": 2020,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893559848493527060/Peugeot508GTHybrid.png",
+    "creator": "Crossfire"
+}

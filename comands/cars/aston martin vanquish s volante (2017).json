@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Aston Martin"],
+    "model": "Vanquish S Volante",
+    "modelYear": 2017,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Bnuuy"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889281329336819762/AMVanquishSVolante2017.png",
+    "creator": "Bnuuy"
+}

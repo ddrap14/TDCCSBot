@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "GLB 35 4MATIC",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/896027755760742450/MercedesAMGGLB354MATIC.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 83,
+    "make": ["Suzuki"],
+    "model": "SX4 WRC Concept",
+    "modelYear": 2006,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Concept" , "Motorsport" , "Crayola"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/895167688127696926/Suzuki_SX4_WRC_Concept_06.png",
+    "creator": "Crayola"
+}

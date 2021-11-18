@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["Ford"],
+    "model": "F-100 Eluminator Concept",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Oddball" , "Crossfire"],
+    "bodyStyle": "Utility",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/906646053615435796/FordF100EluminatorConcept.png",
+    "creator": "Crossfire"
+}

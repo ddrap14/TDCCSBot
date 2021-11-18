@@ -1,0 +1,13 @@
+{
+    "rq": 54,
+    "make": ["Mercedes-Benz"],
+    "model": "W125",
+    "modelYear": 1937,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Open Wheel",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893204668765831249/W125.png",
+    "creator": "Shinji"
+}

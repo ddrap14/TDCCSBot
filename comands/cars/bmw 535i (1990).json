@@ -1,0 +1,13 @@
+{
+    "rq": 48,
+    "make": ["BMW"],
+    "model": "535i",
+    "modelYear": 1990,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/897226362530701352/BMW_353i_card_1.png",
+    "creator": "Northernhauler"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 73,
+    "make": ["BMW"],
+    "model": "3.0 CSL Hommage Concept",
+    "modelYear": 2015,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907312130259316786/BMW30CSLHommageConcept.png",
+    "creator": "Crossfire"
+}

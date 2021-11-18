@@ -1,0 +1,13 @@
+{
+    "rq": 59,
+    "make": ["Hennessey"],
+    "model": "Prowler GTX",
+    "modelYear": 2004,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Tuner" , "Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893717281199226900/hennessey_prowler_gtx.png",
+    "creator": "Keanny"
+}

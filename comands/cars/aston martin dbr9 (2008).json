@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Aston Martin"],
+    "model": "DB9",
+    "modelYear": 2008,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Corentin"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/890637092068155452/Aston_Martin_DBR9_2008.png",
+    "creator": "Corentin"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 100,
+    "make": ["Toyota"],
+    "model": "GR Supra Funny Car",
+    "modelYear": 2022,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Fiero"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910821131295006730/1637226589649.png",
+    "creator": "Fiero"
+}

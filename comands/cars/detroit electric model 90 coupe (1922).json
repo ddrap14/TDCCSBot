@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Detroit Electric"],
+    "model": "Model 90 Coupe",
+    "modelYear": 1922,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Johnny4388"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893226912623775804/Detroit-Electric-Model-90-Coupe.png",
+    "creator": "Johnny4388"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Suzuki"],
+    "model": "Ignis 4x4 (HR51S)",
+    "modelYear": 2003,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "ImSoupra"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/890044360769548318/Suzuki_Ignis_4x4_HR51S_2003.png",
+    "creator": "ImSoupra"
+}

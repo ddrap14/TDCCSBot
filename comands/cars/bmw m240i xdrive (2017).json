@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["BMW"],
+    "model": "M240i xDrive",
+    "modelYear": 2017,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907661766253752350/BMWM240ixDrive2017.png",
+    "creator": "Crossfire"
+}

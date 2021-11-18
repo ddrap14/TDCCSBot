@@ -1,0 +1,13 @@
+{
+    "rq": 47,
+    "make": ["BMW"],
+    "model": "850 CSi",
+    "modelYear": 1992,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907997461212184606/BMW850CSi.png",
+    "creator": "Crossfire"
+}

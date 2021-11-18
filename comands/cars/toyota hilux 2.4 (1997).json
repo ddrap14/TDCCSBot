@@ -1,0 +1,13 @@
+{
+    "rq": 30,
+    "make": ["Toyota"],
+    "model": "Hilux 2.4",
+    "modelYear": 1997,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "DerpP"],
+    "bodyStyle": "Utility",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909915184624181268/hiux.png",
+    "creator": "DerpP"
+}

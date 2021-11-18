@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Chevrolet"],
+    "model": "Avalanche 2500 8.1",
+    "modelYear": 2002,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "SidewaysReaction"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/890021086203359272/avalanche25008.png",
+    "creator": "SidewaysReaction"
+}

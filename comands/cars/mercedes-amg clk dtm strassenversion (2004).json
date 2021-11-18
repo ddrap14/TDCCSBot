@@ -1,0 +1,13 @@
+{
+    "rq": 77,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "CLK DTM Strassenversion",
+    "modelYear": 2004,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Limited Edition" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889017955306864660/Mercedes-Benz_CLK_55_AMG_DTM_Straenversion_04_3.png",
+    "creator": "Crayola"
+}

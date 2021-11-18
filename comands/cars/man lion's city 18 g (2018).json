@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["MAN"],
+    "model": "Lion's City 18 G",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Valou"],
+    "bodyStyle": "Bus",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/891876950732324894/1632710314089.jpg",
+    "creator": "Valou"
+}

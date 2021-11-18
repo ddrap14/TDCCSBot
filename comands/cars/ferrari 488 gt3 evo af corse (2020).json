@@ -1,0 +1,13 @@
+{
+    "rq": 93,
+    "make": ["Ferrari"],
+    "model": "488 GT3 Evo AF Corse",
+    "modelYear": 2020,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/895008403141828658/488GT3Evo.png",
+    "creator": "Shinji"
+}

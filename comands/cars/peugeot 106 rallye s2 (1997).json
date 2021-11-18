@@ -1,0 +1,13 @@
+{
+    "rq": 27,
+    "make": ["Peugeot"],
+    "model": "106 Rallye S2",
+    "modelYear": 1997,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["La Peyo"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/890041702511935498/Peugeot_106_Rallye_S2_97.png",
+    "creator": "La Peyo"
+}

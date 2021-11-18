@@ -1,0 +1,13 @@
+{
+    "rq": 21,
+    "make": ["Oldsmobile"],
+    "model": "Cutlass V6",
+    "modelYear": 1997,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Nevaeh"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894015321323745370/1633146330408.png",
+    "creator": "Nevaeh"
+}

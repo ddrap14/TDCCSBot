@@ -1,0 +1,13 @@
+{
+    "rq": 78,
+    "make": ["Aston Martin"],
+    "model": "Vanquish Zagato Concept",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Concept" , "Bnuuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889281399083905074/AMVanquishZagConcept.png",
+    "creator": "Bnuuy"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["Ferrari"],
+    "model": "458 Italia",
+    "modelYear": 2010,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/896725912425480212/Ferrari458Italia.png",
+    "creator": "Crossfire"
+}

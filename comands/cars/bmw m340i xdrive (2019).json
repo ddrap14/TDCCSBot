@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["BMW"],
+    "model": "M340i xDrive",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Super Saloon" , "Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907662431046758428/BMWM340ixDrive.png",
+    "creator": "Crossfire"
+}

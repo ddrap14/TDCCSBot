@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Porsche"],
+    "model": "Taycan 4S",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889069964311552000/PorscheTaycan4S.png",
+    "creator": "Crossfire"
+}

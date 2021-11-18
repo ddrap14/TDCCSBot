@@ -1,0 +1,13 @@
+{
+    "rq": 45,
+    "make": ["Ford"],
+    "model": "Escape XLT",
+    "modelYear": 2004,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Crayola"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/898063753558515742/Ford_Escape_XLT_04.png",
+    "creator": "Crayola"
+}

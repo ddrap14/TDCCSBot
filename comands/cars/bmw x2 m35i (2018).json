@@ -1,0 +1,13 @@
+{
+    "rq": 74,
+    "make": ["BMW"],
+    "model": "X2 M35i",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907662993041543218/BMWX2M35i.png",
+    "creator": "Crossfire"
+}

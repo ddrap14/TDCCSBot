@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Porsche"],
+    "model": "Panamera Turbo S E-Hybrid Sport Turismo",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Reed"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909499829556748388/Porsche_Panamera_long_name.png",
+    "creator": "Reed"
+}

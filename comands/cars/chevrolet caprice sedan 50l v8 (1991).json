@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Chevrolet"],
+    "model": "Caprice Sedan 5.0L V8",
+    "modelYear": 1991,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888758184171434034/Chevrolet_Caprice_Card_1.png",
+    "creator": "Northernhauler"
+}

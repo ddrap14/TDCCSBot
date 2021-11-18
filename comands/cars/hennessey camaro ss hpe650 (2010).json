@@ -1,0 +1,13 @@
+{
+    "rq": 73,
+    "make": ["Hennessey" , "Chevrolet"],
+    "model": "Camaro SS HPE650",
+    "modelYear": 2010,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Muscle Car" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893717094473019412/hennessey_camaro_ss_hpe650.png",
+    "creator": "Keanny"
+}

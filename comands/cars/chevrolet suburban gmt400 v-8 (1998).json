@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Chevrolet"],
+    "model": "Suburban GMT400 V-8",
+    "modelYear": 1998,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888751580243968030/CHevry_Suburban_card_1.png",
+    "creator": "Northernhauler"
+}

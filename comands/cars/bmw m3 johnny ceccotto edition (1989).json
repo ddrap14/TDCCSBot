@@ -1,0 +1,13 @@
+{
+    "rq": 42,
+    "make": ["BMW"],
+    "model": "M3 Johnny Ceccotto Edition (E30)",
+    "modelYear": 1989,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Super Saloon" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907331212526366771/BMWM3JohnnyCecottoEdition.png",
+    "creator": "Crossfire"
+}

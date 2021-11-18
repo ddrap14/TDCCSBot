@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["AGP Turbo" , "Dodge"],
+    "model": "Neon SRT-4 Project Car",
+    "modelYear": 2004,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Tuner" , "Keanny" , "Muscle Car"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893716404400959538/cursed_srt-4.png",
+    "creator": "Keanny"
+}

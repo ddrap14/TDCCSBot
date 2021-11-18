@@ -1,0 +1,13 @@
+{
+    "rq": 27,
+    "make": ["Honda"],
+    "model": "Prelude 2.0i 4WS",
+    "modelYear": 1987,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Saabsut"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892861183131013171/Hodna_Prelude_2.0I_4ws_Card_2.png",
+    "creator": "Saabsut"
+}

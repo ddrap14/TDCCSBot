@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["RE Amemiya" , "Mazda"],
+    "model": "Carol (GF-HA12S)",
+    "modelYear": 2004,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Tuner" , "Everyday Heroes" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893709731997298778/re_amemiya_carol.png",
+    "creator": "Keanny"
+}

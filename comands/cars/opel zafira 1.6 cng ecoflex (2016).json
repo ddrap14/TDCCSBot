@@ -1,0 +1,13 @@
+{
+    "rq": 19,
+    "make": ["Opel"],
+    "model": "Zafira 1.6 CNG ecoFLEX",
+    "modelYear": 2016,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Biogas",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/895026716500705331/OpelZafira16CNGecoFLEX.png",
+    "creator": "Crossfire"
+}

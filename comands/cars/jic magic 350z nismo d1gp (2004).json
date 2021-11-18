@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["JIC Magic" , "Nissan"],
+    "model": "350Z Nismo D1GP",
+    "modelYear": 2004,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893718020743131166/jic_magic_350z_nismo_d1gp.png",
+    "creator": "Keanny"
+}

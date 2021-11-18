@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Pandora-Inc" , "Honda"],
+    "model": "S660 Demo Version II",
+    "modelYear": 2017,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893713336104017971/pandora_s660.png",
+    "creator": "Keanny"
+}

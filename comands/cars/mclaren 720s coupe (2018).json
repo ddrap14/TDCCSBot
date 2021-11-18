@@ -1,0 +1,13 @@
+{
+    "rq": 94,
+    "make": ["McLaren"],
+    "model": "720S Coupe",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Awaffle"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/891761199849549824/mclaren720scoupe18.png",
+    "creator": "Awaffle"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Mitter-DKW"],
+    "model": "Formula Junior",
+    "modelYear": 1960,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892830517194530926/MitterDKW.png",
+    "creator": "Shinji"
+}

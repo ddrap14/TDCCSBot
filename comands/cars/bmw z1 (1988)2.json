@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["BMW"],
+    "model": "Z1",
+    "modelYear": 1988,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Voovlov"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910997610918195210/bmw_Z1_88.png",
+    "creator": "Voovlov"
+}

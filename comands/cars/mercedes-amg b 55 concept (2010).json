@@ -1,0 +1,13 @@
+{
+    "rq": 55,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "B 55 Concept",
+    "modelYear": 2010,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Oddball" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/895709099390537728/MercedesAMGB55Concept.png",
+    "creator": "Crossfire"
+}

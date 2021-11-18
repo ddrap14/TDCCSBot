@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Toyota"],
+    "model": "Forrest Wang's Tacoma",
+    "modelYear": 2002,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Oddball" , "Nevaeh"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/891494832902647828/1632284331161.png",
+    "creator": "Nevaeh"
+}

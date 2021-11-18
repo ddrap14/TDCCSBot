@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Top Fuel" , "Honda"],
+    "model": "S660 Type RR",
+    "modelYear": 2017,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893713437924921354/top_fuel_s660_type_rr.png",
+    "creator": "Keanny"
+}

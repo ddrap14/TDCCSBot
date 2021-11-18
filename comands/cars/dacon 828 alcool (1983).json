@@ -1,0 +1,13 @@
+{
+    "rq": 7,
+    "make": ["Dacon"],
+    "model": "828 Alcool",
+    "modelYear": 1983,
+    "country": "BR",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893713192201650176/dacon_828_ethanol_thing.png",
+    "creator": "Keanny"
+}

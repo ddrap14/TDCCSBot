@@ -1,0 +1,13 @@
+{
+    "rq": 49,
+    "make": ["Toyota"],
+    "model": "bZ4X",
+    "modelYear": 2022,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "ImSoupra"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909657050827595826/Toyota_bZ4x_2022.png",
+    "creator": "ImSoupra"
+}

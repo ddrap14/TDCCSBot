@@ -1,0 +1,13 @@
+{
+    "rq": 48,
+    "make": ["GMC"],
+    "model": "Acadia AWD SLT-2",
+    "modelYear": 2007,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Nevaeh"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907104565416063046/1635817550702.png",
+    "creator": "Nevaeh"
+}

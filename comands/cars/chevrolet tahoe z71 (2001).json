@@ -1,0 +1,13 @@
+{
+    "rq": 41,
+    "make": ["Chevrolet"],
+    "model": "Tahoe Z71",
+    "modelYear": 2001,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Offroad" , "Crayola"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889686967246262272/Chevrolet_Tahoe_Z71_GMT840_01.png",
+    "creator": "Crayola"
+}

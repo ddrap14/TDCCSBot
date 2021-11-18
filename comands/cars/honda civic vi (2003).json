@@ -1,0 +1,13 @@
+{
+    "rq": 26,
+    "make": ["Honda"],
+    "model": "Civic Vi",
+    "modelYear": 2003,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crayola"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893764029363937320/Honda_Civic_Vi_03.png",
+    "creator": "Crayola"
+}

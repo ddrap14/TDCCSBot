@@ -1,0 +1,13 @@
+{
+    "rq": 90,
+    "make": ["Toyota"],
+    "model": "Yaris WRC",
+    "modelYear": 2017,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Motorsport" , "Offroad" , "Valou"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/891253553941856306/1632561605342.jpg",
+    "creator": "Valou"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Toyota"],
+    "model": "FJ Cruiser",
+    "modelYear": 2011,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "DerpP"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909608433760739368/fj.png",
+    "creator": "DerpP"
+}

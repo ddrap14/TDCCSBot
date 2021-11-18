@@ -1,0 +1,13 @@
+{
+    "rq": 90,
+    "make": ["Audi"],
+    "model": "R8 Spyder V10",
+    "modelYear": 2016,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "LemonDragon"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/891615634457255956/audi_r8_spyder_v10_4.png",
+    "creator": "LemonDragon"
+}

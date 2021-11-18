@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Morgan"],
+    "model": "Plus Four CX-T",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Oddball" , "ThatOtherCarGuy"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888695332920258580/Morgan_Plus_Four_CX-T.png",
+    "creator": "ThatOtherCarGuy"
+}

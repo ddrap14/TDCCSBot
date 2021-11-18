@@ -1,0 +1,13 @@
+{
+    "rq": 59,
+    "make": ["Mazda"],
+    "model": "MX-5 Super20 Concept",
+    "modelYear": 2011,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Concept" , "Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893720229727838258/mazda_mx-5_super20_concept.png",
+    "creator": "Keanny"
+}

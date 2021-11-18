@@ -1,0 +1,13 @@
+{
+    "rq": 90,
+    "make": ["Ferrari"],
+    "model": "458 Speciale A",
+    "modelYear": 2015,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Limited Edition" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/896725987469983765/Ferrari458SpecialeA.png",
+    "creator": "Crossfire"
+}

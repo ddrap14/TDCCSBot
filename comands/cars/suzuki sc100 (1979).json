@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Suzuki"],
+    "model": "SC100",
+    "modelYear": 1979,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893741483788750868/suzuki_sc100.png",
+    "creator": "Keanny"
+}

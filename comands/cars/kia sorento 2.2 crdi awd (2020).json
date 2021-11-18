@@ -1,0 +1,13 @@
+{
+    "rq": 52,
+    "make": ["Kia"],
+    "model": "Sorento 2.2 CRDi AWD",
+    "modelYear": 2020,
+    "country": "KR",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Offroad" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909737052235501588/KiaSorento22CRDiAWD.png",
+    "creator": "Crossfire"
+}

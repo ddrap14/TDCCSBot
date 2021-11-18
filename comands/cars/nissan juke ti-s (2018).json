@@ -1,0 +1,13 @@
+{
+    "rq": 19,
+    "make": ["Nissan"],
+    "model": "Juke Ti-S",
+    "modelYear": 2018,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Legendary Sam"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910877832014622730/8458366C-A6D8-402D-BF2F-EC24BD89DF90.png",
+    "creator": "Legendary Sam"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 59,
+    "make": ["Subaru"],
+    "model": "Impreza WRX (GDB)",
+    "modelYear": 2004,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["ImSoupra"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889743985810239488/Subaru_Impreza_WRX_GDB_2004.png",
+    "creator": "ImSoupra"
+}

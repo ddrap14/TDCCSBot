@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Stillen" , "Nissan"],
+    "model": "300ZX Twin Turbo GTZ",
+    "modelYear": 1990,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893720514902757416/stillen_gtz.png",
+    "creator": "Keanny"
+}

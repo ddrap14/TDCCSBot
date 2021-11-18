@@ -1,0 +1,13 @@
+{
+    "rq": 67,
+    "make": ["Mercedes-AMG"],
+    "model": "SLK 55",
+    "modelYear": 2004,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Crayola"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889017689106972682/Mercedes-Benz_SLK_55_AMG_04.png",
+    "creator": "Crayola"
+}

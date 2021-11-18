@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Anadol"],
+    "model": "STC-16",
+    "modelYear": 1973,
+    "country": "TR",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889929335438458910/AnadolSTC16.png",
+    "creator": "Crossfire"
+}

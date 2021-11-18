@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Lexus"],
+    "model": "RC F GT3",
+    "modelYear": 2017,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "No_One"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888831149189791774/LexusRCFGT32017_89.png",
+    "creator": "No_One"
+}

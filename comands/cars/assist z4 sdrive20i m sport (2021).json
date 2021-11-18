@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Assist" , "BMW"],
+    "model": "Z4 sDrive20i M Sport",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Keanny"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893720045883129886/assist_z4.png",
+    "creator": "Keanny"
+}

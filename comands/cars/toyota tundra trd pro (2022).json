@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Toyota"],
+    "model": "Tundra TRD Pro",
+    "modelYear": 2022,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Supra1UZ"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/897995403692212224/2022_tundra_trd_pro_45354.png",
+    "creator": "Supra1UZ"
+}

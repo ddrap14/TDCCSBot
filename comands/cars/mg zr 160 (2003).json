@@ -1,0 +1,13 @@
+{
+    "rq": 38,
+    "make": ["MG"],
+    "model": "ZR 160",
+    "modelYear": 2003,
+    "country": "GB",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Reed"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909499692218474526/MG_ZR_160.png",
+    "creator": "Reed"
+}

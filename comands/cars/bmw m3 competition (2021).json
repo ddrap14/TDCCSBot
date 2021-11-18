@@ -1,0 +1,13 @@
+{
+    "rq": 77,
+    "make": ["BMW"],
+    "model": "M3 Competition",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Super Saloon" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907312424607158343/BMWM3Competition.png",
+    "creator": "Crossfire"
+}

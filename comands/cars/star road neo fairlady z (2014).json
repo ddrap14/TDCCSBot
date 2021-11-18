@@ -1,0 +1,13 @@
+{
+    "rq": 59,
+    "make": ["Star Road" , "Nissan"],
+    "model": "Neo Fairlady Z",
+    "modelYear": 2014,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893741452235005952/star_road_neo_fairlay_z.png",
+    "creator": "Keanny"
+}

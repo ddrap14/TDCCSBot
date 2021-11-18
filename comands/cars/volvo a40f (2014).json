@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Volvo"],
+    "model": "A40F",
+    "modelYear": 2014,
+    "country": "SE",
+    "driveType": "6WD",
+    "tags": ["Saabsut"],
+    "bodyStyle": "Truck",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892861492729376842/A40F.png",
+    "creator": "Saabsut"
+}

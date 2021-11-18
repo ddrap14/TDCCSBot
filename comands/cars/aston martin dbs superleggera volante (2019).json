@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["Aston Martin"],
+    "model": "DBS Superleggera Volante",
+    "modelYear": 2019,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "La Peyo"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/890297044655308860/Aston_Martin_DBS_Superleggera_Volante_19_remake.png",
+    "creator": "La Peyo"
+}

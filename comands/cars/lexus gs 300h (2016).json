@@ -1,0 +1,13 @@
+{
+    "rq": 31,
+    "make": ["Lexus"],
+    "model": "GS 300h",
+    "modelYear": 2016,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888697288548048896/LexusGS300h.png",
+    "creator": "Crossfire"
+}

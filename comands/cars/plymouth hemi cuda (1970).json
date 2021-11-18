@@ -1,0 +1,13 @@
+{
+    "rq": 37,
+    "make": ["Plymouth"],
+    "model": "Hemi 'Cuda'",
+    "modelYear": 1970,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "SidewaysReaction"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893320845114613860/hemicudadrylakebed.png",
+    "creator": "SidewaysReaction"
+}

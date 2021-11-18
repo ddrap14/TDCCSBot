@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["Toyota"],
+    "model": "Soarer 2.0 GT (Z20)",
+    "modelYear": 1987,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Thunk"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889710064317894676/i_fly_hahahaha.png",
+    "creator": "Thunk"
+}

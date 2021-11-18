@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Alfa Romeo"],
+    "model": "Giulia Quadrifoglio",
+    "modelYear": 2017,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Corentin"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/891790173342433290/Alfa_Romeo_Giulia_Quadrifoglio_2017_-2.png",
+    "creator": "Corentin"
+}

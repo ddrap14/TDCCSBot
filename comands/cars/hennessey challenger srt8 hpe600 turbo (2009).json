@@ -1,0 +1,13 @@
+{
+    "rq": 72,
+    "make": ["Hennessey" , "Dodge"],
+    "model": "Challenger SRT8 HPE600 Turbo",
+    "modelYear": 2009,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Tuner" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893717194515566652/hennessey_challenger_srt8_hpe600_turbo.png",
+    "creator": "Keanny"
+}

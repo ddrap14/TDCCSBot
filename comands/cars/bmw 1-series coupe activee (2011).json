@@ -1,0 +1,13 @@
+{
+    "rq": 31,
+    "make": ["BMW"],
+    "model": "1-Series Coupe ActiveE",
+    "modelYear": 2011,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Concept" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907312039779778560/BMW1SeriesCoupeActiveE.png",
+    "creator": "Crossfire"
+}

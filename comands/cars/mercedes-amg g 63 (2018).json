@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Mercedes-AMG"],
+    "model": "G 63",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Oddball" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/896114129323036702/MercedesAMGG63.png",
+    "creator": "Crossfire"
+}

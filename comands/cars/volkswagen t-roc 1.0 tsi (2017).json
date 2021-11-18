@@ -1,0 +1,13 @@
+{
+    "rq": 36,
+    "make": ["Volkswagen"],
+    "model": "T-Roc 1.0 TSI",
+    "modelYear": 2017,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Reed"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909500018828926986/VW_T_ROC.png",
+    "creator": "Reed"
+}

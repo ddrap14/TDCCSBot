@@ -1,0 +1,13 @@
+{
+    "rq": 19,
+    "make": ["Opel"],
+    "model": "Crossland 1.5 Diesel",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889931901257797722/OpelCrossland15Diesel.png",
+    "creator": "Crossfire"
+}

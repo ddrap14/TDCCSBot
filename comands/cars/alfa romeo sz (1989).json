@@ -1,0 +1,13 @@
+{
+    "rq": 45,
+    "make": ["Alfa Romeo"],
+    "model": "SZ",
+    "modelYear": 1989,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910799541467492372/AlfaRomeoSZ.png",
+    "creator": "Crossfire"
+}

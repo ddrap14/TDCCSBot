@@ -1,0 +1,13 @@
+{
+    "rq": 35,
+    "make": ["BMW"],
+    "model": "Z3 2.8i Roadster",
+    "modelYear": 2001,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Saabsut"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910997260924493824/BMW_Z3_2.8i_Roadster_Card.png",
+    "creator": "Saabsut"
+}

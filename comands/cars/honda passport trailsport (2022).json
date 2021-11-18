@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Honda"],
+    "model": "Passport TrailSport",
+    "modelYear": 2022,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894292129365508126/pasport.png",
+    "creator": "ChickenMcNuggets"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 43,
+    "make": ["BMW"],
+    "model": "Z4 sDrive20i M Sport",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907997384594841660/BMWZ4sDrive20iMSport.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 74,
+    "make": ["Opel"],
+    "model": "Omega Evo500 DTM",
+    "modelYear": 1991,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892830382083420170/OmegaDTM.png",
+    "creator": "Shinji"
+}

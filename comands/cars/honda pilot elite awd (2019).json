@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Honda"],
+    "model": "Pilot Elite AWD",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "ChickenMcNuggets"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894292165067423865/pilot_elite.png",
+    "creator": "ChickenMcNuggets"
+}

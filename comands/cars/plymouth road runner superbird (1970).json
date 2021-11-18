@@ -1,0 +1,13 @@
+{
+    "rq": 42,
+    "make": ["Plymouth"],
+    "model": "Road Runner Superbird",
+    "modelYear": 1970,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Motorsport" , "Nevaeh"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889693826241929227/1632183065663.png",
+    "creator": "Nevaeh"
+}

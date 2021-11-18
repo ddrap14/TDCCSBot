@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Audi"],
+    "model": "RS 3 Dynamic Plus",
+    "modelYear": 2017,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Awaffle"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/891900972748644352/audirs3dynamicplus17.png",
+    "creator": "Awaffle"
+}

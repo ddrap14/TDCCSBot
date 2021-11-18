@@ -1,0 +1,13 @@
+{
+    "rq": 74,
+    "make": ["BMW"],
+    "model": "M340i xDrive Touring",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907662948573544508/BMWM340ixDriveTouring.png",
+    "creator": "Crossfire"
+}

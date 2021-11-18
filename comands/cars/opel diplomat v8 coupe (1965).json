@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Opel"],
+    "model": "Diplomat V8 Coupe",
+    "modelYear": 1965,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894216582908215326/OpelDiplomatV8COupe2png.png",
+    "creator": "Crossfire"
+}

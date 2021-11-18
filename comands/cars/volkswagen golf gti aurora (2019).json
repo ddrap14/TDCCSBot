@@ -1,0 +1,13 @@
+{
+    "rq": 71,
+    "make": ["Volkswagen"],
+    "model": "Golf GTi Aurora",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Limited Edition" , "Saabsut"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910999700365266964/VW_Golf_GTI_Aurora_Card.png",
+    "creator": "Saabsut"
+}

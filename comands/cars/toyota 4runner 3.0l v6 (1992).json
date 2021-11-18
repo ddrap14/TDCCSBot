@@ -1,0 +1,13 @@
+{
+    "rq": 34,
+    "make": ["Toyota"],
+    "model": "4Runner 3.0L V6",
+    "modelYear": 1992,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "ImSoupra"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/890062784983871528/Toyota_4Runner_V6_1992.png",
+    "creator": "ImSoupra"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Acura"],
+    "model": "MDX Type S",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Saabsut"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910997090832883783/Acura_MDX_Type_S_Card.png",
+    "creator": "Saabsut"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 26,
+    "make": ["Mercedes-Benz"],
+    "model": "EQA 250 AMG Line",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/896023222624067594/MercedesBenzEQA250AMGLine.png",
+    "creator": "Crossfire"
+}

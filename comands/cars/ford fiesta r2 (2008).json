@@ -1,0 +1,13 @@
+{
+    "rq": 54,
+    "make": ["Ford"],
+    "model": "Fiesta R2",
+    "modelYear": 2008,
+    "country": "GB",
+    "driveType": "FWD",
+    "tags": ["Offroad" , "Motorsport" , "ImSoupra"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889356445571760149/Ford_Fiesta_R2_2008.png",
+    "creator": "ImSoupra"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 36,
+    "make": ["Ford"],
+    "model": "Escort RS2000 Rally Spec",
+    "modelYear": 1974,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Offroad" , "Valou"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909819473773600768/IMG_20211115_153735.png",
+    "creator": "Valou"
+}

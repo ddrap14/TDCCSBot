@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Pontiac"],
+    "model": "Grand Prix Coupe 389 Trophy V-8 Tri-Power",
+    "modelYear": 1962,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Nevaeh"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907116518175821845/1636074572916.png",
+    "creator": "Nevaeh"
+}

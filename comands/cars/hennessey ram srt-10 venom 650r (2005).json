@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Hennessey" , "Dodge" , "Ram"],
+    "model": "Ram SRT-10 Venom 650R",
+    "modelYear": 2005,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Keanny"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893717361201393705/hennessey_ram_srt-10_venom_650r.png",
+    "creator": "Keanny"
+}

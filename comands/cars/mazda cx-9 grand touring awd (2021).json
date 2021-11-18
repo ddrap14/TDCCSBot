@@ -1,0 +1,13 @@
+{
+    "rq": 50,
+    "make": ["Mazda"],
+    "model": "CX-9 Grand Touring AWD",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888891995802730526/Mazda_CX9_Card_1.png",
+    "creator": "Northernhauler"
+}

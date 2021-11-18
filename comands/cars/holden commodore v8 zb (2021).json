@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Holden"],
+    "model": "Commodore V8 ZB",
+    "modelYear": 2021,
+    "country": "AU",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Shinji"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/897955713907826698/CommodoreZBV8.png",
+    "creator": "Shinji"
+}

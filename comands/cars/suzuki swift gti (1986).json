@@ -1,0 +1,13 @@
+{
+    "rq": 22,
+    "make": ["Suzuki"],
+    "model": "Swift GTi",
+    "modelYear": 1986,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Shinji"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/890307126378004500/SwiftGTiRemastered.png",
+    "creator": "Shinji"
+}

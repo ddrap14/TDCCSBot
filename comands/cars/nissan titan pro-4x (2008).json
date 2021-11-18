@@ -1,0 +1,13 @@
+{
+    "rq": 55,
+    "make": ["Nissan"],
+    "model": "Titan PRO-4X",
+    "modelYear": 2008,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Crayola"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893978776306872370/Nissan_Titan_King_Cab_08.png",
+    "creator": "Crayola"
+}

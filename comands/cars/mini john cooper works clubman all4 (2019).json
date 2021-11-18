@@ -1,0 +1,13 @@
+{
+    "rq": 70,
+    "make": ["Mini"],
+    "model": "John Cooper Works Clubman ALL4",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909499585733492746/MINIJohnCooperWorksClubmanALL4.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 82,
+    "make": ["Aston Martin"],
+    "model": "Vantage F1 Edition",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Motorsport" , "Limited Edition" , "Corentin"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894704706440556595/Aston_Martin_Vantage_F1_Edition_2021.png",
+    "creator": "Corentin"
+}

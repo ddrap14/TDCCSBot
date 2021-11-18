@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["JUN AUTO" , "Nissan"],
+    "model": "Blitz 300ZX Twin Turbo Land Speed Record",
+    "modelYear": 1991,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Tuner" , "Oddball" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893718129245573140/jun_auto_300zx_lsr.png",
+    "creator": "Keanny"
+}

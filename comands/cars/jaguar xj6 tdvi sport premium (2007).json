@@ -1,0 +1,13 @@
+{
+    "rq": 42,
+    "make": ["Jaguar"],
+    "model": "XJ6 TDVi Sport Premium",
+    "modelYear": 2007,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Everyday Heroes" , "Luxury" , "Northernhauler"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/906885157838024754/2007_Jaguar_XJS_if_med_Card_1.png",
+    "creator": "Northernhauler"
+}

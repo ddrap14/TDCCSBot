@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["KAMAZ"],
+    "model": "4326 T4 Dakar Truck",
+    "modelYear": 2017,
+    "country": "RU",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Valou"],
+    "bodyStyle": "Truck",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889274236898795530/Sans_titre_1004_20210920001702.png",
+    "creator": "Valou"
+}

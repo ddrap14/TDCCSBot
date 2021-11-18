@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["Porsche"],
+    "model": "Panamera 4S e-Hybrid Sport Turismo SportDesign Package",
+    "modelYear": 2020,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Wagon",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888868562700226610/PorschePanamera4SEHybridSportTurismoSportDesignPackage.png",
+    "creator": "Crossfire"
+}

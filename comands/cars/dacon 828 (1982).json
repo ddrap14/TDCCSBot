@@ -1,0 +1,13 @@
+{
+    "rq": 1,
+    "make": ["Dacon"],
+    "model": "828",
+    "modelYear": 1982,
+    "country": "BR",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Keanny"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893713215098331228/dacon_828.png",
+    "creator": "Keanny"
+}

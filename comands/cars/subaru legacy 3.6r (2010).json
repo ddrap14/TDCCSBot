@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Subaru"],
+    "model": "Legacy 3.6R",
+    "modelYear": 2010,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Manperson69"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893351247967572028/2010_Subaru_Legacy_3.6R.png",
+    "creator": "Manperson69"
+}

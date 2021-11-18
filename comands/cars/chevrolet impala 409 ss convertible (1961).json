@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["Chevrolet"],
+    "model": "Impala 409 SS Convertible",
+    "modelYear": 1961,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Nevaeh"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909537120304119868/1636850494610.png",
+    "creator": "Nevaeh"
+}

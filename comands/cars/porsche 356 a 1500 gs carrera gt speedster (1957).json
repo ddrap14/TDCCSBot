@@ -1,0 +1,13 @@
+{
+    "rq": 20,
+    "make": ["Porsche"],
+    "model": "356 A 1500 GS Carrera GT Speedster",
+    "modelYear": 1957,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Northernhauler"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/897272495386791957/Porsche_356_card_3.png",
+    "creator": "Northernhauler"
+}

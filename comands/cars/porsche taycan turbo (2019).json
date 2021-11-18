@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["Porsche"],
+    "model": "Taycan Turbo",
+    "modelYear": 2019,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Crossfire" , "Luxury"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889069876197617674/PorscheTaycanTurbo.png",
+    "creator": "Crossfire"
+}

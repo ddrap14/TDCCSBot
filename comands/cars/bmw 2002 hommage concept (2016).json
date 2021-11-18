@@ -1,0 +1,13 @@
+{
+    "rq": 69,
+    "make": ["BMW"],
+    "model": "2002 Hommage Concept",
+    "modelYear": 2016,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/907662995591671908/BMW2002HommageConcept.png",
+    "creator": "Crossfire"
+}

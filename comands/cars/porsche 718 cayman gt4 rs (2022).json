@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["Porsche"],
+    "model": "718 Cayman GT4 RS",
+    "modelYear": 2022,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Supercar" , "Fiero"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/910812890313916456/1637223562665.jpg",
+    "creator": "Fiero"
+}

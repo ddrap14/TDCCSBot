@@ -1,0 +1,13 @@
+{
+    "rq": 60,
+    "make": ["Toyota"],
+    "model": "4Runner TRD Off-Road",
+    "modelYear": 2019,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/897226921006497813/Toyota_4Runner_card_1.png",
+    "creator": "Northernhauler"
+}

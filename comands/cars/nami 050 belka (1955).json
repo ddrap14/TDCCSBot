@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["NAMI"],
+    "model": "050 'Belka'",
+    "modelYear": 1955,
+    "country": "RU",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Childish"],
+    "bodyStyle": "whatthefuckisthis.exe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889198808964149268/image0.jpg",
+    "creator": "Childish"
+}

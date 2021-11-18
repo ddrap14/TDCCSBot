@@ -1,0 +1,13 @@
+{
+    "rq": 90,
+    "make": ["Ferrari"],
+    "model": "458 Speciale",
+    "modelYear": 2014,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/888659977231826985/Ferrari_458_Speciale.png",
+    "creator": "GAAN919"
+}

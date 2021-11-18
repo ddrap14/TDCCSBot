@@ -1,0 +1,13 @@
+{
+    "rq": 25,
+    "make": ["Toyota"],
+    "model": "Prius",
+    "modelYear": 2016,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Johnny4388"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892860667588120576/Toyota-Prius.png",
+    "creator": "Johnny4388"
+}

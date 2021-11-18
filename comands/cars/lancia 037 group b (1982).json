@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Lancia"],
+    "model": "037 Group B",
+    "modelYear": 1982,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Offroad" , "Motorsport" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892630508297658390/Lancia_037_Group_B_82.png",
+    "creator": "Crayola"
+}

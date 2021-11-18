@@ -1,0 +1,13 @@
+{
+    "rq": 55,
+    "make": ["Honda"],
+    "model": "NSX (NA1)",
+    "modelYear": 1990,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Saabsut"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892862070289231893/NSX_NA1.png",
+    "creator": "Saabsut"
+}

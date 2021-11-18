@@ -1,0 +1,13 @@
+{
+    "rq": 10,
+    "make": ["Opel"],
+    "model": "Patent-Motorwagen 'System Lutzmann'",
+    "modelYear": 1899,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Buggy",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/895310621275475988/OpelPatentMotorwagenSystemLutzmann.png",
+    "creator": "Crossfire"
+}

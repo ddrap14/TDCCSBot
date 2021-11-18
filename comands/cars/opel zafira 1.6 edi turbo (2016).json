@@ -1,0 +1,13 @@
+{
+    "rq": 27,
+    "make": ["Opel"],
+    "model": "Zafira 1.6 EDI Turbo",
+    "modelYear": 2016,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/895026746804559922/OpelZafira16EDITurbo.png",
+    "creator": "Crossfire"
+}

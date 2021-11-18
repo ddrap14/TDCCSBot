@@ -1,0 +1,67 @@
+{
+	"packName": "Random",
+	"description": "Everything is random!",
+	"pack": "https://cdn.discordapp.com/attachments/431451896868503552/870955422952087562/CARBON.png",
+	"repetition": 1,
+
+	"filter": {
+		"make": "None",
+		"modelYear": {
+			"start": 1000,
+			"end": 3000
+		},
+		"country": "None",
+		"tags": "None",
+        "driveType": "None",
+        "fuelType": "None",
+        "bodyStyle": "None"
+	},
+
+	"packSequence": [
+		{
+			"common": 15,
+			"uncommon": 15,
+			"rare": 14,
+			"superRare": 14,
+			"ultraRare": 14,
+			"epic": 14,
+			"legendary": 14
+		},
+		{
+			"common": 15,
+			"uncommon": 15,
+			"rare": 14,
+			"superRare": 14,
+			"ultraRare": 14,
+			"epic": 14,
+			"legendary": 14
+		},
+		{
+			"common": 15,
+			"uncommon": 15,
+			"rare": 14,
+			"superRare": 14,
+			"ultraRare": 14,
+			"epic": 14,
+			"legendary": 14
+		},
+		{
+			"common": 15,
+			"uncommon": 15,
+			"rare": 14,
+			"superRare": 14,
+			"ultraRare": 14,
+			"epic": 14,
+			"legendary": 14
+		},
+		{
+			"common": 15,
+			"uncommon": 15,
+			"rare": 14,
+			"superRare": 14,
+			"ultraRare": 14,
+			"epic": 14,
+			"legendary": 14
+		}
+	]
+}

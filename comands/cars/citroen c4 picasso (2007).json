@@ -1,0 +1,13 @@
+{
+    "rq": 18,
+    "make": ["Citroen"],
+    "model": "C4 Picasso",
+    "modelYear": 2007,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Johnny4388"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892156380495114270/Citroen-C4-Picasso.png",
+    "creator": "Johnny4388"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Ford"],
+    "model": "F-150 SVT Lightning",
+    "modelYear": 1993,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["PrestonLK" , "Oddball"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/897935827378778193/Ford_F-150_SVT_Lightning_V2.png",
+    "creator": "PrestonLK"
+}

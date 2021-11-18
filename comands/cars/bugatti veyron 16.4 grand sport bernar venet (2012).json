@@ -1,0 +1,13 @@
+{
+    "rq": 97,
+    "make": ["Bugatti"],
+    "model": "Veyron 16.4 Grand Sport 'Bernar Venet'",
+    "modelYear": 2012,
+    "country": "FR",
+    "driveType": "4WD",
+    "tags": ["Supercar" , "Limited Edition" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/893792435669450752/BugattiVeyron164GrandSportBernarVenet.png",
+    "creator": "Crossfire"
+}

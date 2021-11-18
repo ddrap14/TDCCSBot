@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["GMMG" , "Chevrolet"],
+    "model": "Chevrolet Camaro 427 Dick Harrell Edition by Berger",
+    "modelYear": 2002,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Tuner" , "Nevaeh"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/889694147416563773/1632110477061.png",
+    "creator": "Nevaeh"
+}

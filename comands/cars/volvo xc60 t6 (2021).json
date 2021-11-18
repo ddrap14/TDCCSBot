@@ -1,0 +1,13 @@
+{
+    "rq": 72,
+    "make": ["Volvo"],
+    "model": "XC60 T6",
+    "modelYear": 2021,
+    "country": "SE",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Northernhauler"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/906885660990902353/2021_Volvo_XC60_T6_Card_1.png",
+    "creator": "Northernhauler"
+}

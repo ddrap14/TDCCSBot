@@ -1,0 +1,13 @@
+{
+    "rq": 12,
+    "make": ["Opel"],
+    "model": "Kapitan",
+    "modelYear": 1957,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/894262110744354877/OpelKapitan.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["Nissan"],
+    "model": "Fairlady Z 300ZR T-Bar Roof",
+    "modelYear": 1986,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Saabsut"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/892861364178141224/Nissan_Fairlady_Z_300ZR_T-Bar_Roof_Card.png",
+    "creator": "Saabsut"
+}
