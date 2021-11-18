@@ -1,0 +1,13 @@
+{
+    "rq": 71,
+    "make": ["Ford"],
+    "model": "Mustang GT Performance Pack 2",
+    "modelYear": 2019,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Tuner" , "Legendary Sam"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909445868955004948/phonto.png",
+    "creator": "Legendary Sam"
+}

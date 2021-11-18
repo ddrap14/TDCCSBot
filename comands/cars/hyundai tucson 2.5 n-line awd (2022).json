@@ -1,0 +1,13 @@
+{
+    "rq": 53,
+    "make": ["Hyundai"],
+    "model": "Tucson 2.5 N-Line AWD",
+    "modelYear": 2022,
+    "country": "KR",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Valou"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909471973086724096/Sans_titre_1190_20211114163001.png",
+    "creator": "Valou"
+}

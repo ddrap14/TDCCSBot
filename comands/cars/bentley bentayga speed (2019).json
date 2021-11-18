@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["Bentley"],
+    "model": "Bentayga Speed",
+    "modelYear": 2019,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Luxury" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909013897384693800/BentleyBentaygaSpeed2019.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 71,
+    "make": ["Bentley"],
+    "model": "Bentayga Hybrid",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Luxury" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909013091205926953/BentleyBentaygaHybrid20182.png",
+    "creator": "Crossfire"
+}

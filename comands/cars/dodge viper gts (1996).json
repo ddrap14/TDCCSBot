@@ -1,0 +1,13 @@
+{
+    "rq": 67,
+    "make": ["Dodge"],
+    "model": "Viper GTS",
+    "modelYear": 1996,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909002559535083550/Dodge_Viper_GTS_SR_II_96_2.png",
+    "creator": "Crayola"
+}

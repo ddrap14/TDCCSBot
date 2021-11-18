@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["Bentley"],
+    "model": "Bentayga Pikes Peak",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Luxury" , "Limited Edition" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909013839092281344/BentleyBentaygaPikesPeak.png",
+    "creator": "Crossfire"
+}

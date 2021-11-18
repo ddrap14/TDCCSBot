@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Chevrolet"],
+    "model": "Colorado ZR2 Race Truck",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Nevaeh"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909133776544727100/1636428512309.png",
+    "creator": "Nevaeh"
+}

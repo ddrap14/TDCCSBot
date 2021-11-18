@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["Bentley"],
+    "model": "Continental GT Speed",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Supercar" , "Crossfire"],
+    "bodyStyle": "",
+    "fuelType": "Petrol",
+    "card": "",
+    "creator": ""
+}

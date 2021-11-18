@@ -1,0 +1,13 @@
+{
+    "rq": 80,
+    "make": ["Bentley"],
+    "model": "Continental GT V8",
+    "modelYear": 2019,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908839668592836628/BentleyContinentalGTV8.png",
+    "creator": "Crossfire"
+}

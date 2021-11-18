@@ -1,0 +1,13 @@
+{
+    "rq": 56,
+    "make": ["Mini"],
+    "model": "John Cooper Works",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "FWD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909436399105749063/MINIJohnCooperWorks2021.png",
+    "creator": "Crossfire"
+}

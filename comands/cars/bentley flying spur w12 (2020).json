@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["Bentley"],
+    "model": "Flying Spur W12",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908839782954696714/BentleyFlyingSpurW12.png",
+    "creator": "Crossfire"
+}

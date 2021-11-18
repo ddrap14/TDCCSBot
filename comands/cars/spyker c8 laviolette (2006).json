@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Spyker"],
+    "model": "C8 Laviolette",
+    "modelYear": 2006,
+    "country": "NL",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "ImSoupra"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909223978495778876/Spyker_C8_Laviolette_2006.png",
+    "creator": "ImSoupra"
+}

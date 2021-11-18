@@ -1,0 +1,13 @@
+{
+    "rq": 29,
+    "make": ["Shelby" , "Ford"],
+    "model": "GT350",
+    "modelYear": 1967,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Tuner" , "ImSoupra"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909223047221895228/Shelby_GT350_1967.png",
+    "creator": "ImSoupra"
+}

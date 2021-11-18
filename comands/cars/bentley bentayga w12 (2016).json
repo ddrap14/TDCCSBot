@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["Bentley"],
+    "model": "Bentayga W12",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Luxury" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909013921371934720/BentleyBentaygaW122016.png",
+    "creator": "Crossfire"
+}

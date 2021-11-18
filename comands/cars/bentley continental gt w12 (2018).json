@@ -1,0 +1,13 @@
+{
+    "rq": 83,
+    "make": ["Bentley"],
+    "model": "Continental GT W12",
+    "modelYear": 2018,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908839712066793492/BentleyContinentalGTW12.png",
+    "creator": "Crossfire"
+}

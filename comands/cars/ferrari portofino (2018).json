@@ -1,0 +1,13 @@
+{
+    "rq": 84,
+    "make": ["Ferrari"],
+    "model": "Portofino",
+    "modelYear": 2018,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909191548699291769/FerrariPortofino.png",
+    "creator": "Crossfire"
+}

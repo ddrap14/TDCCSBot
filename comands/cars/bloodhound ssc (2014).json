@@ -1,0 +1,13 @@
+{
+    "rq": 100,
+    "make": ["Bloodhound"],
+    "model": "SSC",
+    "modelYear": 2014,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "GAAN919"],
+    "bodyStyle": "WTF",
+    "fuelType": "Jet",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908826629822902272/Bloodhound_SSC.png",
+    "creator": "GAAN919"
+}

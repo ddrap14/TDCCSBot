@@ -1,0 +1,13 @@
+{
+    "rq": 55,
+    "make": ["Bentley"],
+    "model": "Mulsanne",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909191351592161351/BentleyMulsanne2016.png",
+    "creator": "Crossfire"
+}
