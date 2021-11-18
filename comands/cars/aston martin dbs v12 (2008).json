@@ -1,0 +1,13 @@
+{
+    "rq": 68,
+    "make": ["Aston Martin"],
+    "model": "DBS V12",
+    "modelYear": 2008,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Star Cars" , "ImSoupra"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/887379360271704144/Aston_Martin_DBS_V12_2008.png",
+    "creator": "ImSoupra"
+}
