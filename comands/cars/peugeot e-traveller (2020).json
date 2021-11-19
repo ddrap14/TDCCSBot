@@ -1,0 +1,13 @@
+{
+    "rq": 15,
+    "make": ["Peugeot"],
+    "model": "e-Traveller",
+    "modelYear": 2020,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Johnny4388"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/775450944997425192/Peugeot-e-Traveller.png",
+    "creator": "Johnny4388"
+}

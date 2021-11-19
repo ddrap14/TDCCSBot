@@ -1,0 +1,13 @@
+{
+    "rq": 40,
+    "make": ["Peugeot"],
+    "model": "308 GT HYBRID",
+    "modelYear": 2022,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/906294059751071764/Peugeot308GTHYBRID.png",
+    "creator": "Crossfire"
+}
