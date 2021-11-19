@@ -1,0 +1,13 @@
+{
+    "rq": 36,
+    "make": ["Toyota"],
+    "model": "Hilux",
+    "modelYear": 2010,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "DerpP"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/909915061261316136/hiux_7.png",
+    "creator": "DerpP"
+}
