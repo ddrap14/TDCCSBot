@@ -6,8 +6,8 @@
     "country": "GB",
     "driveType": "RWD",
     "tags": ["Supercar" , "SidewaysReaction"],
-    "bodyStyle": "",
+    "bodyStyle": "Coupe",
     "fuelType": "Petrol",
-    "card": "",
-    "creator": ""
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/882790350983430174/db5cannonball.png",
+    "creator": "SidewaysReaction"
 }
