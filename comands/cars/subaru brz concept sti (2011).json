@@ -1,0 +1,13 @@
+{
+    "rq": 42,
+    "make": ["Subaru"],
+    "model": "BRZ Concept STI",
+    "modelYear": 2011,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911080668644126811/Subaru_BRZ_Concept_STI_11.png",
+    "creator": "Crayola"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["Reliant"],
+    "model": "Sabre 6 Coupe",
+    "modelYear": 1962,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Commander Theopro"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911113927843254302/Reliant_Sabre_6_Coupe.png",
+    "creator": "Commander Theopro"
+}

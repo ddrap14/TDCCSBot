@@ -1,0 +1,68 @@
+{
+	"packName": "Hybrid Car Pack",
+	"description": "Guaranteed to have one Super Rare! All cards are hybrid powered.",
+	"pack": "https://cdn.discordapp.com/attachments/871903014305292298/911002579499098142/hybrid2.png",
+	"repetition": 1,
+
+	"filter": {
+		"make": "None",
+		"modelYear": {
+			"start": 1000,
+			"end": 3000
+		},
+		"country": "None",
+		"tags": "None",
+        "driveType": "None",
+        "tyreType": "None",
+        "fuelType": "Hybrid",
+        "bodyStyle": "None"
+	},
+
+	"packSequence": [
+		{
+			"common": 50,
+			"uncommon": 50,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 50,
+			"rare": 50,
+			"superRare": 0,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 50,
+			"superRare": 50,
+			"ultraRare": 0,
+			"epic": 0,
+			"legendary": 0
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 80,
+			"ultraRare": 15,
+			"epic": 4,
+			"legendary": 1
+		},
+		{
+			"common": 0,
+			"uncommon": 0,
+			"rare": 0,
+			"superRare": 0,
+			"ultraRare": 80,
+			"epic": 18,
+			"legendary": 2
+		}
+	]
+}

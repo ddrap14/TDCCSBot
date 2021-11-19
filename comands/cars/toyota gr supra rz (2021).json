@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Toyota"],
+    "model": "GR Supra RZ",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Supra1UZ"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911141505366892604/you_are_not_allowed_to_see_the_car.png",
+    "creator": "Supra1UZ"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 92,
+    "make": ["McLaren"],
+    "model": "Speedtail",
+    "modelYear": 2020,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Supra1UZ"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911056011085873192/speedy_boi.png",
+    "creator": "Supra1UZ"
+}

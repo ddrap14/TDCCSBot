@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Lexus"],
+    "model": "LC 500 Convertible",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Supra1UZ"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911059378629664808/lc_500_convertible_my_beloved.png",
+    "creator": "Supra1UZ"
+}

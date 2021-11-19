@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["Suzuki"],
+    "model": "Ignis 1.2 Dualjet Hybrid ALLGRIP",
+    "modelYear": 2020,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Everyday Heroes" , "Macan"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/787086795074437190/Ignis_1.2_Dualjet_Hybrid_ALLGRIP_20.png",
+    "creator": "Macan"
+}

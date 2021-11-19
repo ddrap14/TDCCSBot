@@ -1,0 +1,13 @@
+{
+    "rq": 65,
+    "make": ["Lexus"],
+    "model": "IS 500 F Sport Performance",
+    "modelYear": 2022,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Super Sedan" , "Luxury" , "Supra1UZ"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911056482143989791/2022_lexus_is_50_f_sport_performance_324897p52378945.png",
+    "creator": "Supra1UZ"
+}

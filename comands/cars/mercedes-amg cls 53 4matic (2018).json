@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "CLS 53 4MATIC+",
+    "modelYear": 2018,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Supra1UZ"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911052420539351050/2018_mercedes_amg_CLS_53_4MATIC_53.png",
+    "creator": "Supra1UZ"
+}

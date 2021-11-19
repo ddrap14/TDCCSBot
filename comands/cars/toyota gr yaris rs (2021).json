@@ -1,0 +1,13 @@
+{
+    "rq": 33,
+    "make": ["Toyota"],
+    "model": "GR Yaris RS",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Supra1UZ"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911054144444444682/2021_toyota_GR_Yaris_RS.png",
+    "creator": "Supra1UZ"
+}

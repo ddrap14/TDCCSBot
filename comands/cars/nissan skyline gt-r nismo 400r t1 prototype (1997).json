@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Nissan"],
+    "model": "Skyline GT-R Nismo 400R T1 Prototype",
+    "modelYear": 1997,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Tuner" , "Concept" , "Supercar" , "Supra1UZ"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911054536309878844/nissan_boyo.png",
+    "creator": "Supra1UZ"
+}

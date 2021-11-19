@@ -1,0 +1,13 @@
+{
+    "rq": 96,
+    "make": ["Aston Martin"],
+    "model": "Vulcan",
+    "modelYear": 2016,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Concept" , "Supra1UZ"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911057130654683236/vulcan.png",
+    "creator": "Supra1UZ"
+}

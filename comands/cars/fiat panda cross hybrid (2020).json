@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Fiat"],
+    "model": "Panda Cross Hybrid",
+    "modelYear": 2020,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Macan"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/787086930978013224/Panda_Cross_Hybrid_20.png",
+    "creator": "Macan"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 67,
+    "make": ["Porsche"],
+    "model": "911 Carrera RS Club Sport",
+    "modelYear": 1995,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supra1UZ"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911053851338096740/1995_porsche_911_Carrera_RS_Club_Sport_124312.png",
+    "creator": "Supra1UZ"
+}

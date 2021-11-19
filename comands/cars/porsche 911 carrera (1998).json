@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Porsche"],
+    "model": "911 Carrera",
+    "modelYear": 1998,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Supra1UZ"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911060390249639946/sally_but_grey.png",
+    "creator": "Supra1UZ"
+}

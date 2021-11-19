@@ -1,0 +1,13 @@
+{
+    "rq": 61,
+    "make": ["Toyota"],
+    "model": "Century",
+    "modelYear": 2018,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Supra1UZ"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911060316627021834/fat_boy.png",
+    "creator": "Supra1UZ"
+}

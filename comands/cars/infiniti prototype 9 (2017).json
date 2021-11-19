@@ -1,0 +1,13 @@
+{
+    "rq": 40,
+    "make": ["Infiniti"],
+    "model": "Prototype 9",
+    "modelYear": 2017,
+    "country": "JP",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "Concept" , "Motorsport" , "Supra1UZ"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911053997660573792/2017_infiniti_Prototype_9_1423134.png",
+    "creator": "Supra1UZ"
+}

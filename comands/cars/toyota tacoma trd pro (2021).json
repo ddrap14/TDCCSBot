@@ -1,0 +1,13 @@
+{
+    "rq": 64,
+    "make": ["Toyota"],
+    "model": "Tacoma TRD Pro",
+    "modelYear": 2021,
+    "country": "JP",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Supra1UZ"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911056327239946311/2021_taco_pro.png",
+    "creator": "Supra1UZ"
+}
