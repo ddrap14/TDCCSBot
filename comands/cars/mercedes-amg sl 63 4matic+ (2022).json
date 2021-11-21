@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["Mercedes-AMG"],
+    "model": "SL 63 4MATIC+",
+    "modelYear": 2022,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908421954745298974/MercedesAMGSL634MATIC.png",
+    "creator": "Crossfire"
+}

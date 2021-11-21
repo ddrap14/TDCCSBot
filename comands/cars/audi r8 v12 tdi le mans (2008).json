@@ -1,0 +1,13 @@
+{
+    "rq": 81,
+    "make": ["Audi"],
+    "model": "R8 V12 TDi Le Mans",
+    "modelYear": 2008,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Supercar" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911748458011062342/Audi_R8_V12_TDI_Le_Mans_08.png",
+    "creator": "Crayola"
+}

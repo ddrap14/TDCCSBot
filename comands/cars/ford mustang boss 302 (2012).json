@@ -1,0 +1,13 @@
+{
+    "rq": 66,
+    "make": ["Ford"],
+    "model": "Mustang Boss 302",
+    "modelYear": 2012,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "Limited Edition" , "The_WarDog_3"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911693083115155506/Boss-302.png",
+    "creator": "The_WarDog_3"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["Porsche"],
+    "model": "911 GT2",
+    "modelYear": 2002,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Supercar" , "The_WarDog_3"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911692931218423888/911-GT2.png",
+    "creator": "The_WarDog_3"
+}

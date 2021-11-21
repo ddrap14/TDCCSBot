@@ -1,0 +1,13 @@
+{
+    "rq": 37,
+    "make": ["Ford"],
+    "model": "Mustang 428 Cobra Jet",
+    "modelYear": 1968,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "The_WarDog_3"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911692333584625734/68_CJ.png",
+    "creator": "The_WarDog_3"
+}

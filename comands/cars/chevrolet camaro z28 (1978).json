@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["Chevrolet"],
+    "model": "Camaro Z28",
+    "modelYear": 1978,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Muscle Car" , "The_WarDog_3"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911692639529758800/78_Z28.png",
+    "creator": "The_WarDog_3"
+}

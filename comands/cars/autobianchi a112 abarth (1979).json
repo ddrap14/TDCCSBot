@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Autobianchi" , "Abarth"],
+    "model": "A112 Abarth",
+    "modelYear": 1979,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Tuner" , "Commander Theopro"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911588554067550238/Autobianchi_A112_Abarth_Archived.png",
+    "creator": "Commander Theopro"
+}

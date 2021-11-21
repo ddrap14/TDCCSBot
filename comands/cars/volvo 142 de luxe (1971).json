@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Volvo"],
+    "model": "142 De Luxe",
+    "modelYear": 1971,
+    "country": "SE",
+    "driveType": "RWD",
+    "tags": ["Commander Theopro"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911566645623939072/Volvo_142_De_Luxe.png",
+    "creator": "Commander Theopro"
+}

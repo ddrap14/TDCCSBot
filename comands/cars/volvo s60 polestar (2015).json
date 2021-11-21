@@ -1,0 +1,13 @@
+{
+    "rq": 76,
+    "make": ["Volvo"],
+    "model": "S60 Polestar",
+    "modelYear": 2015,
+    "country": "SE",
+    "driveType": "4WD",
+    "tags": ["Super Sedan" , "Commander Theopro"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911566327603404830/Volvo_S60_Polestar.png",
+    "creator": "Commander Theopro"
+}

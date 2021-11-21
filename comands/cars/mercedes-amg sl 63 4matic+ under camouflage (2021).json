@@ -1,0 +1,13 @@
+{
+    "rq": 85,
+    "make": ["Mercedes-AMG"],
+    "model": "SL 63 4MATIC+ 'Under Camouflage'",
+    "modelYear": 2021,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Concept" , "Crossfire"],
+    "bodyStyle": "Convertible",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908422019832479835/MercedesAMGSL634MATICundercamouflage.png",
+    "creator": "Crossfire"
+}

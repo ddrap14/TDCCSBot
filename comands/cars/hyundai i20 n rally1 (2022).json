@@ -1,0 +1,13 @@
+{
+    "rq": 87,
+    "make": ["Hyundai"],
+    "model": "i20 N Rally1",
+    "modelYear": 2022,
+    "country": "KR",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Motorsport" , "Concept" , "Misopasko"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Hybrid",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908318385379639296/Hyundai_i20_N_Rally1_FT.png",
+    "creator": "Misopasko"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 86,
+    "make": ["BMW"],
+    "model": "Z4 GT3",
+    "modelYear": 2014,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Crossfire"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908027227017478154/BMWZ4GT3.png",
+    "creator": "Crossfire"
+}

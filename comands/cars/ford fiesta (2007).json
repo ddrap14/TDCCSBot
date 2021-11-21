@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["Ford"],
+    "model": "Fiesta",
+    "modelYear": 2007,
+    "country": "GB",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Valou"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908362136093327440/1636637331251.jpg",
+    "creator": "Valou"
+}

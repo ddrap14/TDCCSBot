@@ -1,0 +1,13 @@
+{
+    "rq": 11,
+    "make": ["Nissan"],
+    "model": "Be-1",
+    "modelYear": 1987,
+    "country": "JP",
+    "driveType": "FWD",
+    "tags": ["Oddball" , "Childish"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908493602269835294/image.png",
+    "creator": "Childish"
+}

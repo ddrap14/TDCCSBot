@@ -1,0 +1,13 @@
+{
+    "rq": 77,
+    "make": ["Dodge"],
+    "model": "Viper GTS-R Concept",
+    "modelYear": 2000,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911748525321252935/Dodge_Viper_GTS-R_Concept_00.png",
+    "creator": "Crayola"
+}

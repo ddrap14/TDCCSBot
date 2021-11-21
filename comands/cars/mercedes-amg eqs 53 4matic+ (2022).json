@@ -1,0 +1,13 @@
+{
+    "rq": 78,
+    "make": ["Mercedes-AMG" , "Mercedes-Benz"],
+    "model": "EQS 53 4MATIC+",
+    "modelYear": 2022,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/908422109531877447/MercedesAMGEQS534MATIC.png",
+    "creator": "Crossfire"
+}
