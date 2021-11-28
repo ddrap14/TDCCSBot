@@ -1,0 +1,13 @@
+{
+    "rq": 24,
+    "make": ["Mercedes-Benz"],
+    "model": "300SL Roadster",
+    "modelYear": 1957,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Luxury" , "Johnny4388"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912109125700321290/Mercedes-Benz-300SL-Roadster.png",
+    "creator": "Johnny4388"
+}

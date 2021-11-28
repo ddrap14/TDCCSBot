@@ -1,0 +1,13 @@
+{
+    "rq": 74,
+    "make": ["Abarth" , "Fiat"],
+    "model": "124 Rally",
+    "modelYear": 2019,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Concept" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912547198129045534/Abarth_124_Rally_19_3.png",
+    "creator": "Crayola"
+}

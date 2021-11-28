@@ -1,0 +1,13 @@
+{
+    "rq": 89,
+    "make": ["Bentley"],
+    "model": "Continental GT3 Pikes Peak",
+    "modelYear": 2021,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Concept" , "Oddball" , "GAAN919"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912887023138906172/Bentley_Continental_GT3_Pikes_Peak_2.png",
+    "creator": "GAAN919"
+}

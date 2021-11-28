@@ -1,0 +1,13 @@
+{
+    "rq": 79,
+    "make": ["Aston Martin"],
+    "model": "DBX Straight-Six",
+    "modelYear": 2022,
+    "country": "GB",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Luxury" , "Bnuuy"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912002458136477696/DBXS6.png",
+    "creator": "Bnuuy"
+}

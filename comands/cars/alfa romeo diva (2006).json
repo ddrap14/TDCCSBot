@@ -1,0 +1,13 @@
+{
+    "rq": 59,
+    "make": ["Alfa Romeo"],
+    "model": "Diva",
+    "modelYear": 2006,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Concept" , "No_One"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911943299152093194/AlfaRomeoDiva2006_59.png",
+    "creator": "No_One"
+}

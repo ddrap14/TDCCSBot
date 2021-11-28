@@ -1,0 +1,13 @@
+{
+    "rq": 90,
+    "make": ["Renault"],
+    "model": "Espace F1",
+    "modelYear": 1994,
+    "country": "FR",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Concept" , "Oddball" , "Corentin"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912284554105090098/Renault_Espace_F1_1994_1.png",
+    "creator": "Corentin"
+}

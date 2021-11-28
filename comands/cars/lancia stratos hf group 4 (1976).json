@@ -1,0 +1,13 @@
+{
+    "rq": 63,
+    "make": ["Lancia"],
+    "model": "Stratos HF Group 4",
+    "modelYear": 1976,
+    "country": "IT",
+    "driveType": "RWD",
+    "tags": ["Motorsport" , "Offroad" , "Fiero"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/911795694845714432/PicsArt_11-21-09.10.00.jpg",
+    "creator": "Fiero"
+}

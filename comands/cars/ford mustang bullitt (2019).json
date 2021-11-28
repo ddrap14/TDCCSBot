@@ -1,0 +1,13 @@
+{
+    "rq": 71,
+    "make": ["Ford"],
+    "model": "Mustang Bullitt",
+    "modelYear": 2019,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Limited Edition" , "Muscle Car" , "Supra1UZ"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912546609198399489/steve_mcqueen.png",
+    "creator": "Supra1UZ"
+}

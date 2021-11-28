@@ -1,0 +1,13 @@
+{
+    "rq": 88,
+    "make": ["Lotus"],
+    "model": "Elan Concept",
+    "modelYear": 2010,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Concept" , "Supercar" , "Corentin"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912284605388845076/Lotus_Elan_Concept_2010_2.png",
+    "creator": "Corentin"
+}

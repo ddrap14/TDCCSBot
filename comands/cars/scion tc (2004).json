@@ -1,0 +1,13 @@
+{
+    "rq": 35,
+    "make": ["Scion"],
+    "model": "tC",
+    "modelYear": 2004,
+    "country": "US",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912559533493215252/Scion_tC_04.png",
+    "creator": "Crayola"
+}

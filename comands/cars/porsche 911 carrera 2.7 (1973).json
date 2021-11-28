@@ -1,0 +1,13 @@
+{
+    "rq": 31,
+    "make": ["Porsche"],
+    "model": "911 Carrera 2.7",
+    "modelYear": 1973,
+    "country": "DE",
+    "driveType": "RWD",
+    "tags": ["Supercar" , "Green Partyhat"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912201482772832296/1973_Porsche_911_Carrera_2.7.png",
+    "creator": "Green Partyhat"
+}

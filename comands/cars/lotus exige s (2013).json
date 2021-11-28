@@ -1,0 +1,13 @@
+{
+    "rq": 75,
+    "make": ["Lotus"],
+    "model": "Exige snip",
+    "modelYear": 2013,
+    "country": "GB",
+    "driveType": "RWD",
+    "tags": ["Crayola"],
+    "bodyStyle": "Coupe",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912577338263339078/Lotus_Exige_S_13.png",
+    "creator": "Crayola"
+}

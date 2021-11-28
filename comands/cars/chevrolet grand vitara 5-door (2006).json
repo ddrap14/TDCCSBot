@@ -1,0 +1,13 @@
+{
+    "rq": 34,
+    "make": ["Chevrolet"],
+    "model": "Grand Vitara 5-Door",
+    "modelYear": 2006,
+    "country": "EC",
+    "driveType": "4WD",
+    "tags": ["Offroad" , "Everyday Heroes" , "Nevaeh"],
+    "bodyStyle": "SUV",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912536791863656519/Egg.png",
+    "creator": "Nevaeh"
+}

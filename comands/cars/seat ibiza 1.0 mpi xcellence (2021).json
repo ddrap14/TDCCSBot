@@ -1,0 +1,13 @@
+{
+    "rq": 18,
+    "make": ["Seat"],
+    "model": "Ibiza 1.0 MPI Xcellence",
+    "modelYear": 2021,
+    "country": "ES",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "No_One"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/912032407337721876/SEATIbiza1.0MPIXcellence2021_18.png",
+    "creator": "No_One"
+}
