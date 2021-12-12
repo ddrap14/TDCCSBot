@@ -1,0 +1,13 @@
+{
+    "rq": 27,
+    "make": ["Peugeot"],
+    "model": "e-2008 GT",
+    "modelYear": 2019,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "SUV",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/918879703618703390/Peugeote2008GT.png",
+    "creator": "Crossfire"
+}

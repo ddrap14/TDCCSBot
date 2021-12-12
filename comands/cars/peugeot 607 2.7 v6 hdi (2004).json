@@ -1,0 +1,13 @@
+{
+    "rq": 30,
+    "make": ["Peugeot"],
+    "model": "607 2.7 V6 HDi",
+    "modelYear": 2004,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Luxury" , "Crossfire"],
+    "bodyStyle": "Sedan",
+    "fuelType": "Diesel",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/918946525437120513/Peugeot60727V6HDi.png",
+    "creator": "Crossfire"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 16,
+    "make": ["Peugeot"],
+    "model": "e-Partner",
+    "modelYear": 2021,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Minivan",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/918879780860993536/PeugeotePartner.png",
+    "creator": "Crossfire"
+}

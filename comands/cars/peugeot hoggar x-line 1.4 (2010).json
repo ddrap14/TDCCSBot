@@ -1,0 +1,13 @@
+{
+    "rq": 14,
+    "make": ["Peugeot"],
+    "model": "Hoggar X-Line 1.4",
+    "modelYear": 2010,
+    "country": "FR",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "Crossfire"],
+    "bodyStyle": "Utility",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/919242849415999488/PeugeotHoggarXLine14.png",
+    "creator": "Crossfire"
+}
