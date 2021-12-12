@@ -1,0 +1,13 @@
+{
+    "rq": 11,
+    "make": ["Tesla"],
+    "model": "Semi",
+    "modelYear": 2021,
+    "country": "US",
+    "driveType": "RWD",
+    "tags": ["Oddball" , "DodgeDemon"],
+    "bodyStyle": "Utility",
+    "fuelType": "Electric",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/799897821322280980/2021_Tesla_Semi.png",
+    "creator": "DodgeDemon"
+}

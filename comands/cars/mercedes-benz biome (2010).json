@@ -1,0 +1,13 @@
+{
+    "rq": 100,
+    "make": ["Mercedes-Benz"],
+    "model": "Biome",
+    "modelYear": 2010,
+    "country": "DE",
+    "driveType": "4WD",
+    "tags": ["Oddball" , "Concept" , "Keanny"],
+    "bodyStyle": "Coupe",
+    "fuelType": "BioNectar4534",
+    "card": "https://cdn.discordapp.com/attachments/421784438062579712/713609151082922044/mercedes-benz_biome.jpg",
+    "creator": "Keanny"
+}

@@ -1,0 +1,13 @@
+{
+    "rq": 32,
+    "make": ["Abarth" , "Fiat"],
+    "model": "500 EsseEsse",
+    "modelYear": 2008,
+    "country": "IT",
+    "driveType": "FWD",
+    "tags": ["Everyday Heroes" , "GAAN919"],
+    "bodyStyle": "Hatchback",
+    "fuelType": "Petrol",
+    "card": "https://cdn.discordapp.com/attachments/811403677709238282/917211143276200027/Abarth_500_EsseEsse_2-1.png",
+    "creator": "GAAN919"
+}
